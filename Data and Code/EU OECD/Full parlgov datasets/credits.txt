@@ -1,0 +1,103 @@
+Parliament and government composition database (ParlGov): 
+An infrastructure for empirical information on parties, elections and governments in modern democracies.
+
+Version 12/10 -- 15 October 2012
+
+
+ParlGov contributors
+
+Please note that institutional affiliations refer to the respective institution researchers were located at the time of contributing to the project.
+
+
+Project leaders
+-----------------------
+
+* Holger Döring 2005-|Year|
+* Philip Manow 2004-|Year|
+
+
+Institutional affiliation
+--------------------------
+
+* University of Bremen, Centre for Social Policy Research (ZeS) 2010-|Year|
+* European University Institute (EUI) 2009-2010
+* University of Heidelberg 2009-2010
+* University of Konstanz 2007-2009
+* Max Planck Institute for the Study of Societies (MPIfG) 2004-2007
+
+
+Major contributors
+------------------------------
+
+* Jan Biesenbender (University of Konstanz) 2008-2010
+* Jonathan Bright (European University Institute) 2011-2012
+* Dominic Heinze (MPIfG and University of Bonn) 2006-2007
+* Jens Hoffmeister (underline webdesign Berlin)  2010
+* Conor Little (European University Institute) 2011-2012
+* Valentin Schröder (University of Bremen) 2010-|Year|
+* Mathias Steudtner (Mittweida) 2007-2008
+* Hendrik Zorn (MPIfG) 2004
+
+
+Contributors
+----------------------------
+
+We would like to thank the following people for contributing support, ideas, and encouragement.
+
+* Hanna Bäck  (University of Mannheim) 2010-2012
+* Micha Bächle (University of Konstanz) 2009
+* Florian Beyer (University of Konstanz) 2008-2009
+* Christian Breunig (MPIfG and University of Seattle) 2006-2008
+* Lars Brückner (University of Bremen) 2010
+* Mihail Chiru (Central European University) 2012
+* Patrick Dumont (University of Luxembourg) 2010-2012
+* Sebastian Eppner (University of Potsdam) 2009-|Year|
+* Timm Frerk (University of Bremen) 2011-2012
+* Fabio Franchino (University of Milan) 2008-2010
+* Mark Franklin (European University Institute) 2009-2010
+* Simon Franzmann (University of Cologne) 2006-|Year|
+* Johannes Freudenreich (University of Potsdam) 2009-|Year|
+* Steffen Ganghof (MPIfG and University of Potsdam) 2005-|Year|
+* Diego Garzia (University of Siena) 2011
+* Aline Grünewald  (University of Bremen) 2011
+* Frank Henze (Brandenburg Technical University of Cottbus) 2005-|Year|
+* Johan Hellström (University of Umeå) 2009-|Year|
+* Bjørn Høyland (University of Oslo) 2009
+* Sebastian Hübers (MPIfG and University of Tübingen) 2006
+* Sebastian Jäckle (University of Freiburg) 2011
+* Alexia Katsanidou (GESIS Cologne) 2011
+* Johannes Kleibl (University of Essex) 2010
+* Jürgen Lautwein (MPIfG) 2007
+* Volker Lindhauer (University of Bremen) 2011
+* Georg Lutz (University of Lausanne) 2012
+* Mikko Mattila (University of Helsinki) 2009
+* Peter Mair (European University Institute) 2009-2010
+* Quinton Mayne (European University Institute) 2009-2010
+* Monika Mühlböck (IHS Vienna) 2009-2010
+* Sinziana Popa (MPIfG and Duke University) 2007
+* Phillip Rehm (WZB and Duke University) 2007 
+* Jan Rose (Berlin) 2005-|Year|
+* Armin Schäfer (MPIfG) 2005-2007
+* Madeleine Schneider (Swiss Federal Statistical Office) 2012
+* Julia Sievers (University of Bremen) 2006-|Year|
+* Paweł Szczerbak (Heidelberg University) 2010-2011
+* Guido Thiemann (IHS Vienna) 2006-|Year|
+* Alexander Trechsel (European University Institute) 2009-|Year|
+* Luca Verzichelli (University of Siena) 2007-|Year|
+* Nina Wiesehomeier (Institute of Social Sciences, University of Lisbon) 2008-|Year|
+
+
+Open source software
+---------------------------------------
+
+* Python and BeautifulSoup, Django, Febrl, Trac
+* R and RSQLite
+* SQLite and SQLite Manager
+
+
+Icons and pictures
+---------------------------------------
+
+* Famfamfam flag and silk icons
+* Wikimedia Commons
+

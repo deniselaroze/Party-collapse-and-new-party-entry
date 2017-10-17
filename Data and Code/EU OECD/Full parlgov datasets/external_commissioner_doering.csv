@@ -1,0 +1,252 @@
+id,country_id,commission_year,commission_name,person_id,person_id_source,start_date,end_date,incumbent,one_seat,party_id,government_party,president,portfolio,elected,score_position,highest_position,data_source,comment,previous_cabinet_id
+1,26,1958,Hallstein I,4616,"Caron, Giuseppe",1959-12-09,1962-01-09,0,0,1633,0,0,internal market,1,0.46,junior minister civilian aviation,doering,,372
+2,54,1958,Hallstein I,16293,"Groeben, Hans von der",1958-01-10,1962-01-09,0,0,808,0,0,competition,0,0.2,diplomat,doering,,793
+3,43,1958,Hallstein I,12874,"Lemaignen, Robert",1958-01-10,1962-01-09,0,0,947,1,0,overseas countries and territories,0,0.2,vice president of the French employers federation,doering,Lemaignen had been the vice-president of the French employers federation http://www.fep.up.pt/investigacao/seminarios/04.10.15_Maes.pdf; maj_party missing,458
+4,26,1958,Hallstein I,14658,"Levi Sandri, Lionello",1961-02-22,1962-01-09,0,0,1475,1,0,social affairs,0,0.2,party elite (no outstanding position),doering,,810
+5,26,1958,Hallstein I,366,"Malvestiti, Piero",1958-01-10,1959-10-15,0,0,1633,0,0,internal market,1,0.87,minister industry and trade,doering,,280
+6,8,1958,Hallstein I,11499,"Mansholt, Sicco Leendert",1958-01-10,1962-01-09,0,1,742,0,0,agriculture,1,0.74,minister agriculture,doering,,761
+7,43,1958,Hallstein I,12005,"Marjolin, Robert",1958-01-10,1962-01-09,0,0,1539,0,0,economic and financial affairs,0,0.2,head of cabinet for minister of foreign affairs,doering,"adviser to socialist minister, socialist candidate in 1962 election",458
+8,26,1958,Hallstein I,584,"Petrilli, Giuseppe",1958-01-10,1961-02-08,0,0,1633,0,0,social affairs,0,0.2,president of national schools for social policy,doering,,280
+9,64,1958,Hallstein I,801,"Rey, Jean",1958-01-10,1962-01-09,0,1,63,0,0,external affairs,1,1.02,minister economic affairs,doering,,745
+10,7,1958,Hallstein I,4128,"Schaus, Lambert",1958-01-10,1962-01-09,0,1,1234,0,0,,1,1.07,minister economy and defense,doering,,500
+11,54,1958,Hallstein I,2737,"Hallstein, Walter",1958-01-10,1962-01-09,0,0,808,0,1,president,1,0.84,junior minister foreign affairs,doering,,793
+13,54,1962,Hallstein II,16293,"Groeben, Hans von der",1962-01-10,1967-07-05,1,0,808,0,0,competition,0,0.2,diplomat,doering,,62
+14,26,1962,Hallstein II,14658,"Levi Sandri, Lionello",1962-01-10,1967-07-05,1,0,1475,1,0,social affairs,0,0.2,party elite (no outstanding position),doering,,810
+15,8,1962,Hallstein II,11499,"Mansholt, Sicco Leendert",1962-01-10,1967-07-05,1,1,742,1,0,agriculture,1,0.74,minister agriculture,doering,,694
+16,43,1962,Hallstein II,12005,"Marjolin, Robert",1962-01-10,1967-07-05,1,0,1539,1,0,economic and financial affairs,0,0.2,head of cabinet for minister of foreign affairs,doering,"adviser to socialist minister, socialist candidate in 1962 election",692
+17,26,1962,Hallstein II,14467,"Paliano, Guido Colonna Di",1964-09-09,1967-07-05,0,0,1552,0,0,industry,0,0.2,ambassador. vice general secretary NATO,doering,Information provided by Fabio Franchino,705
+18,64,1962,Hallstein II,801,"Rey, Jean",1962-01-10,1967-07-05,1,1,63,1,0,external affairs,1,1.02,minister economic affairs,doering,,613
+19,43,1962,Hallstein II,7051,"Rochereau, Henri",1962-01-10,1967-07-05,0,0,947,0,0,development policy,1,1.24,minister agriculture,doering,Munzinger gives no party information. though he was member of a government. I gave him the party score of the government he was a member of.,692
+20,7,1962,Hallstein II,4128,"Schaus, Lambert",1962-01-10,1967-07-05,1,1,1234,0,0,,1,1.07,minister economy and defense,doering,,832
+21,54,1962,Hallstein II,2737,"Hallstein, Walter",1962-01-10,1967-07-05,1,0,808,0,1,president,1,0.84,junior minister foreign affairs,doering,,62
+12,26,1962,Hallstein II,4616,"Caron, Giuseppe",1962-01-10,1963-05-16,1,0,1633,0,0,internal market,1,0.46,junior minister civilian aviation,doering,,810
+22,43,1967,Rey,7144,"Barre, Raymond",1967-07-06,1970-06-30,0,0,947,1,0,economic affairs,0,0.2,professor,doering,,662
+23,7,1967,Rey,6040,"Bodson, Victor",1967-07-06,1970-06-30,0,1,701,0,0,Transport policy,1,1.07,minister justice,doering,,491
+24,64,1967,Rey,8852,"Coppe, Albert",1967-07-06,1970-06-30,0,1,723,0,0,budget and finance,1,1.02,minister economy,doering,,353
+25,43,1967,Rey,9096,"Deniau, Jean-Francois",1967-07-06,1970-06-30,0,0,509,1,0,trade policy,0,0.2,bureaucrat,doering,Check when party UDF was established. Was he a member of it before going to the Commission?,662
+26,54,1967,Rey,16293,"Groeben, Hans von der",1967-07-06,1970-06-30,1,0,808,0,0,competition,0,0.2,diplomat,doering,,170
+27,54,1967,Rey,2142,"Haferkamp, Wilhelm",1967-07-06,1970-06-30,0,0,558,0,0,energy,1,0.2,member state assembly (NRW),doering,,170
+28,54,1967,Rey,13290,"Hellwig, Fritz",1967-07-06,1970-06-30,0,0,808,0,0,research,1,0.33,mep,doering,,170
+29,26,1967,Rey,14658,"Levi Sandri, Lionello",1967-07-06,1970-06-30,1,0,1475,0,0,social affairs,0,0.2,party elite (no outstanding position),doering,,433
+30,8,1967,Rey,11499,"Mansholt, Sicco Leendert",1967-07-06,1970-06-30,1,1,742,1,0,agriculture,1,0.74,minister agriculture,doering,,172
+31,26,1967,Rey,3980,"Martino, Edoardo",1967-07-06,1970-06-30,0,0,1633,0,0,External Affairs,1,0.46,junior minister foreign affairs,doering,,433
+32,26,1967,Rey,14467,"Paliano, Guido Colonna Di",1967-07-06,1970-06-30,1,0,1552,1,0,industry,0,0.2,ambassador. vice general secretary NATO,doering,Information provided by Fabio Franchino,433
+33,43,1967,Rey,7051,"Rochereau, Henri",1967-07-06,1970-06-30,1,0,947,0,0,development policy,1,1.24,minister agriculture,doering,Munzinger gives no party information. though he was member of a government. I gave him the party score of the government he was a member of.,662
+34,8,1967,Rey,12016,"Sassen, Emmanuel",1967-07-06,1970-06-30,0,1,451,0,0,competition,1,0.35,minister colonies. head of ep party group,doering,,172
+35,64,1967,Rey,801,"Rey, Jean",1967-07-06,1970-06-30,1,1,63,0,1,president,1,1.02,minister economic affairs,doering,,353
+36,43,1970,Malfatti/Manshold,7144,"Barre, Raymond",1970-07-01,1973-01-05,1,0,947,1,0,economic affairs,0,0.2,professor,doering,,111
+37,7,1970,Malfatti/Manshold,8219,"Borschette, Albert",1970-07-01,1973-01-05,0,1,1002,1,0,competition. regional policy,0,0.2,diplomat,doering,,101
+38,64,1970,Malfatti/Manshold,8852,"Coppe, Albert",1970-07-01,1973-01-05,1,1,723,0,0,budget and finance,1,1.02,minister economy,doering,,586
+39,54,1970,Malfatti/Manshold,6242,"Dahrendorf, Ralf",1970-07-01,1973-01-05,0,0,543,0,0,foreign trade and foreign affairs,1,0.82,junior minister foreign affairs,doering,,358
+40,43,1970,Malfatti/Manshold,9096,"Deniau, Jean-Francois",1970-07-01,1973-01-05,1,0,509,1,0,trade policy,0,0.2,bureaucrat,doering,Check when party UDF was established. Was he a member of it before going to the Commission?,111
+41,54,1970,Malfatti/Manshold,2142,"Haferkamp, Wilhelm",1970-07-01,1973-01-05,1,0,558,0,0,energy,1,0.2,member state assembly (NRW),doering,,358
+42,26,1970,Malfatti/Manshold,1158,"Scarascia-Mugnozza, Carlo",1972-03-22,1973-01-05,0,0,1633,0,0,agriculture,1,0.46,junior minister justice,doering,,398
+43,26,1970,Malfatti/Manshold,10089,"Spinelli, Altiero",1970-07-01,1973-01-05,0,0,1475,0,0,industry,0,0.2,adviser to foreign minister,doering,,113
+44,26,1970,Malfatti/Manshold,6848,"Malfatti, Franco Maria",1970-07-01,1972-03-21,0,0,1633,0,1,president,1,1.18,minister state participation in industry,doering,,113
+45,8,1970,Malfatti/Manshold,11499,"Mansholt, Sicco Leendert",1970-07-01,1973-01-05,1,1,742,1,1,agriculture,1,0.74,minister agriculture,doering,,172
+60,44,1973,Ortoli,7552,"Thomson, George Morgan",1973-01-06,1977-01-05,0,0,1556,1,0,regional policy,1,0.5,minister without portfolio,doering,,216
+61,7,1973,Ortoli,12256,"Vouel, Raymond",1976-07-20,1977-01-05,0,1,701,0,0,competition policy,1,1.53,vice prime minister and finance minister,doering,,655
+62,43,1973,Ortoli,4661,"Ortoli, Francois-Xavier",1973-01-06,1977-01-05,0,0,1094,0,1,president,1,1.92,minister economy and finance,doering,,430
+49,54,1973,Ortoli,6242,"Dahrendorf, Ralf",1973-01-06,1974-10-31,1,0,543,0,0,research/science and education,1,0.82,junior minister foreign affairs,doering,,871
+50,43,1973,Ortoli,9096,"Deniau, Jean-Francois",1973-01-06,1973-04-11,1,0,509,1,0,development aid/budgets and financial control.,0,0.2,bureaucrat,doering,Check when party UDF was established. Was he a member of it before going to the commission?,430
+52,21,1973,Ortoli,14835,"Gundelach, Finn Olav",1973-01-06,1977-01-05,0,1,1128,1,0,internal market/customs union,0,0.2,diplomat,doering,,320
+53,54,1973,Ortoli,2142,"Haferkamp, Wilhelm",1973-01-06,1977-01-05,1,0,558,0,0,economic/financial affairs. credit/investment,1,0.2,member state assembly (NRW),doering,,871
+54,37,1973,Ortoli,16552,"Hillery, Patrick J.",1973-01-06,1977-01-05,0,1,280,0,0,social affairs,1,1.46,minister foreign affairs,doering,,863
+55,8,1973,Ortoli,16291,"Lardinois, Petrus J.",1973-01-06,1977-01-05,0,1,451,0,0,Agriculture,1,0.74,minister agriculture,doering,,291
+56,26,1973,Ortoli,1158,"Scarascia-Mugnozza, Carlo",1973-01-06,1977-01-05,1,0,1633,0,0,environment consumer protection transport informat,1,0.46,junior minister justice,doering,,439
+57,64,1973,Ortoli,1047,"Simonet, Henri",1973-01-06,1977-01-05,0,1,167,0,0,taxation/financial institutions/energy/EURATOM,1,1.02,minister economy,doering,,448
+58,44,1973,Ortoli,8804,"Soames, Christopher",1973-01-06,1977-01-05,0,0,773,0,0,external relations,1,0.92,minister agriculture and fisheries,doering,,216
+59,26,1973,Ortoli,10089,"Spinelli, Altiero",1973-01-06,1976-07-01,1,0,1475,1,0,industry and technology,0,0.2,adviser to foreign minister,doering,,439
+46,7,1973,Ortoli,8219,"Borschette, Albert",1973-01-06,1976-12-08,1,1,1002,1,0,competition policy,0,0.2,diplomat,doering,,101
+47,54,1973,Ortoli,16418,"Brunner, Guido",1974-11-11,1977-01-05,0,0,543,0,0,energy. research/science and education,0,0.2,diplomat,doering,,252
+48,43,1973,Ortoli,5019,"Cheysson, Claude",1973-04-19,1977-01-05,0,0,1539,1,0,development aid/budgets and financial control.,0,0.2,bureaucrat,doering,adviser to the cabinet of Alain Savary (Socialist) and later a member of the Socialist party,607
+51,26,1973,Ortoli,12568,"Guazzaroni, Cesidio",1976-07-13,1977-01-05,0,0,1552,1,0,industry and technology,0,0.2,"Career diplomat, ambassador and top rank bureaucrat, expert, no specific party affiliation",doering,Information provided by Fabio Franchino,842
+63,54,1977,Jenkins,16418,"Brunner, Guido",1977-01-06,1980-11-04,1,0,543,0,0,research/science and education,0,0.2,diplomat,doering,,459
+64,37,1977,Jenkins,726,"Burke, Richard",1977-01-06,1981-01-05,0,1,1393,0,0,taxation/consumer affairs/transport/EP relations,1,1.19,minister education,doering,,315
+65,43,1977,Jenkins,5019,"Cheysson, Claude",1977-01-06,1981-01-05,1,0,1539,1,0,development aid,0,0.2,bureaucrat,doering,adviser to the cabinet of Alain Savary (Socialist) and later a member of the Socialist party,21
+66,64,1977,Jenkins,10947,"Davignon, Etienne",1977-01-06,1981-01-05,0,1,1458,1,0,internal market and industrial affairs,0,0.2,diplomat and bureaucrat,doering,,847
+67,26,1977,Jenkins,8614,"Giolitti, Antonio",1977-01-06,1981-01-05,0,0,1475,1,0,community funds and regional policy,1,0.98,minister budget and economic planning,doering,,140
+68,21,1977,Jenkins,14835,"Gundelach, Finn Olav",1977-01-06,1981-01-05,1,1,1128,1,0,agriculture and fisheries,0,0.2,diplomat,doering,,50
+69,54,1977,Jenkins,2142,"Haferkamp, Wilhelm",1977-01-06,1981-01-05,1,0,558,0,0,external relations,1,0.2,member state assembly (NRW),doering,,459
+70,26,1977,Jenkins,6114,"Natali, Lorenzo",1977-01-06,1981-01-05,0,0,1633,0,0,enlargement/environment protection/nuclear safety,1,0.83,minister agriculture,doering,,140
+71,43,1977,Jenkins,4661,"Ortoli, Francois-Xavier",1977-01-06,1981-01-05,1,0,1094,0,0,economics + finance/credits + investment/statistical office,0,1.92,minister economy and finance,doering,,21
+72,44,1977,Jenkins,5942,"Tugendhat, Christopher S.",1977-01-06,1981-01-05,0,0,773,1,0,budget a financial control. finacial institutions,1,0.33,mep,doering,,590
+73,7,1977,Jenkins,12256,"Vouel, Raymond",1977-01-06,1981-01-05,1,1,701,0,0,competition,1,1.53,vice prime minister and finance minister,doering,,655
+74,8,1977,Jenkins,14619,"Vredeling, Henk",1977-01-06,1981-01-05,0,1,742,0,0,employment/social affairs/Tripartite Conference,1,1.53,vice prime minister and Finance,doering,,765
+75,44,1977,Jenkins,4731,"Jenkins, Roy",1977-01-06,1981-01-05,0,0,1556,0,1,president,1,1.64,chancellor of the exchequer,doering,,590
+76,8,1981,Thorn,13160,"Andriessen, Frans",1981-01-06,1985-01-05,0,1,235,0,0,competition,0,2.02,minister finance,doering,,563
+77,37,1981,Thorn,726,"Burke, Richard",1982-04-01,1985-01-05,0,1,1393,0,0,taxation/consumer affairs/transport/EP relations,1,1.19,minister education,doering,time as commissioner was interrupted,54
+92,7,1981,Thorn,2048,"Thorn, Gaston",1981-01-06,1985-01-05,0,1,967,0,1,president,1,2.17,prime minister,doering,,27
+79,41,1981,Thorn,10590,"Contogeorgis, Georges",1981-01-06,1985-01-05,0,1,47,1,0,transport and fisheries,0,0.2,diplomat,doering,,531
+80,21,1981,Thorn,16571,"Dalsager, Poul",1981-01-20,1985-01-05,0,1,1629,0,0,agriculture,1,1.0,minister agriculture,doering,,379
+81,64,1981,Thorn,10947,"Davignon, Etienne",1981-01-06,1985-01-05,1,1,1458,1,0,internal market and industrial affairs/energy,0,0.2,diplomat and bureaucrat,doering,,453
+82,26,1981,Thorn,8614,"Giolitti, Antonio",1981-01-06,1985-01-05,1,0,1475,0,0,community funds and regional policy,1,0.98,minister budget and economic planning,doering,,464
+83,21,1981,Thorn,14835,"Gundelach, Finn Olav",1981-01-06,1981-01-13,1,1,1128,1,0,agriculture,0,0.2,diplomat,doering,,379
+84,54,1981,Thorn,2142,"Haferkamp, Wilhelm",1981-01-06,1985-01-05,1,0,558,0,0,external relations,1,0.2,member state assembly (NRW),doering,,343
+85,54,1981,Thorn,6286,"Narjes, Karl-Heinz",1981-01-06,1985-01-05,0,0,808,1,0,internal market/customs services+industrial innovation,0,0.33,mp,doering,,343
+86,26,1981,Thorn,6114,"Natali, Lorenzo",1981-01-06,1985-01-05,1,0,1633,0,0,enlargement/environment protection/nuclear safety,1,0.83,minister agriculture,doering,,464
+87,37,1981,Thorn,6073,"O'Kennedy, Michael",1981-01-06,1982-03-03,0,1,280,0,0,personnel and community budget,1,1.83,minister for foreign affairs and finance,doering,,442
+88,43,1981,Thorn,4661,"Ortoli, Francois-Xavier",1981-01-06,1984-10-26,1,0,1094,0,0,economics+finance/credits+investment/statistical office,0,1.92,minister economy and finance,doering,,771
+89,43,1981,Thorn,12643,"Pisani, Edgard",1981-01-06,1984-12-03,0,0,1539,1,0,development aid,1,1.24,minister agriculture,doering,,771
+90,44,1981,Thorn,3740,"Richard, Ivor",1981-01-06,1985-01-05,0,0,1556,1,0,social affairs,1,0.5,under secretary of state defence,doering,,273
+78,43,1981,Thorn,5019,"Cheysson, Claude",1981-01-06,1981-06-23,1,0,1539,1,0,development aid,0,0.2,bureaucrat,doering,adviser to the cabinet of Alain Savary (Socialist) and later a member of the Socialist party,771
+91,44,1981,Thorn,5942,"Tugendhat, Christopher S.",1981-01-06,1985-01-05,1,0,773,0,0,budget a financial control. finacial institutions,1,0.33,mep,doering,,273
+94,63,1985,Delors I,13398,"Cardoso e Cunha, Antonio",1986-01-01,1989-01-05,1,1,1273,0,0,fisheries,1,0.83,minister agriculture and fisheries,doering,,734
+95,43,1985,Delors I,5019,"Cheysson, Claude",1985-01-06,1989-01-05,1,0,1539,0,0,mediterranean policy and north-south relations,0,0.2,bureaucrat,doering,adviser to the cabinet of Alain Savary (Socialist) and later a member of the Socialist party,843
+96,21,1985,Delors I,6634,"Christophersen, Henning",1985-01-06,1989-01-05,0,1,1605,0,0,budget. financial control. personnel,1,1.88,minister finance,doering,,195
+93,8,1985,Delors I,13160,"Andriessen, Frans",1985-01-06,1989-01-05,1,1,235,0,0,agriculture. fisheries,0,2.02,minister finance,doering,,270
+98,44,1985,Delors I,16674,"Clinton Davis, Stanley",1985-01-06,1989-01-05,0,0,1556,1,0,environment. forests. transport,1,0.5,junior minister,doering,,646
+99,44,1985,Delors I,13788,"Cockfield, Francis A.",1985-01-06,1989-01-05,0,0,773,0,0,internal market. taxation. customs union,1,0.99,minister trade,doering,,646
+100,27,1985,Delors I,10937,"Marin, Manuel",1986-01-01,1989-01-05,0,0,902,0,0,social affairs and employment,1,0.5,junior minister relations to EC,doering,,238
+97,64,1985,Delors I,11859,"Clercq, Willy de",1985-01-06,1989-01-05,0,1,580,0,0,external relations. trade,1,1.35,minister finance,doering,,724
+102,7,1985,Delors I,9661,"Mosar, Nicolas",1985-01-06,1989-01-05,0,1,1234,0,0,energy. Euratom,1,0.33,mp -- secretary general of socialist party,doering,,175
+103,54,1985,Delors I,6286,"Narjes, Karl-Heinz",1985-01-06,1989-01-05,1,0,808,0,0,industry. it. research and science,1,0.33,mp,doering,,346
+104,26,1985,Delors I,6114,"Natali, Lorenzo",1985-01-06,1989-01-05,1,0,1633,0,0,development. enlargement,1,0.83,minister agriculture,doering,,334
+101,27,1985,Delors I,15606,"Matutes, Abel",1986-01-01,1989-01-05,0,0,645,1,0,small&medium businesses. investment policy,1,0.33,mp,doering,,238
+105,54,1985,Delors I,14842,"Pfeiffer, Alois",1985-01-06,1987-08-01,0,0,558,1,0,economic affairs. employment. credit + investment,0,0.2,union elite,doering,,346
+106,26,1985,Delors I,10310,"Ripa di Meana, Carlo",1985-01-06,1989-01-05,0,0,1475,0,0,institutional questions. information. culture,1,0.33,mep,doering,,334
+107,54,1985,Delors I,12760,"Schmidhuber, Peter",1987-09-22,1989-01-05,0,0,1180,0,0,economic affairs. employment. credit + investment,1,0.2,state junior minister in Bavaria,doering,,286
+108,37,1985,Delors I,12520,"Sutherland, Peter D.",1985-01-06,1989-01-05,0,1,1393,0,0,competition. social affairs,1,0.9,attorney general,doering,,867
+109,41,1985,Delors I,9086,"Varfis, Grigorios",1985-01-06,1989-01-05,0,1,1338,0,0,regional policy. relations with parliament,1,0.5,deputy foreign minister,doering,no party information but government member,713
+110,43,1985,Delors I,5804,"Delors, Jacques",1985-01-06,1989-01-05,0,0,1539,0,1,president,1,1.92,minister economy and defense,doering,,843
+111,8,1989,Delors II,13160,"Andriessen, Frans",1989-01-06,1993-01-05,1,1,235,0,0,external relations and trade,0,2.02,minister finance,doering,,550
+112,54,1989,Delors II,2913,"Bangemann, Martin",1989-01-06,1993-01-05,0,0,543,0,0,industry and single market,1,0.99,minister economic affairs,doering,,286
+113,44,1989,Delors II,14789,"Brittan, Leon",1989-01-06,1993-01-05,0,0,773,0,0,competition policy and finacial services,1,1.32,minister interior,doering,,297
+114,63,1989,Delors II,13398,"Cardoso e Cunha, Antonio",1989-01-06,1993-01-05,0,1,1273,0,0,energy,1,0.83,minister agriculture and fisheries,doering,,718
+115,21,1989,Delors II,6634,"Christophersen, Henning",1989-01-06,1993-01-05,1,1,1605,0,0,economic and financial affairs,1,1.88,minister finance,doering,,57
+116,7,1989,Delors II,8707,"Dondelinger, Jean",1989-01-06,1993-01-05,0,1,1002,0,0,cultural affairs (broadcasting policy),0,0.33,MEP 1974-79; diplomat -- Luxembourgs 'top diplomat' (FT),doering,,175
+117,27,1989,Delors II,10937,"Marin, Manuel",1989-01-06,1993-01-05,1,0,902,0,0,overseas development and fisheries,1,0.5,junior minister relations to EC,doering,,834
+118,27,1989,Delors II,15606,"Matutes, Abel",1989-01-06,1993-01-05,1,0,645,1,0,mediterranean policy and north-south relations,1,0.33,mp,doering,,834
+119,37,1989,Delors II,16728,"McSharry, Ray",1989-01-06,1993-01-05,0,1,280,0,0,agriculture,1,1.83,minister finance,doering,,77
+120,64,1989,Delors II,2416,"Miert, Karl van",1989-01-06,1993-01-05,0,1,1029,0,0,transport,1,1.0,leader oppostion party,doering,,457
+121,44,1989,Delors II,6598,"Millan, Bruce",1989-01-06,1993-01-05,0,0,1556,1,0,regional policy,1,0.8,Scottish secretary,doering,,297
+122,26,1989,Delors II,5166,"Pandolfi, Filippo Maria",1989-01-06,1993-01-05,0,0,1633,0,0,science and research,1,1.64,minister treasury,doering,,809
+123,41,1989,Delors II,13865,"Papandreou, Vasso",1989-01-06,1993-01-05,0,1,1338,0,0,social affairs,1,0.5,junior minister industry,doering,,39
+124,26,1989,Delors II,10310,"Ripa di Meana, Carlo",1989-01-06,1992-06-01,1,0,1475,0,0,environment,1,0.33,mep,doering,,809
+125,54,1989,Delors II,12760,"Schmidhuber, Peter",1989-01-06,1993-01-05,1,0,1180,0,0,EC budget and financial control,1,0.2,state junior minister in Bavaria,doering,,286
+126,43,1989,Delors II,5704,"Scrivener, Christiane",1989-01-06,1993-01-05,0,0,509,1,0,taxation (fiscal hamonisation),1,0.5,junior minister cosummer affairs,doering,,712
+127,43,1989,Delors II,5804,"Delors, Jacques",1989-01-06,1993-01-05,1,0,1539,0,1,president and monetary affairs,1,1.92,minister economy and defense,doering,,712
+142,43,1993,Delors III,5704,"Scrivener, Christiane",1993-01-06,1995-01-05,1,0,509,1,0,customs. taxation,1,0.5,junior minister consumer affairs,doering,,199
+143,7,1993,Delors III,5363,"Steichen, Rene",1993-01-06,1995-01-05,0,1,1234,0,0,agriculture,1,1.07,minister agriculture,doering,,418
+144,26,1993,Delors III,13813,"Vanni D'Archirafi, Raniero",1993-01-06,1995-01-05,0,0,1552,1,0,single market,0,0.2,diplomat,doering,,176
+132,37,1993,Delors III,6689,"Flynn, Padraig",1993-01-06,1995-01-05,0,1,280,0,0,social affairs and employment,1,1.24,minister justice,doering,,870
+133,27,1993,Delors III,10937,"Marin, Manuel",1993-01-06,1995-01-05,1,0,902,0,0,development,1,0.5,junior minister relations to EC,doering,,37
+134,27,1993,Delors III,15606,"Matutes, Abel",1993-01-06,1994-04-27,1,0,645,1,0,energy and transport,1,0.33,mp,doering,,37
+135,64,1993,Delors III,2416,"Miert, Karl van",1993-01-06,1995-01-05,1,1,1029,0,0,competition,1,1.0,leader oppostion party,doering,,624
+136,44,1993,Delors III,6598,"Millan, Bruce",1993-01-06,1995-01-05,1,0,1556,1,0,regional policy,1,0.8,Scottish secretary,doering,,678
+137,27,1993,Delors III,1092,"Oreja Aguirre, Marcelino",1994-04-27,1995-01-05,0,0,645,1,0,energy and transport,1,1.43,junior minister foreign affairs,doering,,654
+138,41,1993,Delors III,9502,"Paleokrassas, Ioannis L.",1993-01-06,1995-01-05,0,1,47,0,0,environment,1,1.64,minister finance,doering,,362
+139,63,1993,Delors III,9061,"Pinheiro, Joao de Deus",1993-01-06,1995-01-05,0,1,1273,0,0,internal political relations,1,1.33,minister foreign affairs,doering,,282
+140,26,1993,Delors III,1353,"Ruberti, Antonio",1993-01-06,1995-01-05,0,0,1475,0,0,science. research and development,1,0.52,minister universities and scientific research,doering,,176
+141,54,1993,Delors III,12760,"Schmidhuber, Peter",1993-01-06,1995-01-05,1,0,1180,0,0,budget,1,0.2,state junior minister in Bavaria,doering,,862
+128,54,1993,Delors III,2913,"Bangemann, Martin",1993-01-06,1995-01-05,1,0,543,0,0,industry,1,0.99,minister economic affairs,doering,,862
+129,44,1993,Delors III,14789,"Brittan, Leon",1993-01-06,1995-01-05,1,0,773,0,0,external economic affairs,1,1.32,minister interior,doering,,678
+130,8,1993,Delors III,14964,"Broek, Hans van den",1993-01-06,1995-01-05,0,1,235,0,0,external political relations,1,1.16,minister foreign affairs,doering,,148
+131,21,1993,Delors III,6634,"Christophersen, Henning",1993-01-06,1995-01-05,1,1,1605,0,0,economic and financial affairs,1,1.88,minister finance,doering,,11
+145,43,1993,Delors III,5804,"Delors, Jacques",1993-01-06,1995-01-05,1,0,1539,0,1,president,1,1.92,minister economy and defense,doering,,199
+146,54,1995,Santer,2913,"Bangemann, Martin",1995-01-06,1999-03-15,1,0,543,0,0,industry,1,0.99,minister economic affairs,doering,,778
+147,21,1995,Santer,4640,"Bjerregaard, Ritt",1995-01-06,1999-03-15,0,1,1629,0,0,environment and nuclear safety,1,1.09,minister social affairs,doering,,189
+148,26,1995,Santer,13774,"Bonino, Emma",1995-01-06,1999-03-15,0,0,1296,0,0,fisheries. consumer policy,1,0.33,mp/mep,doering,check munzinger,672
+149,44,1995,Santer,14789,"Brittan, Leon",1995-01-06,1999-03-15,1,0,773,0,0,external economic affairs,1,1.32,minister interior,doering,,678
+150,8,1995,Santer,14964,"Broek, Hans van den",1995-01-06,1999-03-15,1,1,235,1,0,external political relations (Europe),1,1.16,minister foreign affairs,doering,,637
+151,43,1995,Santer,12350,"Cresson, Edith",1995-01-06,1999-03-15,0,0,1539,1,0,science. research and development,1,2.75,prime minister,doering,,318
+152,59,1995,Santer,2619,"Fischler, Franz",1995-01-06,1999-03-15,0,1,1013,0,0,agriculture and rural development,1,0.86,minister agriculture and forestry,doering,,294
+153,37,1995,Santer,6689,"Flynn, Padraig",1995-01-06,1999-03-15,1,1,280,1,0,employment and social affairs,1,1.24,minister justice,doering,,573
+154,35,1995,Santer,16361,"Gradin, Anita",1995-01-06,1999-03-15,0,1,904,0,0,immigration. home affairs and justice,1,0.65,second or subordinate minister,doering,,528
+155,44,1995,Santer,217,"Kinnock, Neil",1995-01-06,1999-03-15,0,0,1556,1,0,transport,1,1.0,leader oppostion party,doering,,678
+156,67,1995,Santer,5160,"Liikanen, Erkki Antero",1995-01-06,1999-03-15,0,1,395,1,0,budget,1,2.01,minister finance,doering,,206
+157,27,1995,Santer,10937,"Marin, Manuel",1995-01-06,1999-03-15,1,0,902,0,0,legal service,1,0.5,junior minister relations to EC,doering,,654
+158,64,1995,Santer,2416,"Miert, Karl van",1995-01-06,1999-03-15,1,1,1029,0,0,competition,1,1.0,leader oppostion party,doering,,624
+159,26,1995,Santer,12444,"Monti, Mario",1995-01-06,1999-03-15,0,0,1552,1,0,internal market,0,0.2,professor,doering,,672
+160,27,1995,Santer,1092,"Oreja Aguirre, Marcelino",1995-01-06,1999-03-15,1,0,645,1,0,relations with ep,1,1.43,minister foreign affairs,doering,,654
+161,41,1995,Santer,2471,"Papaoutsis, Christos",1995-01-06,1999-03-15,0,1,1338,0,0,energy and EURATOM,1,0.33,mep,doering,,74
+162,63,1995,Santer,9061,"Pinheiro, Joao de Deus",1995-01-06,1999-03-15,1,1,1273,0,0,external relations with africa and asia,1,1.33,minister foreign affairs,doering,,282
+163,43,1995,Santer,11538,"Silguy, Yves-Thibault de",1995-01-06,1999-03-15,0,0,138,0,0,economic and financial affairs,0,0.2,diplomat,doering,,318
+164,54,1995,Santer,13908,"Wulf-Mathies, Monika",1995-01-06,1999-03-15,0,0,558,1,0,regional policy,0,0.2,union head,doering,check munzinger,778
+165,7,1995,Santer,6273,"Santer, Jacques",1995-01-06,1999-03-15,0,1,1234,0,1,president,1,2.75,prime minister,doering,,222
+180,21,1999,Prodi,11480,"Nielson, Poul",1999-09-16,2004-11-21,0,1,1629,0,0,development and humanitarian aid,1,0.83,minister energy,doering,,630
+181,27,1999,Prodi,4322,Loyola de Palacio,1999-09-16,2004-11-21,0,0,645,0,0,relations with ep. transport and energy,0,0.92,minister agriculture. fisheries and food,doering,,370
+182,44,1999,Prodi,3329,"Patten, Chris",1999-09-16,2004-11-21,0,0,773,1,0,external relations,1,0.5,minister without portfolio,doering,,838
+183,7,1999,Prodi,1129,"Reding, Viviane",1999-09-16,2004-11-21,0,1,1234,0,0,education and culture,1,0.33,mp/mep,doering,,196
+184,67,1999,Prodi,1265,"Rehn, Olli",2004-07-12,2004-11-21,0,1,94,0,0,enterprise and information society,0,0.33,mp/mep,doering,,759
+172,41,1999,Prodi,16154,"Diamantopoulou, Anna",1999-09-16,2004-03-10,0,1,1338,0,0,employment and social affairs,1,0.5,junior minister industry,doering,,33
+173,41,1999,Prodi,15665,"Dimas, Stavros",2004-03-11,2009-10-31,0,1,47,0,0,employment and social affairs,1,0.99,minister industry,doering,,876
+174,59,1999,Prodi,2619,"Fischler, Franz",1999-09-16,2004-11-21,1,1,1013,0,0,agriculture and rural development,1,0.86,minister agriculture and forestry,doering,,412
+175,44,1999,Prodi,217,"Kinnock, Neil",1999-09-16,2004-11-21,1,0,1556,1,0,transport,1,1.0,leader oppostion party,doering,,838
+176,43,1999,Prodi,2329,"Lamy, Pascal",1999-09-16,2004-11-21,0,0,1539,0,0,trade,0,0.2,administrative career,doering,,481
+177,67,1999,Prodi,5160,"Liikanen, Erkki Antero",1999-09-16,2004-07-11,1,1,395,0,0,budget,1,2.01,minister finance,doering,,352
+178,64,1999,Prodi,14013,"Michel, Louis",2004-08-12,2004-11-21,0,1,915,0,0,research,1,1.28,minister foreign affairs,doering,,449
+179,26,1999,Prodi,12444,"Monti, Mario",1999-09-16,2004-11-21,1,0,1552,1,0,internal market,0,0.2,professor,doering,,214
+166,27,1999,Prodi,15779,"Almunia, Joaquin",2004-04-26,2009-10-31,0,0,902,1,0,economic and monetary affairs,1,1.03,minister employment,doering,,806
+167,43,1999,Prodi,6420,"Barnier, Michel",1999-09-16,2004-11-21,0,0,138,1,0,regional policy,1,0.71,minister environment,doering,,481
+168,43,1999,Prodi,10419,"Barrot, Jacques",1999-09-16,2004-11-21,0,0,509,0,0,regional policy,1,1.13,minister for labour and social affairs,doering,,481
+169,8,1999,Prodi,10011,"Bolkestein, Frederik",1999-09-16,2004-11-21,0,1,1409,0,0,internal market,1,1.0,leader party group. minister defence,doering,,749
+170,64,1999,Prodi,1146,"Busquin, Philippe",1999-09-16,2004-08-13,0,1,1378,0,0,research,1,1.13,minister social affairs,doering,,193
+171,37,1999,Prodi,376,"Byrne, David",1999-09-16,2004-11-21,0,1,280,0,0,health and consumer protection,1,0.9,attorney general,doering,check munzinger,126
+185,54,1999,Prodi,2882,"Schreyer, Michaele",1999-09-16,2004-11-21,0,0,772,0,0,budget,1,0.2,minister of a german state,doering,,107
+186,27,1999,Prodi,12745,"Solbes, Pedro",1999-09-16,2004-04-25,0,0,902,1,0,economic and monetary affairs,1,1.64,minister economic and financial affairs,doering,no formal party member,370
+187,54,1999,Prodi,5799,"Verheugen, Guenther",1999-09-16,2004-11-21,0,0,558,0,0,enlargement,1,0.82,junior minister foreign affairs,doering,,107
+188,63,1999,Prodi,8039,"Vitorino, Antonio",1999-09-16,2004-11-21,0,1,725,0,0,justice and home affairs,1,1.13,minister defence,doering,,265
+189,35,1999,Prodi,1056,"Wallstroem, Margot",1999-09-16,2004-11-21,0,1,904,0,0,environment,1,1.22,minister social affairs,doering,,503
+190,26,1999,Prodi,6321,"Prodi, Romani",1999-09-16,2004-11-21,0,0,1048,0,1,president,1,2.48,prime minister,doering,check munzinger,214
+222,51,2004,Barroso I,12688,"Vassiliou, Androulla",2008-03-03,2009-10-31,0,1,1523,1,0,Health,1,0.33,mp/mep,ec.europa.eu,,289
+223,26,2004,Barroso I,6887,"Tajani, Antonio",2008-05-08,2009-10-31,0,1,596,1,0,transport,1,0.33,mp/mep,ec.europa.eu,,823
+224,44,2004,Barroso I,9961,"Ashton, Catherine",2008-10-06,2009-10-31,1,1,1556,1,0,trade,1,1.0,leader of the house of lords,ec.europa.eu,,119
+225,15,2004,Barroso I,3567,"Šemeta, Algirdas",2009-07-01,2009-10-31,0,1,293,0,0,financial programming and budget,1,1.74,minister finance,Munzinger,,688
+226,74,2004,Barroso I,16864,"Samecki, Pawel",2009-07-04,2009-10-31,0,1,1011,1,0,regional policy,,0.5,deputy minister of finance. acting secretary of the Committee for European Integration,"ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",according to Wikipedia close to PO http://de.wikipedia.org/wiki/Kommission_Barroso_I,164
+227,1,2004,Barroso I,16865,"Šefčovič, Maroš",2009-10-01,2009-10-31,0,1,1359,1,0,education. training. culture and mulitlingualism,,0.2,Ambassador. Slovakian permanent representative to the EU,"ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",according to Wikipedia close to SMER http://de.wikipedia.org/wiki/Europ%C3%A4ische_Kommission,269
+228,64,2004,Barroso I,15520,"De Gucht, Karel",2009-07-17,2009-10-31,0,1,1110,1,0,development and humanitarian aid,,1.28,minister foreign affairs and european affairs,"ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",,80
+213,68,2004,Barroso I,2947,"Spidla, Vladimir",2004-11-22,2009-10-31,0,1,789,0,0,employment. social affairs and equal opportunitis,1,1.96,prime minister,doering,,580
+214,54,2004,Barroso I,5799,"Verheugen, Guenther",2004-11-22,2009-10-31,1,1,558,0,0,enterprise and industry,1,0.82,junior minister foreign affairs,doering,,529
+215,35,2004,Barroso I,1056,"Wallstroem, Margot",2004-11-22,2009-10-31,1,1,904,0,0,institutional relations and communication strategy,1,1.22,minister social affairs,doering,,641
+216,63,2004,Barroso I,3890,"Barroso, Jose Manuel",2004-11-22,2009-10-31,0,1,1273,0,1,president,1,2.2,prime minister,doering,,755
+220,10,2004,Barroso I,2129,"Kunewa, Meglena",2007-01-01,2009-10-31,0,1,544,1,0,consumer protection,1,1.29,minister european affairs,doering,,425
+221,23,2004,Barroso I,1763,"Orban, Leonard",2007-01-01,2009-10-31,0,1,761,0,0,multilingualism,0,0.2,chief accession negotiator,doering,,28
+191,27,2004,Barroso I,15779,"Almunia, Joaquin",2004-11-22,2009-10-31,1,1,902,0,0,economic and monetary affairs,1,1.03,minister employment,doering,,806
+192,43,2004,Barroso I,10419,"Barrot, Jacques",2004-11-22,2009-10-31,1,1,658,0,0,transport,1,1.13,minister for labour and social affairs,doering,,802
+193,72,2004,Barroso I,9806,"Borg, Joe",2004-11-22,2009-10-31,0,1,984,0,0,fisheries and maritim affairs,1,1.43,minister foreign affairs,doering,,298
+194,41,2004,Barroso I,15665,"Dimas, Stavros",2004-11-22,2009-10-31,1,1,47,0,0,environment,1,0.99,minister industry,doering,,876
+195,59,2004,Barroso I,706,"Ferrero-Waldner, Benita",2004-11-22,2009-10-31,0,1,1013,0,0,external relations + european neighbourhood policy,1,1.18,minister foreign affairs,doering,,257
+196,1,2004,Barroso I,5535,"Figel, Jan",2004-11-22,2009-10-01,0,1,1432,0,0,education. training. culture and mulitlingualism,1,0.5,junior minister foreign affairs,doering,,547
+197,21,2004,Barroso I,1017,"Fischer Boel, Mariann",2004-11-22,2009-10-31,0,1,1605,0,0,agriculture and rural development,0,1.0,minister food. agriculture and fisheries,doering,,482
+198,26,2004,Barroso I,16235,"Frattini, Franco",2004-11-22,2008-04-23,0,1,596,0,0,justice. freedom and security,0,1.69,minister foreign affairs,doering,,256
+199,15,2004,Barroso I,1266,"Grybauskaite, Dalia",2004-11-22,2009-07-01,0,1,58,0,0,financial programming and budget,1,1.74,minister finance,doering,,405
+200,74,2004,Barroso I,4141,"Huebner, Danuta",2004-11-22,2009-07-04,0,1,1011,0,0,regional policy,1,1.03,minister european affairs,doering,no party affiliation but government member,322
+201,75,2004,Barroso I,16396,"Kallas, Siim",2004-11-22,2009-10-31,0,1,113,0,0,administrative affairs. audit and anti-fraud,1,2.25,prime minister,doering,,138
+202,39,2004,Barroso I,6668,"Kovacs, Laszlo",2004-11-22,2009-10-31,0,1,1591,0,0,taxation and customs union,1,1.51,minister foreign affairs,doering,,188
+203,8,2004,Barroso I,10749,"Kroes, Neelie",2004-11-22,2009-10-31,0,1,1409,0,0,competiton,1,0.92,minister transport,doering,,124
+204,51,2004,Barroso I,8533,"Kyprianou, Markos",2004-11-22,2008-03-02,0,1,851,0,0,health and consumer affairs,1,1.64,minister finance,doering,,342
+206,44,2004,Barroso I,6255,"Mandelson, Peter",2004-11-22,2008-10-03,0,1,1556,0,0,trade,1,0.5,junior minister trade and industry (Northern Ireland),doering,,19
+207,37,2004,Barroso I,506,"McCreevy, Charly",2004-11-22,2009-10-31,0,1,280,0,0,internal market and services,1,1.83,minister finance,doering,,179
+208,64,2004,Barroso I,14013,"Michel, Louis",2004-11-22,2009-07-17,1,1,915,0,0,development and humanitarian aid,1,1.28,minister foreign affairs,doering,,449
+209,55,2004,Barroso I,16359,"Piebalgs, Andris",2004-11-22,2009-10-31,0,1,526,1,0,energy,1,1.64,minister finance,doering,,153
+210,60,2004,Barroso I,12406,"Potocnik, Janez",2004-11-22,2009-10-31,0,1,1370,0,0,science and research,1,1.07,minister without portfolio (European affairs),doering,,292
+211,7,2004,Barroso I,1129,"Reding, Viviane",2004-11-22,2009-10-31,1,1,1234,0,0,information society and media,1,0.33,mp/mep,doering,,12
+212,67,2004,Barroso I,1265,"Rehn, Olli",2004-11-22,2009-10-31,1,1,94,0,0,enlargement,0,0.33,mp/mep,doering,,759
+245,35,2010,Barroso II,9042,"Malmström, Cecilia",2010-02-10,2014-10-31,0,1,892,0,0,home affairs,,0.65,minister european affairs,"ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",position score 0.65 second or subordinate ministers,475
+246,54,2010,Barroso II,16863,"Oettinger, Günther",2010-02-10,2014-10-31,0,1,808,0,0,energy,,1.0,minister-president of Baden-Württemberg,"ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",,472
+247,55,2010,Barroso II,16359,"Piebalgs, Andris",2010-02-10,2014-10-31,1,1,662,1,0,development,,1.64,minister finance,"ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",,477
+248,60,2010,Barroso II,12406,"Potocnik, Janez",2010-02-10,2014-10-31,1,1,1370,0,0,environment,,1.07,minister without portfolio (European affairs),"ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",close to LDS according to Wikipedia,803
+249,7,2010,Barroso II,1129,"Reding, Viviane",2010-02-10,2014-10-31,1,1,1234,0,0,justice. fundamental rights and citizenship,,0.33,mp/mep,"ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",,601
+250,67,2010,Barroso II,1265,"Rehn, Olli",2010-02-10,2014-10-31,1,1,94,0,0,economic and monetary affairs,,0.33,mp/mep,"ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",,277
+251,1,2010,Barroso II,16865,"Šefčovič, Maroš",2010-02-10,2014-10-31,1,1,1359,1,0,inter-institutional relations and administration,,0.2,Ambassador. Slovakian permanent representative to the EU,"ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",according to Wikipedia close to SMER http://de.wikipedia.org/wiki/Europ%C3%A4ische_Kommission,269
+252,15,2010,Barroso II,3567,"Šemeta, Algirdas",2010-02-10,2014-10-31,1,1,293,0,0,taxation and customs union. audit and anti-fraud,,1.74,minister finance,"ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",,688
+253,26,2010,Barroso II,6887,"Tajani, Antonio",2010-02-10,2014-10-31,1,1,51,0,0,industry and entrepreneurship,,0.33,mp/mep,"ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",,823
+254,51,2010,Barroso II,12688,"Vassiliou, Androulla",2010-02-10,2014-10-31,1,1,1523,1,0,education. culture. multilingualism and youth,,0.33,mp/mep,"ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",,289
+255,63,2010,Barroso II,3890,"Barroso, Jose Manuel",2010-02-10,2014-10-31,1,1,1273,1,1,president,,2.2,prime minister,"ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",,858
+229,27,2010,Barroso II,15779,"Almunia, Joaquin",2010-02-10,2014-10-31,1,1,902,0,0,competition,,1.03,minister employment,"ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",,497
+230,39,2010,Barroso II,16866,"Andor, László",2010-02-10,2014-10-31,0,1,1591,0,0,employment. social affairs and inclusion,,0.2,member of the board of directors EBRD,"ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",,162
+231,44,2010,Barroso II,9961,"Ashton, Catherine",2010-02-10,2014-10-31,1,1,1556,0,0,high representative of the union for foreign affairs and security policy,,1.0,leader of the house of lords,"ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",,119
+232,43,2010,Barroso II,6420,"Barnier, Michel",2010-02-10,2014-10-31,0,1,658,0,0,internal market and services,,1.45,minister foreign affairs,"ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",,306
+233,23,2010,Barroso II,16867,"Cioloş, Dacian",2010-02-10,2014-10-31,0,1,761,1,0,agriculture and rural development,,0.97,minister agriculture and rural development,"ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",member cabinett Popescu-Tariceanu III; Duration: 2007-04-05 – 2008-11-30. at the time of nomination other parties were in power,993
+234,41,2010,Barroso II,16868,"Damanaki, Maria",2010-02-10,2014-10-31,0,1,1338,0,0,maritime affairs and fisheries,,0.33,mp/mep,"ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",,224
+235,72,2010,Barroso II,11019,"Dalli, John",2010-02-10,2014-10-31,0,1,984,0,0,health and consumer policy,,1.43,"minister finance and economic affairs, foreign minister","ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",Malta is not coded; position score 1.43 is for the position of foreign minister (see Joe Borg). position score of finance minister might be higher,468
+236,64,2010,Barroso II,15520,"De Gucht, Karel",2010-02-10,2014-10-31,1,1,1110,1,0,trade,,1.28,minister foreign affairs and european affairs,"ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",,431
+237,68,2010,Barroso II,16869,"Füle, Štefan",2010-02-10,2014-10-31,0,1,1567,0,0,enlargement and european neighbourhood policy,,1.0,minister european affairs,"ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",,157
+238,37,2010,Barroso II,8185,"Geoghegan-Quinn, Máire",2010-02-10,2014-10-31,0,1,280,0,0,"research, innovation and science",,1.24,minister justice,"ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",,173
+239,10,2010,Barroso II,16870,"Georgieva, Kristalina",2010-02-10,2014-10-31,0,1,1541,0,0,international cooperation. humanitarian aid and crisis response,,0.2,vice president and corporate secretary of the World Bank Group,"ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",close to Citizens for European Development of Bulgaria (GERB),805
+240,59,2010,Barroso II,1416,"Hahn, Johannes",2010-02-10,2014-10-31,0,1,1013,0,0,regional policy,0,0.89,minister science and research,"ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",,268
+241,21,2010,Barroso II,6095,"Hedegaard, Connie",2010-02-10,2014-10-31,0,1,590,0,0,climate action,,1.33,minister environment,"ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",,71
+242,75,2010,Barroso II,16396,"Kallas, Siim",2010-02-10,2014-10-31,1,1,113,0,0,transport,,2.25,prime minister,"ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",,902
+243,8,2010,Barroso II,10749,"Kroes, Neelie",2010-02-10,2014-10-31,1,1,1409,1,0,digital agenda,,0.92,minister transport,"ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",,69
+244,74,2010,Barroso II,14860,"Lewandowski, Janusz",2010-02-10,2014-10-31,0,1,512,0,0,financial programming and budget,,1.14,minister privatisation,"ec.europa.eu, Munzinger, Parlgov, Druckman/Roberts(2008), Druckman/Warwick (2005)",,164

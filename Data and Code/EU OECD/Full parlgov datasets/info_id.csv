@@ -1,0 +1,65 @@
+id,table_variable,order,short,name,description,wikipedia,old_id
+1,election_type,2,ep,European Parliament,,,2
+2,party_family,70,agr,Agrarian,,,70
+3,party_family,50,chr,Christian democracy,,,50
+4,cabinet_termination,5,resignation_pm,resignation -- prime minister,,,5
+5,cabinet_termination,7,change_pm,change -- prime minister,,,7
+6,party_family,40,lib,Liberal,,,40
+7,election_ep_type,1,by-election,by-election after accession,,,1
+8,party_family,119,fasc,Fascist,,,89
+9,party_family,72,reg,Regional,,,72
+10,cabinet_termination,2,change_party,change -- party composition,change of coalition party composition,,2
+11,party_family,30,soc,Social democracy,,,30
+12,party_family,10,none,no family,,,10
+13,election_type,1,parliament,Parliamentary election,,,1
+14,party_family,20,com,Communist/Socialist,,,20
+15,cabinet_termination,1,election_regular,election -- regular,election at the end of a legislative period,,1
+16,party_family,90,spec,Special issue,single issue parties focussing on particular topics only,,76
+17,party_family,74,eth,Ethnic,,,74
+18,election_ep_type,2,appointments,appointments after EU accession,,,2
+19,party_family,25,eco,Green/Ecologist,,,25
+20,election_type,3,president,Presidential election,,,3
+21,cabinet_termination,3,election_dissolution,election -- dissolution,dissolution of parliament and elections before the end of the official term,,3
+22,party_family,117,nat,Nationalist,,,87
+23,cabinet_termination,4,confidencevote,losing confidence vote -- RECODE,"cabinet fails by loosing e.g. vote of confidence, investiture vote, constructive vote of no-confidence",,4
+24,cabinet_termination,6,resignation_cabinet,resignation -- cabinet,,,6
+25,party_family,115,pop,Populist,populist party,,85
+26,party_family,60,con,Conservative,,,60
+27,party_family,11,all,electoral alliance,,,11
+28,party_family,99,code,to be coded,,,99
+29,election_ep_type,0,regular,regular election,,,0
+30,cabinet_termination,10,other,other,,,
+31,party_change_type,4,splinter,splinter group,New party is formed as splinter group of another party.,,
+32,party_change_type,3,division,division,One party divides into two or more new parties.,,
+33,party_change_type,1,merged,merger,New party is formed by merging two or more parties that cede to exist.,,
+34,party_change_type,2,joined,joining larger group,Party joins a larger group without forming a new party.,,
+35,party_change_type,5,successor,successor,Successor party formed by former activists of the predecessor party that ceased to exist.,,
+36,party_family,110,csp,Communist Successor,,,
+37,party_family,159,pens,Pensioners,,,
+38,party_family,152,wom,Woman,,,
+39,party_family,103,anti,Anti-establishment,,,
+40,party_family,78,right,Right-wing,,,
+41,party_family,106,a-sys,Anti-system,,,
+42,party_family,114,euro,European integration,,,
+55,cabinet_support,5,promise,support promise,,,
+56,cabinet_support,3,agreement,formal agreement,,,
+57,cabinet_support,11,regular,informal regular support,,,
+60,party_family,156,tax,Taxation,,,
+62,party_change_type,6,politician,single politician,,,
+63,party_family,113,rel,Religious,,,
+64,cabinet_support,13,irregular,irregular support,,,
+66,cabinet_support,1,deputy_minister,deputy minister,,,
+67,party_family,125,sep,Separatist,,,
+68,party_family,108,a-cleric,Anti-clericalism,,http://en.wikipedia.org/wiki/Anti-clericalism,
+70,party_family,170,satirical,Satirical,,,
+71,person_family_relation,10,sibling,sibling (brother/sister),,,
+72,person_family_relation,2,partner,domestic partner,,,
+73,person_family_relation,6,grandchild,grand children/parent,,,
+74,person_family_relation,1,spouse,spouse,,,
+75,person_family_relation,8,parent-in-law,parent-in-law,,,
+76,person_family_relation,5,child,children/parent,,,
+77,person_family_relation,7,nephew-niece,nephew/niece [uncle/aunt],,,
+78,person_family_relation,2,spouse-divorce,spouse/divorced,,,
+79,party_family,162,animal,Animal rights,,,
+80,party_family,200,no-seat,no seats,Largest party that won no seats in an election and less than one percent vote share.,,
+81,party_family,112,trans,Transition,social movement that took part in an election in the process of democratic transition,,

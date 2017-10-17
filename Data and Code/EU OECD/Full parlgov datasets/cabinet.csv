@@ -1,0 +1,1117 @@
+id,country_id,start_date,name,caretaker,wikipedia,data_source,description,comment,previous_cabinet_id,previous_parliament_election_id,previous_ep_election_id,old_countryID,old_cabID
+1,33,1968-01-10,Gorton I,0,http://en.wikipedia.org/wiki/First_Gorton_Ministry,hug-77,Cabinet ended on 28 February 1968 with the resignation of PM Gorton.,,634,764,,36,19680
+2,55,1998-04-08,Krasts II,0,http://en.wikipedia.org/wiki/Guntars_Krasts,mue-rom,,,878,534,,428,19980
+3,72,1987-05-12,Fenech Adami I,0,,,,,122,370,,470,19870
+4,75,1994-11-03,Tarand,0,http://en.wikipedia.org/wiki/Andres_Tarand,mue-rom,,,564,670,,233,19940
+5,63,1999-10-25,Guterres II,0,,,,,265,352,619,620,19990
+6,8,1982-05-29,Van Agt III,1,http://en.wikipedia.org/wiki/Netherlands_cabinet_Van_Agt-3,,,,258,81,23,528,19820
+7,44,1974-10-10,Wilson IV,0,http://en.wikipedia.org/wiki/Labour_Government_1974-1979,,"Wilson announced his resignation on 16 March 1976 as Prime Minister, taking effect on 5 April.",,419,40,,826,19741
+8,5,1964-11-09,Sato I,0,,,,,649,640,,392,19640
+9,60,1992-04-22,Drnovsek I,0,http://en.wikipedia.org/wiki/Janez_Drnovsek,"afp, reuters","PM Drnovšek won a confidence vote (yes: 126) on 22 April 1992 and presented his cabinet on 4 May.
+Cabinet ended with elections on 6 December 1992.",,527,129,,705,19920
+10,21,1945-05-05,Buhl II,1,http://en.wikipedia.org/wiki/Cabinet_of_Vilhelm_Buhl_II,,,,,,,208,19450
+11,21,1990-12-18,Schluter V,0,http://da.wikipedia.org/wiki/Regeringen_Poul_Schl%C3%BCter_IV,mueller,,,57,157,308,208,19900
+12,7,2004-07-31,Juncker III,0,http://en.wikipedia.org/wiki/Jean-Claude_Juncker,,,,196,383,593,442,20040
+13,39,1993-12-21,Boross,0,http://en.wikipedia.org/wiki/P%C3%A9ter_Boross,mue-rom,,,369,257,,348,19930
+14,9,1971-03-17,Bratteli I,0,http://en.wikipedia.org/wiki/Bratteli%27s_First_Cabinet,"nyt, reg-no","Cabinet resigned on 7 October 1972, effective 18 October, after a referendum on Norwegian membership in the European Communities, put forward by government, failed on 25 September.",,657,580,,578,19710
+15,68,2005-04-25,Paroubek,0,http://en.wikipedia.org/wiki/Ji%C5%99%C3%AD_Paroubek,afp,"PM Paroubek was appointed on 25 April 2005 and cabinet won an investiture vote (yes: 101, no: 99) on 13 May.
+Cabinet ended with election on 3 June 2006 and resigned on 16 August.",,580,487,567,203,20050
+16,35,1979-10-11,Falldin II,0,http://sv.wikipedia.org/wiki/Regeringen_F%C3%A4lldin_II,"mueller, nyt, riksdag","PM Fälldin and Foreign Minister Ullsten, head of the Liberals (Folkpartiet), resigned on 8 March 1981 following the withdrawal of the Moderate Party (Moderaterna) from the coalition four days earlier.",,587,473,,752,19790
+17,43,1974-02-27,Messmer III,0,http://fr.wikipedia.org/wiki/Gouvernement_Pierre_Messmer_(3),,,,607,357,,250,19740
+18,74,2003-03-01,Miller II,0,http://en.wikipedia.org/wiki/Leszek_Miller,mue-rom,,,357,565,,616,20030
+19,44,2001-06-07,Blair II,0,http://en.wikipedia.org/wiki/Blair_Ministry,,,,838,208,686,826,20010
+20,40,1975-12-10,Bundesrat 1975,0,,,,,79,371,,756,19750
+21,43,1976-08-27,Barre I,0,http://fr.wikipedia.org/wiki/Gouvernement_Raymond_Barre_(1),,,,159,357,,250,19760
+23,55,2000-05-04,Berzins,0,http://en.wikipedia.org/wiki/Andris_Berzins,mue-rom,,,110,615,,428,20000
+24,26,1973-07-07,Rumor IV,0,http://it.wikipedia.org/wiki/Governo_Rumor_IV,mueller,,,439,65,,380,19730
+25,29,1972-11-27,Trudeau III,0,,,,,696,552,,124,19720
+26,1,1994-12-13,Meciar VI,0,http://en.wikipedia.org/wiki/Vladim%C3%ADr_Me%C4%8Diar,mue-rom,,,817,119,,703,19941
+27,7,1979-07-16,Werner IV,0,http://lb.wikipedia.org/wiki/Regierung_Werner-Thorn-Flesch,,,,655,606,589,442,19790
+28,23,2006-12-07,Popescu-Tariceanu II,0,http://en.wikipedia.org/wiki/C%C4%83lin_Popescu-T%C4%83riceanu,"mue-rom, nyt",,,509,165,,642,20060
+29,64,1944-12-12,Pierlot II,0,http://en.wikipedia.org/wiki/Hubert_Pierlot,,,,593,,,56,19441
+31,54,1963-10-16,Erhard I,0,http://de.wikipedia.org/wiki/Kabinett_Erhard_I,,,,62,381,,276,19630
+32,43,1952-01-20,Faure I,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,,826,293,,250,19520
+33,41,1996-09-24,Simitis II,0,,,,,281,399,613,300,19961
+34,67,1982-12-31,Sorsa V,0,http://en.wikipedia.org/wiki/Kalevi_Sorsa,"nyt, valt",,,378,84,,246,19821
+35,8,1963-07-24,Marijnen,0,http://en.wikipedia.org/wiki/Netherlands_cabinet_Marijnen,,,,694,529,,528,19630
+36,21,1950-10-30,Eriksen I,0,http://da.wikipedia.org/wiki/Regeringen_Erik_Eriksen,"mueller, nyt",Cabinet ended with elections on 21 April 1953 and resigned a day after the election.,,853,430,,208,19501
+37,27,1989-12-05,Gonzalez III,0,,,,"Socialist Party (PSOE) had a working majority because the four deputies from the Basque nationalist Herri Batasuna (HB) boycotted parliament (Hamann 1999, 121).",834,289,474,724,19890
+38,40,1995-12-13,Bundesrat 1995,0,,,,,773,105,,756,19950
+39,41,1985-07-26,Papandreou A III,0,,,,,60,453,87,300,19851
+40,64,1948-11-26,Spaak III,0,http://en.wikipedia.org/wiki/Paul-Henri_Spaak,mueller,,"Not coded in Müller/Strom as a distinct cabinet. However, the king had accepted the formal resignation of the preceding cabinet (De Winter 2000, 320).",496,19,,56,19480
+41,67,1990-08-28,Holkeri II,0,http://en.wikipedia.org/wiki/Harri_Holkeri,"mueller, valt",,,614,527,,246,19900
+42,55,2007-12-20,Godmanis II,0,http://en.wikipedia.org/wiki/Ivars_Godmanis,"bbc, nyt",,"The international financial crisis caused major political turmoil in Latvia. Godmanis survived a confidence vote (yes: 51, no: 40) on 3 February 2009. However, following coalition internal conflicts the People's Party as well as the Green and Farmers' Union demanded the resignation of the prime minister and he stepped down on 20 February 2009.",680,52,145,428,20070
+44,11,1966-11-26,Holyoake IV,0,http://en.wikipedia.org/wiki/Second_National_Government_of_New_Zealand,,,,668,391,,554,19660
+45,9,1997-10-17,Bondevik I,0,http://en.wikipedia.org/wiki/Kjell_Magne_Bondevik,"afp, reg-no","Government was appointed on 17 October 1997.
+Cabinet resigned on 9 March 2000, effective 17 March, after losing a confidence vote (yes:71, no: 81, abstain: 13) on environmental legislation.",,813,669,,578,19970
+46,43,2005-05-31,Villepin,0,http://fr.wikipedia.org/wiki/Gouvernement_Dominique_de_Villepin,"bbc, ejpr, nyt, w",,,802,403,160,250,20050
+47,15,1996-12-10,Vagnorius II,0,http://en.wikipedia.org/wiki/Gediminas_Vagnorius,mue-rom,,,91,566,,440,19961
+48,5,1960-12-08,Ikeda II,0,,,,,241,345,,392,19601
+49,33,1993-03-24,Keating II,0,http://en.wikipedia.org/wiki/Second_Keating_Ministry,aph-11,,,725,753,,36,19930
+50,21,1975-02-13,Jorgensen II,0,http://da.wikipedia.org/wiki/Regeringen_Anker_J%C3%B8rgensen_II,mueller,,,744,464,,208,19750
+51,21,1957-05-28,Hansen II,0,http://da.wikipedia.org/wiki/Regeringen_H.C._Hansen_II,mueller,,,218,263,,208,19570
+52,43,1946-12-18,Blum,0,http://fr.wikipedia.org/wiki/Gouvernement_L%C3%A9on_Blum_(3),w,,,150,75,,250,19462
+53,9,1963-08-28,Lyng,0,http://en.wikipedia.org/wiki/John_Lyng,"nyt, reg-no","Cabinet was appointed on 28 August 1963.
+Cabinet lost a confidence vote on 20 September (yes: 74, no: 76) and resigned on 25 September.",,98,622,,578,19630
+54,37,1982-03-09,Haughey II,0,,,,,335,228,414,372,19820
+55,29,2000-11-27,Chretien III,0,,,,,182,455,,124,20000
+56,9,1973-10-16,Bratteli II,0,http://en.wikipedia.org/wiki/Bratteli%27s_Second_Cabinet,"nyt, reg-no","Cabinet was appointed on 16 October 1973.
+PM Bratteli announced his resignation intend in September 1975 and formally resigned on 9 January 1976, effective 15 January.",,822,523,,578,19730
+57,21,1988-06-03,Schluter IV,0,http://da.wikipedia.org/wiki/Regeringen_Poul_Schl%C3%BCter_III,mueller,,,837,387,128,208,19880
+58,9,1945-11-05,Gerhardsen II,0,http://en.wikipedia.org/wiki/Einar_Gerhardsen,,,,666,220,,578,19451
+59,5,1974-12-09,Miki,0,,,,,502,333,,392,19740
+60,41,1985-06-05,Papandreou A II,0,,,,,713,453,87,300,19850
+61,9,1957-10-07,Gerhardsen V,0,http://en.wikipedia.org/wiki/Einar_Gerhardsen,mueller,,,221,429,,578,19570
+62,54,1961-11-14,Adenauer VII,0,http://de.wikipedia.org/wiki/Kabinett_Adenauer_IV,nyt,Adenauer lost support of his party and was forced to resign on 11 November 1963.,,906,381,,276,19610
+63,44,1963-10-18,Douglas-Home,0,http://en.wikipedia.org/wiki/Conservative_Government_1957-1964,bpf,,,237,161,,826,19630
+64,23,2000-12-20,Nastase I,0,http://en.wikipedia.org/wiki/Adrian_N%C4%83stase,"afp, reuters","PM Nastase was appointed on 20 December 2000. The cabinet won an investiture vote (yes: 314, no 145) on 28 December in a joint sitting of parliament and was appointed the same day.
+Minority cabinet was supported by Liberals (PNL) and ethnic Hungarians (UDMR).
+Cabinet ended with a reshuffle on 19 June 2003 to reduce cabinet size.",,171,336,,642,20000
+65,8,2006-07-07,Balkenende III,1,http://en.wikipedia.org/wiki/Netherlands_cabinet_Balkenende-3,,,D66 withdrew from the Balkenende II government and Balkenende III caretaker government came into office to prepare the 2006 election and the 2007 budget.,124,335,519,528,20060
+66,11,1951-09-01,Holland II,0,http://en.wikipedia.org/wiki/First_National_Government_of_New_Zealand,,,,717,366,,554,19510
+67,33,1966-12-14,Holt II,0,http://en.wikipedia.org/wiki/Second_Holt_Ministry,"hug-77, nyt",Cabinet ended on 18 December 1967 after PM Holt presumed drowned in a swimming accident.,,261,764,,36,19661
+68,74,1992-07-11,Suchocka I,0,http://en.wikipedia.org/wiki/Hanna_Suchocka,afp,"Cabinet was nominated on 8 July 1992 and won an investiture vote on 11 July (yes: 226, no: 124, abstain: 28). Cabinet resigned on on 28 May 1993 after losing a vote of confidence by one vote (yes: 198, no: 223, abstain: 24).",,605,211,,616,19921
+69,8,2007-02-22,Balkenende IV,0,http://en.wikipedia.org/wiki/Netherlands_cabinet_Balkenende-4,"ejpr, nyt",,The government collapsed on 20 February 2010 over disagreements on extending troop deployments in Afghanistan. PvdA pulled out of the coalition and Queen Beatrix accepted the resignation of their ministers on 23 February.,65,578,519,528,20070
+70,29,1980-03-03,Trudeau V,0,,,,,751,139,,124,19800
+71,21,2009-04-05,Rasmussen L,0,http://en.wikipedia.org/wiki/Cabinet_of_Lars_L%C3%B8kke_Rasmussen,reuters,PM Rasmussen called a parliamentary election on 26 August 2011.,,788,174,168,208,20090
+72,43,1977-03-29,Barre II,0,http://fr.wikipedia.org/wiki/Gouvernement_Raymond_Barre_(2),"mueller, nyt",,,21,357,,250,19770
+73,23,1996-12-11,Ciorbea,0,http://en.wikipedia.org/wiki/Victor_Ciorbea,reuters,"Parties signed a coalition agreement on 6 December 1996. Cabinet won an investiture vote (yes: 316, no: 152) on 11 December in a joint sitting of parliament and was appointed the day after.
+Cabinet ended on 29 January 1998 when Democrats (PD) withdrew. PM Ciorbea resigned on 30 March 1998 and interim PM Dejeu was appointed the same day.",,102,49,,642,19961
+74,41,1993-10-13,Papandreou A IV,0,,,,,362,654,518,300,19930
+75,74,1991-01-12,Bielecki,0,http://en.wikipedia.org/wiki/Jan_Krzysztof_Bielecki,"ap, nyt",,,728,158,,616,19910
+76,68,1998-01-02,Tosovsky,1,http://en.wikipedia.org/wiki/Josef_To%C5%A1ovsk%C3%BD,mue-rom,,,136,301,,203,19980
+77,37,1987-03-10,Haughey III,0,,,,,867,43,344,372,19870
+78,67,1948-07-29,Fagerholm I,0,http://en.wikipedia.org/wiki/Karl-August_Fagerholm,valt,,,125,187,,246,19480
+79,40,1971-12-08,Bundesrat 1971,0,,,,,777,176,,756,19710
+80,64,2008-12-30,Rompuy,0,http://en.wikipedia.org/wiki/Van_Rompuy_I_Government,"afp, nzz","Cabinet was appointed on 30 December 2008 and passed a confidence vote on 2 January 2009 (yes: 88, no: 45).
+On 19 November 2009 van Rompuy was chosen as President of the European Council and the whole cabinet formally resigned on 24 November to reform under Leterme.",,264,401,656,56,20081
+81,9,1981-02-04,Brundtland I,0,http://en.wikipedia.org/wiki/Gro_Harlem_Brundtland,mueller,,,653,499,,578,19810
+82,43,1949-01-12,Queuille II,0,http://fr.wikipedia.org/wiki/Gouvernement_Henri_Queuille_(1),w,,,355,75,,250,19490
+83,72,1981-12-18,Mintoff IV,0,,,,,606,136,,470,19810
+84,26,1982-08-23,Spadolini II,0,http://it.wikipedia.org/wiki/Governo_Spadolini_II,"ap, mueller","Previous cabinet reformed on 23 August 1982. 
+PM Spadolini requested to resign on 11 November 1982 and submitted a second request two days later.",,674,604,353,380,19821
+85,54,2005-11-22,Merkel I,0,http://en.wikipedia.org/wiki/Merkel_Cabinet_I,,,,529,118,18,276,20050
+86,26,1980-04-04,Cossiga II,0,http://it.wikipedia.org/wiki/Governo_Cossiga_II,mueller,,,578,604,353,380,19800
+87,26,1982-12-01,Fanfani V,0,http://it.wikipedia.org/wiki/Governo_Fanfani_V,mueller,,,84,604,353,380,19820
+88,44,1950-02-28,Attlee II,0,http://en.wikipedia.org/wiki/Labour_Government_1945-1951,,,,99,625,,826,19500
+89,26,1970-08-06,Colombo,0,http://it.wikipedia.org/wiki/Governo_Colombo,mueller,,,113,261,,380,19701
+90,26,1954-01-18,Fanfani I,0,http://it.wikipedia.org/wiki/Governo_Fanfani_I,mueller,,,798,642,,380,19540
+91,15,1996-02-23,Stankevicius,0,http://en.wikipedia.org/wiki/Laurynas_Stankevi%C4%8Dius,mue-rom,,,811,439,,440,19960
+92,64,1987-10-21,Martens VII,1,http://en.wikipedia.org/wiki/Wilfried_Martens,mueller,,,375,396,10,56,19870
+93,43,1968-05-31,Pompidou V,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,,662,291,,250,19680
+94,9,1989-10-16,Syse,0,http://en.wikipedia.org/wiki/Jan_P._Syse,"nyt, reg-no","Cabinet was appointed on 16 October 1989.
+Goverment collapsed on 29 October 1990 over the country's links to the European Community and formally resigned on 3 November.",,394,571,,578,19890
+95,64,1995-06-23,Dehaene II,0,http://en.wikipedia.org/wiki/Jean-Luc_Dehaene,ejpr,,,624,332,536,56,19950
+96,8,1946-07-03,Beel I,0,http://en.wikipedia.org/wiki/Netherlands_cabinet_Beel-1,,,,767,182,,528,19460
+97,11,1972-12-08,Kirk,0,,,,,569,1,,554,19721
+98,9,1961-09-11,Gerhardsen VI,0,http://en.wikipedia.org/wiki/Einar_Gerhardsen,"nyt, reg-no",Gerhardsen lost a confidence vote (yes: 74 no: 76) on 23 August 1963 and the cabinet resigned on 28 August.,,61,622,,578,19610
+99,44,1945-07-26,Attlee I,0,http://en.wikipedia.org/wiki/Labour_Government_1945-1951,bpf,,,,609,,826,19450
+100,67,1995-04-13,Lipponen I,0,http://en.wikipedia.org/wiki/Paavo_Lipponen's_first_cabinet,valt,,,206,24,193,246,19950
+101,7,1969-02-06,Werner III,0,http://lb.wikipedia.org/wiki/Regierung_Werner-Schaus_II,,,,491,166,,442,19690
+102,23,1996-09-02,Vacaroiu III,0,http://en.wikipedia.org/wiki/Vacaroiu,mue-rom,,,447,416,,642,19960
+103,29,2003-12-12,Martin I,0,http://en.wikipedia.org/wiki/Twenty-Seventh_Canadian_Ministry,,,,55,455,,124,20030
+104,43,1951-03-10,Queuille IV,0,http://fr.wikipedia.org/wiki/Gouvernement_Henri_Queuille_(3),w,,,367,75,,250,19510
+105,59,1956-06-29,Raab II,0,http://de.wikipedia.org/wiki/Bundesregierung_Raab_II,"mueller, nyt","Cabinet was appointed on 29 June 1956.
+On 9 March 1959, coalition parties agreed to call an early election after disagreement over housing and tax policies.
+Cabinet ended with an early election on 10 May 1959 and resigned two days later.",,659,169,,40,19560
+106,5,1989-08-10,Kaifu I,0,,,,,743,506,,392,19891
+107,54,1998-10-27,Schroeder I,0,http://de.wikipedia.org/wiki/Kabinett_Schr%C3%B6der_I,,,,778,679,540,276,19980
+108,33,2010-09-14,Gillard II,0,http://en.wikipedia.org/wiki/Gillard_Ministry,,PM Gillard formed a minority cabinet on 7 September 2010 after having found the support of four independent and one Green MP. The cabinet was appointed on 14 September.,,736,246,,36,20101
+109,10,1994-10-18,Indzhova,1,http://en.wikipedia.org/wiki/Reneta_Indzhova,mue-rom,,,462,32,,100,19940
+110,55,1999-07-16,Skele III,0,http://en.wikipedia.org/wiki/Andris_Skele,mue-rom,,,469,615,,428,19991
+111,43,1969-06-20,Chaban-Delmas,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,,131,386,,250,19690
+112,64,1958-06-23,Eyskens G II,0,http://en.wikipedia.org/wiki/Gaston_Eyskens,mueller,,,745,573,,56,19580
+113,26,1970-03-27,Rumor III,0,http://it.wikipedia.org/wiki/Governo_Rumor_III,mueller,,,548,261,,380,19700
+114,59,1959-07-16,Raab III,0,http://de.wikipedia.org/wiki/Bundesregierung_Raab_III,"nyt, mueller","Cabinet was appointed on 16 July 1959. 
+Cabinet submited its resignation on 22 October 1960 after disputes over 1961 budget and resigned on 3 November.",,105,347,,40,19590
+115,67,1970-07-15,Karjalainen II,0,http://fi.wikipedia.org/wiki/Karjalaisen_toinen_hallitus,"keesings, nyt","Cabinet was appointed on 15 July 1970
+Cabinet requested to resign on 17 March 1971 after internal divisions and it was reshuffled on 26 March.",,707,77,,246,19701
+116,43,1981-06-22,Mauroy II,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,mueller,,cabinet ended by formal resignation; junior minister of MRG in cabinet but no minister,866,20,677,250,19811
+117,26,2006-05-17,Prodi II,0,http://en.wikipedia.org/wiki/Prodi_II_Cabinet,ejpr,,,567,107,329,380,20060
+118,23,2007-04-05,Popescu-Tariceanu III,0,http://en.wikipedia.org/wiki/C%C4%83lin_Popescu-T%C4%83riceanu,ejpr,,,28,165,4,642,20070
+119,44,2007-06-27,Brown,0,http://en.wikipedia.org/wiki/Brown_Ministry,bpf,,PM Brown resigned on 11 May 2010 following electoral defeat on 6 May.,516,233,196,826,20070
+120,67,1944-11-17,Paasikivi I,0,http://fi.wikipedia.org/wiki/Paasikiven_II_hallitus,valt,,,305,297,,246,19442
+121,11,1984-07-26,Lange I,0,,,,,259,56,,554,19840
+122,72,1984-12-22,Mifsud Bonnici,0,,,,,83,136,,470,19840
+123,26,1950-01-21,De Gasperi VI,0,http://it.wikipedia.org/wiki/Governo_De_Gasperi_VI,mueller,,,676,467,,380,19500
+124,8,2003-05-27,Balkenende II,0,http://en.wikipedia.org/wiki/Balkenende_II,,,,763,335,177,528,20030
+125,67,1946-03-26,Pekkala,0,http://en.wikipedia.org/wiki/Mauno_Pekkala,valt,,,815,101,,246,19460
+126,37,1997-06-26,Ahern I,0,,,,,573,316,34,372,19970
+127,56,1989-09-10,Hermannsson III,0,http://en.wikipedia.org/wiki/Steingr%C3%ADmur_Hermannsson,indridason,,,301,673,,352,19890
+128,8,1948-08-07,Drees I,0,http://en.wikipedia.org/wiki/Netherlands_cabinet_Drees-1,,,Cabinet fell after VVD ministers resigned following a VVD vote supporting a motion of no-confidence that had no majority in parliament.,96,497,,528,19480
+129,40,1983-12-07,Bundesrat 1983,0,,,,,723,631,,756,19830
+130,56,2003-05-23,Oddsson IV,0,http://en.wikipedia.org/wiki/Dav%C3%AD%C3%B0_Oddsson,ejpr,,,177,178,,352,20030
+131,43,1968-07-12,Murville,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,,93,386,,250,19681
+132,74,1991-12-23,Olszewski,0,http://en.wikipedia.org/wiki/Jan_Olszewski,"afp, reuters","Government was appointed on 23 December 1991 after winning a confidence vote (yes: 235, no: 60, abstain: 139).
+Government lost a vote of confidence on 4 June 1992 (yes: 119, no, 273, abstain: 33) after communist secret police files were distributed (AFP).",,75,211,,616,19911
+133,59,1945-12-04,Figl I,0,http://de.wikipedia.org/wiki/Bundesregierung_Figl_I,"mueller, oepa","PM Figl was appointed on 4 December and the cabinet on 20 December.
+Cabinet ended on 20 November 1947 when the Communist Party (KPO) withdrew from the coalition.
+",,452,402,,40,19451
+134,5,2007-09-26,Fukuda Y,0,,ejpr,,,390,554,,392,20071
+135,63,1981-09-04,Balsemao II,0,,,,,396,281,,620,19811
+136,68,1996-07-02,Klaus III,0,http://en.wikipedia.org/wiki/V%C3%A1clav_Klaus,"ap, reuters","PM Klaus was appointed on 2 July and his cabinet the following day. The cabinet won an investiture vote on 26 July (yes: 98, no: 40) through absent votes by the Social Democrats (CSSD). 
+Two smaller coalition parties (KDU/CSL and ODA) withdrew from cabinet on 28/29 November 1997 and cabinet resigned on 30 November.",,835,301,,203,19960
+137,35,1976-10-07,Falldin I,0,http://sv.wikipedia.org/wiki/Regeringen_F%C3%A4lldin_I,"keesings, mueller",Cabinet resigned on 5 October in disagreement over nuclear energy policy.,,438,262,,752,19760
+138,75,2003-04-10,Parts,0,http://en.wikipedia.org/wiki/Juhan_Parts,mue-rom,,,152,423,,233,20030
+139,67,1964-09-12,Virolainen,0,http://en.wikipedia.org/wiki/Johannes_Virolainen,"valt, nyt",Cabinet was appointed on 12 September 1964.,,332,354,,246,19640
+140,26,1976-07-29,Andreotti III,0,http://it.wikipedia.org/wiki/Governo_Andreotti_III,mueller,,,842,502,,380,19761
+142,35,1981-05-19,Falldin III,0,http://sv.wikipedia.org/wiki/Regeringen_F%C3%A4lldin_III,mueller,,,16,473,,752,19810
+143,67,1975-06-13,Liinamaa,1,http://en.wikipedia.org/wiki/Keijo_Liinamaa,valt,,,769,636,,246,19750
+144,64,1958-11-06,Eyskens G III,0,http://en.wikipedia.org/wiki/Gaston_Eyskens,mueller,,,112,573,,56,19581
+145,60,1994-04-08,Drnovsek III,0,http://en.wikipedia.org/wiki/Janez_Drnovsek,bbc,"Continuation cabinet started on 8 April 1994 with a change in party composition of the previous cabinet.
+It ended on 26 January 1996 when the Social Democrats (ZLSD) withdrew.",,559,382,,705,19940
+146,5,1986-07-22,Nakasone III,0,,,,,568,506,,392,19860
+147,54,1949-09-20,Adenauer I,0,http://de.wikipedia.org/wiki/Kabinett_Adenauer_I,,,,,581,,276,19490
+148,8,1989-11-07,Lubbers III,0,http://en.wikipedia.org/wiki/Netherlands_cabinet_Lubbers-3,,,,550,627,587,528,19890
+149,26,1974-11-23,Moro IV,0,http://it.wikipedia.org/wiki/Governo_Moro_IV,mueller,,,317,65,,380,19741
+150,43,1946-06-24,Bidault I,1,http://fr.wikipedia.org/wiki/Gouvernement_Georges_Bidault_(1),w,,,648,348,,250,19461
+151,37,1944-06-09,Valera VII,0,http://en.wikipedia.org/wiki/Government_of_the_12th_D%C3%A1il,,,,,122,,372,19440
+152,75,2002-01-28,Kalls,0,http://en.wikipedia.org/wiki/Siim_Kallas,mue-rom,,,480,239,,233,20020
+153,55,2004-03-09,Emsis,0,http://en.wikipedia.org/wiki/Indulis_Emsis,mue-rom,,,661,260,,428,20040
+154,37,1948-02-18,Costello I,0,http://en.wikipedia.org/wiki/Government_of_the_13th_D%C3%A1il,,,,151,60,,372,19480
+155,33,1990-04-04,Hawke IV,0,http://en.wikipedia.org/wiki/Fourth_Hawke_Ministry,aph-11,,,875,752,,36,19900
+156,35,1996-03-21,Persson I,0,http://en.wikipedia.org/wiki/Cabinet_of_G%C3%B6ran_Persson,mueller,,,528,412,55,752,19960
+157,68,2009-04-09,Fischer,1,http://en.wikipedia.org/wiki/Jan_Fischer_%28Czech_politician%29,"ctk, reuters","Interim PM Fischer was appointed on 9 April 2009 and the cabinet on 8 May. He was nominated by Civic Democratics (ODS), Social Democrats (CSSD), Greens (SZ) and won an investiture vote on 7 June (yes: 156).
+Cabinet ended with election on 29 May 2010 and resigned on 25 June.",,260,50,567,203,20090
+158,56,1995-04-13,Oddsson II,0,http://en.wikipedia.org/wiki/Dav%C3%AD%C3%B0_Oddsson,indridason,,,640,82,,352,19950
+159,43,1974-05-27,Chirac I,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,,17,357,,250,19741
+160,72,2003-04-15,Fenech Adami IV,0,,,,,582,509,,470,20030
+161,67,1954-05-05,Torngren,0,http://en.wikipedia.org/wiki/Ralf_Törngren,valt,,,738,71,,246,19540
+162,39,2009-04-14,Bajnai,0,http://en.wikipedia.org/wiki/Gordon_Bajnai,w,,,706,194,224,348,20090
+163,5,2000-07-04,Mori II,0,,ejpr,,,211,237,,392,20001
+164,74,2007-11-16,Tusk I,0,http://en.wikipedia.org/wiki/First_Cabinet_of_Donald_Tusk,"bbc, reuters","Tusk was designated as prime minister on 9 November 2007 and appointed on 16 November. The cabinet won an investiture vote on 24 November (yes: 238, no: 204) and ended with elections on 9 October 2011.",,356,560,199,616,20071
+165,68,1992-07-02,Klaus I,0,http://en.wikipedia.org/wiki/V%C3%A1clav_Klaus,,,,262,39,,203,19920
+166,51,1977-08-31,Kyprianou I,0,http://en.wikipedia.org/wiki/Spyros_Kyprianou,nyt,Kyprianou became president on 31 August 1977 following the death of Archbiship Makarios.,,,528,,196,19770
+168,64,1946-03-13,Spaak I,0,http://en.wikipedia.org/wiki/Paul-Henri_Spaak,mueller,,,204,19,,56,19460
+169,63,2005-03-12,Socrates I,0,http://en.wikipedia.org/wiki/Jos%C3%A9_S%C3%B3crates,ejpr,,,755,210,140,620,20050
+170,54,1966-12-01,Kiesinger,0,http://de.wikipedia.org/wiki/Kabinett_Kiesinger,,,,326,250,,276,19660
+171,23,1999-12-21,Isarescu,0,http://en.wikipedia.org/wiki/Mugur_Is%C4%83rescu,reuters,"Cabinet won an investiture vote (yes: 305, no: 35) on 21 December 1999 in a joint sitting of parliament.
+Cabinet ended with election on 26 November 2000.",,440,49,,642,19991
+172,8,1967-04-05,De Jong,0,http://en.wikipedia.org/wiki/Netherlands_cabinet_De_Jong,,,,455,204,,528,19670
+173,37,2008-05-07,Cowen,0,http://en.wikipedia.org/wiki/Government_of_the_30th_D%C3%A1il#28th_Government_of_Ireland,reuters,Cabinet ended on 23 January 2011 when the Green party withdrew.,There is a change in party composition when the PD was formally dissolved on 20 November 2009. Not coded as cabinet change since the PD minister remains in office as an independent.,864,190,123,372,20080
+174,7,1945-11-14,Dupong II,1,http://en.wikipedia.org/wiki/National_Union_Government_%281945%29,nyt,Cabinet resigned on 13 February 1947.,,340,144,,442,19450
+175,7,1984-07-20,Santer I,0,http://lb.wikipedia.org/wiki/Regierung_Santer-Poos_I,,,,27,183,109,442,19840
+176,26,1992-06-28,Amato I,0,http://it.wikipedia.org/wiki/Governo_Amato_I,mueller,,,202,605,280,380,19920
+177,56,1999-05-28,Oddsson III,0,http://en.wikipedia.org/wiki/Dav%C3%AD%C3%B0_Oddsson,indridason,,,158,592,,352,19990
+178,33,1954-07-09,Menzies VI,0,http://en.wikipedia.org/wiki/Sixth_Menzies_Ministry,hug-68,,,566,743,,36,19540
+179,37,2002-06-06,Ahern II,0,,,,,126,408,491,372,20020
+180,5,1980-07-17,Suzuki,0,,,,,727,113,,392,19801
+181,9,1983-06-08,Willoch II,0,http://en.wikipedia.org/wiki/K%C3%A5re_Willoch,mueller,,,485,100,,578,19830
+182,29,1997-06-11,Chretien II,0,,,,,785,650,,124,19970
+183,26,1968-06-24,Leone II,0,http://it.wikipedia.org/wiki/Governo_Leone_II,mueller,,,433,261,,380,19680
+184,44,1955-05-26,Eden II,0,http://en.wikipedia.org/wiki/Conservative_Government_1955%E2%80%931957,,,,729,678,,826,19551
+185,1,2006-02-08,Dzurinda III,0,http://en.wikipedia.org/wiki/Mikul%C3%A1%C5%A1_Dzurinda,mue-rom,,,547,218,124,703,20060
+187,60,2002-12-19,Rop I,0,http://en.wikipedia.org/wiki/Anton_Rop,"ejpr, mue-rom",,,505,525,,705,20020
+188,39,2004-09-29,Gyuresany I,0,http://en.wikipedia.org/wiki/Ferenc_Gyurcs%C3%A1ny,mue-rom,,,302,463,224,348,20040
+189,21,1994-09-27,Rasmussen N II,0,http://en.wikipedia.org/wiki/Cabinet_of_Poul_Nyrup_Rasmussen_II,reuters,"Cabinet was presented on 27 September 1994.
+Socialist Peoples Party (SF) and Red-Green Alliance (Enh) agreed to support the cabinet.
+Cabinet ended on 30 December 1996 when the Centre Democrats (CD) withdrew from the coalition.",,740,89,434,208,19940
+190,41,2000-04-13,Simitis III,0,,,,,33,475,482,300,20000
+191,43,1947-10-22,Ramadier II,0,http://fr.wikipedia.org/wiki/Gouvernement_Paul_Ramadier_(2),w,,,330,75,,250,19471
+192,54,1953-10-20,Adenauer II,0,http://de.wikipedia.org/wiki/Kabinett_Adenauer_II,wid,Cabinet ended on 15 July 1955 when German Bloc (GB/BHE) ministers joined Christian Democrats (CDU) party group.,,147,103,,276,19530
+193,64,1999-07-12,Verhofstadt I,0,http://en.wikipedia.org/wiki/Verhofstadt_I_Government,,,,95,2,624,56,19990
+194,74,2000-06-07,Buzek II,0,http://en.wikipedia.org/wiki/Jerzy_Buzek,mue-rom,,,517,477,,616,20000
+195,21,1984-01-10,Schluter II,0,http://da.wikipedia.org/wiki/Regeringen_Poul_Schl%C3%BCter_I,"mueller, nyt",Government ended with elections on 8 September 1987 and resigned a day later.,,819,597,271,208,19840
+196,7,1999-08-07,Juncker II,0,http://en.wikipedia.org/wiki/Juncker-Polfer_Ministry,,,,621,299,505,442,19990
+197,43,1958-06-01,de Gaulle III,1,http://fr.wikipedia.org/wiki/Gouvernement_Charles_de_Gaulle_(3),w,,,594,312,,250,19581
+198,40,1999-12-15,Bundesrat 1999,0,,swiss,,,38,427,,756,19990
+199,43,1992-04-02,Beregovoy I,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,,229,643,360,250,19920
+200,67,1951-09-20,Kekkonen III,0,http://en.wikipedia.org/wiki/Urho_Kekkonen,valt,,,639,575,,246,19511
+201,55,1994-09-15,Gailis,0,http://en.wikipedia.org/wiki/Maris_Gailis,mue-rom,,,434,564,,428,19940
+202,26,1991-04-13,Andreotti VII,0,http://it.wikipedia.org/wiki/Governo_Andreotti_VII,reuters,"PM Andreotti formed a new cabinet with all former coalition partners and presented it to President Cossiga on 12 April 1991. The cabinet was appointed the following day but the Republican Party (PRI) pulled out after a row over cabinet posts. It won a confidence vote (yes: 339, no: 207 [lower house]; yes: 177, no: 104 [upper house]) on 29 April.",,460,17,280,380,19910
+203,67,1968-03-22,Koivisto I,0,http://en.wikipedia.org/wiki/Mauno_Koivisto,valt,,,339,460,,246,19680
+204,64,1945-08-02,Van Acker II,0,http://en.wikipedia.org/wiki/Achille_Van_Acker,,,,808,,,56,19451
+205,27,1977-07-04,Suarez I,0,,,,"Minority government with various supporting parties (Hopkin 2005, 389),",,42,,724,19770
+206,67,1994-06-26,Aho II,0,http://en.wikipedia.org/wiki/Esko_Aho,valt,,,831,602,,246,19940
+207,35,1956-09-26,Erlander V,0,http://sv.wikipedia.org/wiki/Regeringen_Erlander_II,"mueller, nyt",Cabinet remained in office after elections on 26 September 1956 and resigned on 26 October 1957 following the withdrawal of the Centre Party from the coalition four days earlier.,,781,450,,752,19560
+208,35,1958-06-01,Erlander VII,0,http://sv.wikipedia.org/wiki/Regeringen_Erlander_III,mueller,,,380,251,,752,19580
+209,43,1957-06-13,Bourges-Maunoury,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,,591,312,,250,19570
+210,51,1978-03-08,Kyprianou II,0,http://en.wikipedia.org/wiki/Spyros_Kyprianou,keesings,Cabinet was presented on 8 March 1978 following the re-election of President Kyprianou on 28 February.,,166,528,,196,19780
+211,5,2000-04-05,Mori I,0,,ejpr,,,665,628,,392,20000
+212,11,1999-12-09,Clark I,0,http://en.wikipedia.org/wiki/Fifth_Labour_Government_of_New_Zealand,"ejpr, w",confidence and supply from the Greens,,388,451,,554,19990
+213,5,1990-02-28,Kaifu II,0,,,,,106,25,,392,19900
+214,26,1998-10-21,D'Alema I,0,http://it.wikipedia.org/wiki/Governo_D%27Alema_I,"reuters, afp","PM D'Alema and his cabinet were appointed on 21 October 1998 and won a confidence vote in parliament (yes: 333, no: 281 [lower house]) on 23 October and in the Senate (yes: 188, no: 116 [upper house]) on 27 October (Reuters).
+He resigned on 18 December 1999 after Republicans (UDR) and Socialists (SDI) called for his resignation (AFP).",,276,551,326,380,19980
+215,37,1989-07-12,Haughey IV,0,,,,,77,590,46,372,19890
+216,44,1970-06-19,Heath,0,http://en.wikipedia.org/wiki/Conservative_Government_1970-1974,bpf,,,733,311,,826,19700
+217,37,1965-04-21,Lemass III,0,http://en.wikipedia.org/wiki/Government_of_the_18th_D%C3%A1il,,,,667,323,,372,19650
+218,21,1955-02-01,Hansen I,0,http://da.wikipedia.org/wiki/Regeringen_H.C._Hansen_I,mueller,,,879,630,,208,19550
+219,35,1969-10-14,Palme I,0,http://sv.wikipedia.org/wiki/Regeringen_Palme_I,mueller,,,821,655,,752,19690
+220,35,1988-09-18,Carlsson II,0,http://sv.wikipedia.org/wiki/Regeringen_Carlsson_II,"mueller, nyt","Minority cabinet was supported by either Liberals (FP) or Communists (VK). PM Carlsson threatened to resign if the parliament would not support an economic rescue bill. He lost the vote (yes: 153, no: 190, absent: 6) and resigned on 15 February 1990.",,478,428,,752,19880
+221,9,1955-01-22,Gerhardsen IV,0,http://en.wikipedia.org/wiki/Einar_Gerhardsen,mueller,,,545,167,,578,19550
+222,7,1994-07-13,Santer III,0,http://lb.wikipedia.org/wiki/Regierung_Santer-Poos_III,,,,418,306,594,442,19940
+224,41,2009-10-06,Papandreou G,0,http://en.wikipedia.org/wiki/George_Papandreou_%28junior%29,"ejpr, afp, reuters",PM Papandreou announced his resignation on 6 November 2011 following an economic crisis. He submitted his resignation on 9 November after finding an agreement with opposition parties about a national unity government.,,581,651,264,300,20090
+225,64,1977-06-03,Tindemans IV,0,http://en.wikipedia.org/wiki/Leo_Tindemans,"mueller, nyt",,,451,420,,56,19771
+226,74,1993-10-26,Pawlak II,0,http://en.wikipedia.org/wiki/Waldemar_Pawlak,mue-rom,,,730,268,,616,19931
+227,5,1978-12-07,Ohira I,0,http://en.wikipedia.org/wiki/Masayoshi_Ohira,,,,337,53,,392,19780
+228,55,2004-12-02,Kalvitis I,0,http://en.wikipedia.org/wiki/Aigars_Kalv%C4%ABtis,mue-rom,,,153,260,145,428,20041
+229,43,1991-05-15,Cresson,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,,712,643,360,250,19910
+230,67,1959-01-13,Sukselainen III,0,http://fi.wikipedia.org/wiki/Sukselaisen_II_hallitus,"nyt, valt",Sukselainen resigned on 29 June 1961 following his conviction for administrative irregularities in the State Pensions Institution.,,552,616,,246,19590
+231,8,1971-06-07,Biesheuvel I,0,http://en.wikipedia.org/wiki/Netherlands_cabinet_Biesheuvel-1,,,,172,125,,528,19710
+232,67,1953-07-09,Kekkonen IV,0,http://en.wikipedia.org/wiki/Urho_Kekkonen,"nyt, valt",PM Kekkonen resigned on 4 November after losing a vote of confidence on a state grant for housing.,,200,575,,246,19530
+233,64,1978-10-20,Vanden Boeynants II,1,http://en.wikipedia.org/wiki/Paul_Vanden_Boeynants,"mueller, nyt",,Caretaker cabinet remains in office for more than three months before and after the election (17 December 1978) but continuation caretaker cabinets are only coded ones.,225,420,,56,19780
+234,33,2004-10-26,Howard IV,0,http://en.wikipedia.org/wiki/Fourth_Howard_Ministry,aph-11,,,812,762,,36,20040
+235,55,1995-12-21,Skele I,0,http://en.wikipedia.org/wiki/Andris_Skele,rferl,,,201,534,,428,19950
+237,44,1959-10-14,Macmillan II,0,http://en.wikipedia.org/wiki/Conservative_Government_1957-1964,,,,404,161,,826,19590
+238,27,1982-12-02,Gonzalez I,0,,,,,406,85,,724,19820
+239,26,2000-04-28,Amato II,0,http://it.wikipedia.org/wiki/Governo_Amato_II,ejpr,,,522,551,363,380,20000
+240,43,1988-05-10,Rocard I,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,,290,623,415,250,19880
+241,5,1960-07-19,Ikeda I,0,,,,,780,645,,392,19600
+242,5,1982-11-27,Nakasone I,0,,,,,180,113,,392,19820
+243,8,1951-03-15,Drees II,0,http://en.wikipedia.org/wiki/Netherlands_cabinet_Drees-2,,,,128,497,,528,19510
+244,43,1995-05-17,Juppe I,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,,318,664,680,250,19950
+245,26,1978-03-11,Andreotti IV,0,http://it.wikipedia.org/wiki/Governo_Andreotti_IV,mueller,,,140,502,,380,19780
+246,56,2006-06-15,Haarde I,0,http://en.wikipedia.org/wiki/Geir_Haarde,ejpr,,,555,178,,352,20060
+248,21,1977-02-15,Jorgensen III,0,http://da.wikipedia.org/wiki/Regeringen_Anker_J%C3%B8rgensen_II,mueller,,,50,409,,208,19770
+249,29,1957-06-21,Diefenbaker I,0,,nyt,,Diefenbaker dissolved parliament on 2 February 1958 to gain new mandate,327,562,,124,19570
+250,26,1955-07-22,Segni I,0,http://it.wikipedia.org/wiki/Governo_Segni_I,mueller,,,796,642,,380,19550
+251,11,2008-11-19,Key I,0,http://en.wikipedia.org/wiki/Fifth_National_Government_of_New_Zealand,,"confidence and supply agreements with ACT New Zealand, Māori Party and United Future",,427,660,,554,20080
+252,54,1974-05-16,Schmidt I,0,http://de.wikipedia.org/wiki/Kabinett_Schmidt_I,,,,871,95,,276,19740
+253,5,1991-11-05,Miyazawa,0,,"afp, reuters","Miyazawa lost a confidence vote (yes: 220, no: 255) on 18 June 1993 and dissolved parliament.
+Cabinet resigned on 5 August 1993.",,213,25,,392,19910
+254,56,1967-06-11,Benediktsson II,0,http://en.wikipedia.org/wiki/Bjarni_Benediktsson,"indridason, nyt",PM Benediktsson died in a fire on 10 July 1970.,,553,318,,352,19670
+255,21,1996-12-30,Rasmussen N III,0,http://en.wikipedia.org/wiki/Cabinet_of_Poul_Nyrup_Rasmussen_III,reuters,"Cabinet continued on 30 December 1996 after a change in party composition.
+Centre Democrats (CD), Socialist Peoples Party (SF) and Red-Green Alliance (Enh) supported the cabinet.
+Cabinet ended with an early election on 11 March 1998.",,189,89,434,208,19960
+256,26,2001-06-11,Berlusconi II,0,http://it.wikipedia.org/wiki/Governo_Berlusconi_II,ejpr,,,239,498,363,380,20010
+257,59,2003-02-28,Schuessel III,0,http://de.wikipedia.org/wiki/Bundesregierung_Sch%C3%BCssel_II,afp,"Cabinet was appointed on 28 February 2003.
+Cabinet ended on 4 April 2005 after ministers of the Freedom Party (FPO) formed a new party.",,889,365,16,40,20030
+258,8,1981-09-11,Van Agt II,0,http://en.wikipedia.org/wiki/Netherlands_cabinet_Van_Agt-2,,,,563,81,23,528,19810
+259,11,1981-12-11,Muldoon III,0,,,,,669,513,,554,19810
+260,68,2007-01-09,Topolanek II,0,http://en.wikipedia.org/wiki/Mirek_Topol%C3%A1nek%27s_Second_Cabinet,"reuters, ap","PM Topolanek was appointed on 9 January 2007 and cabinet won an investiture vote (yes: 100, no: 97) on 19 January.
+Cabinet lost a confidence vote (yes: 96, no: 101) on 24 March 2009 following political infighting and PM Topolanek resigned two days later.",,600,50,567,203,20070
+261,33,1966-01-26,Holt I,0,http://en.wikipedia.org/wiki/First_Holt_Ministry,hug-77,,,786,741,,36,19660
+262,68,1990-06-29,Pithart,0,http://en.wikipedia.org/wiki/Petr_Pithart,,,,,63,,203,19900
+263,43,1948-07-26,Marie,0,http://fr.wikipedia.org/wiki/Gouvernement_Andr%C3%A9_Marie,w,,,753,75,,250,19480
+264,64,2008-03-20,Leterme I,0,http://en.wikipedia.org/wiki/Leterme_I_Government,"reuters, dw","Leterme was appointed on 20 March 2008 (Reuters) and won an investiture vote (yes: 97, no: 48, abstain: 1) three days later (Deutsche Welle).
+Leterme offered to resign on 14 July 2008 after failing to find support for strengthening regional autonomy. The request was rejected by the king three days later (Reuters). The New Flemish Alliance (NVA) withdrew from the coalition over the issue on 21 September 2008. 
+The whole cabinet offered its resignation on 19 December 2008 following allegations of exerting pressure on courts over bank bailout cases. The resignation was accepted by the king on 22 December 2008 (Reuters).",Cabinet ends with withdrawal of the N-VA on 21 September 2008 and requests to resign on 19 December. Coded as one observation due to three month coding rule.,441,401,656,56,20080
+265,63,1995-10-28,Guterres I,0,,,,,282,216,14,620,19950
+266,64,1980-05-18,Martens III,0,http://en.wikipedia.org/wiki/Wilfried_Martens,mueller,,,278,663,442,56,19801
+267,15,1991-01-10,Simenas,0,http://en.wikipedia.org/wiki/Albertas_Simenas,,,,584,462,,440,19910
+268,59,2008-12-02,Faymann,0,http://de.wikipedia.org/wiki/Bundesregierung_Faymann,reuters,Parties agreed to form a coalition on 23 November 2008 and cabinet was appointed on 2 December.,,583,607,45,40,20080
+269,1,2006-07-04,Fico I,0,http://en.wikipedia.org/wiki/Robert_Fico,,,,185,192,124,703,20061
+270,8,1982-11-04,Lubbers I,0,http://en.wikipedia.org/wiki/Netherlands_cabinet_Lubbers-1,,,,6,116,23,528,19821
+271,75,1996-12-01,Vahi III,0,http://en.wikipedia.org/wiki/Tiit_V%C3%A4hi,mue-rom,,,530,600,,233,19960
+272,56,1971-07-14,Johannesson I,0,http://en.wikipedia.org/wiki/%C3%93lafur_J%C3%B3hannesson,indridason,,,321,225,,352,19710
+273,44,1979-05-04,Thatcher I,0,http://en.wikipedia.org/wiki/Conservative_Government_1979-1983,bpf,,,590,243,,826,19790
+274,75,2005-04-13,Ansip I,0,http://de.wikipedia.org/wiki/Kabinett_Ansip_I_(Estland),mue-rom,,,138,423,130,233,20050
+275,21,1981-12-30,Jorgensen VI,0,http://da.wikipedia.org/wiki/Regeringen_Anker_J%C3%B8rgensen_V,mueller,,,379,179,271,208,19810
+276,26,1996-05-18,Prodi I,0,http://it.wikipedia.org/wiki/Governo_Prodi_I,reuters,"PM Prodi and his cabinet were appointed 18 May 1996 and won a confidence vote in the Senate (yes: 173, no 139 [upper house]) on 24 May and in parliament (yes: 322, no: 299 [lower house]) on 31 May.
+Minority cabinet was supported by the Communist Refoundation (PRC) and fell when the party withdrew its support over proposed budget cuts. PM Prodi lost a confidence vote (yes: 313, no: 312) and resigned on 9 October 1998.",,991,551,326,380,19960
+277,67,2007-04-19,Vanhanen II,0,http://en.wikipedia.org/wiki/Matti_Vanhanen%27s_second_cabinet,"afp, reuters, valt","Cabinet was appointed on 19 April 2007 (Reuters).
+PM Vanhanen announced in December 2008 that he would end his second term early and resigned on 18 June 2010 (AFP).",,759,314,198,246,20070
+278,64,1980-01-23,Martens II,0,http://en.wikipedia.org/wiki/Wilfried_Martens,mueller,,,521,663,442,56,19800
+279,56,1987-07-08,Palsson,0,http://en.wikipedia.org/wiki/%C3%9Eorsteinn_P%C3%A1lsson,indridason,Cabinet resigned on 17 September 1988 (Indridason) in disagreement over economic policy (AP).,,393,673,,352,19870
+280,26,1957-05-19,Zoli,0,http://it.wikipedia.org/wiki/Governo_Zoli,mueller,,,250,642,,380,19570
+281,41,1996-01-22,Simitis I,0,,,,,74,654,613,300,19960
+282,63,1991-10-31,Silva III,0,,,,,718,90,504,620,19910
+283,5,1987-11-06,Takeshita,0,,,,,146,506,,392,19870
+284,9,1965-10-12,Borten I,0,http://en.wikipedia.org/wiki/Per_Borten,mueller,,,510,517,,578,19650
+285,11,1975-12-12,Muldoon I,0,,,,,413,459,,554,19750
+286,54,1987-03-11,Kohl III,0,http://de.wikipedia.org/wiki/Kabinett_Kohl_III,,,,346,588,610,276,19870
+287,15,2004-12-15,Brazauskas II,0,http://en.wikipedia.org/wiki/Algirdas_Brazauskas,mue-rom,,,405,214,539,440,20040
+288,33,1961-12-22,Menzies IX,0,http://en.wikipedia.org/wiki/Ninth_Menzies_Ministry,hug-68,,,627,740,,36,19610
+289,51,2008-02-28,Christofias I,0,http://en.wikipedia.org/wiki/Dimitris_Christofias,"afp, cymail","President Christofias was sworn in on 28 February 2008 and his cabinet was appointed the following day (AFP).
+Cabinet ends with the resignation of Movement for Social Democracy (EDEK) ministers on 1 March 2010 (Cyprus Mail).",,909,556,397,196,20080
+290,43,1986-03-20,Chirac II,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,,843,623,415,250,19860
+291,8,1972-08-09,Biesheuvel II,1,http://en.wikipedia.org/wiki/Netherlands_cabinet_Biesheuvel-2,,,,231,125,,528,19720
+292,60,2004-04-08,Rop II,0,http://en.wikipedia.org/wiki/Anton_Rop,mue-rom,,,187,525,,705,20040
+293,26,1986-08-01,Craxi II,0,http://it.wikipedia.org/wiki/Governo_Craxi_II,nyt,,,334,617,458,380,19860
+294,59,1994-11-29,Vranitzky IV,0,http://de.wikipedia.org/wiki/Bundesregierung_Vranitzky_IV,"mueller, afp","Cabinet was appointed on 29 November 1994.
+On 13 October 1995, coalition parties agreed to call an early election after disagreement over the 1996 budget. 
+Cabinet ended with an early election on 17 December 1995 and resigned two days later.",,524,66,,40,19940
+295,72,1971-06-21,Mintoff I,0,,,,,681,8,,470,19710
+296,35,1985-09-15,Palme V,0,http://sv.wikipedia.org/wiki/Regeringen_Palme_II,nyt,PM Olof Palme was assassinated on 28 February 1986 and Ingvar Carlsson became acting Prime Minister.,,647,48,,752,19850
+297,44,1987-06-11,Thatcher III,0,http://en.wikipedia.org/wiki/Conservative_Government_1987-1990,,,,646,490,222,826,19870
+298,72,2004-03-23,Gonzi I,0,http://en.wikipedia.org/wiki/Lawrence_Gonzi,ejpr,,,160,509,,470,20040
+299,72,1996-10-28,Sant,0,,reuters,"In November 1997 MP Dom Mintoff, a former PM, withdrew from supporting the government in several votes but vowed not to bring it down. Further divisions led to a lost vote of confidence (yes: 34, no: 35) on 7 July 1998 and early electons were announced on 3 August.",,881,483,,470,19960
+300,9,2001-10-19,Bondevik II,0,http://en.wikipedia.org/wiki/Second_cabinet_Bondevik,ejpr,,,333,328,,578,20010
+301,56,1988-09-28,Hermannsson II,0,http://en.wikipedia.org/wiki/Steingr%C3%ADmur_Hermannsson,"ap, indridason",Government took office on 28 September 1988 (AP).,,279,673,,352,19880
+302,39,2002-05-27,Medgyessy,0,http://en.wikipedia.org/wiki/Medgyessy,"bbc, mue-rom, nyt, nzz",Medgyessy resigned on 19 August 2004 following a conflict with the liberal coalition partner.,,827,463,,348,20020
+303,75,1997-03-14,Siimann,0,http://en.wikipedia.org/wiki/Mart_Siimann,mue-rom,,,271,600,,233,19970
+304,15,2000-10-26,Paksas II,0,http://en.wikipedia.org/wiki/Rolandas_Paksas,mue-rom,,,735,59,,440,20000
+305,67,1944-09-21,Castren,0,http://fi.wikipedia.org/wiki/U._Castr%C3%A9nin_hallitus,valt,,,,297,,246,19441
+306,43,2007-06-18,Fillon II,0,http://fr.wikipedia.org/wiki/Gouvernement_Fran%C3%A7ois_Fillon_(2),ejpr,PM Fillion was appointed by President Sarkozy on 18 June 2007 and the cabinet was appointment a day later.,,807,171,160,250,20071
+307,11,1989-08-08,Palmer,0,,,,,611,322,,554,19890
+308,29,2004-07-20,Martin II,0,http://en.wikipedia.org/wiki/Twenty-Seventh_Canadian_Ministry,parline,Minority support by New Democratic Party.,,103,240,,124,20040
+309,27,2000-04-26,Aznar II,0,,,,,370,687,585,724,20000
+310,9,1985-09-08,Willoch III,0,http://en.wikipedia.org/wiki/K%C3%A5re_Willoch,"nyt, reg-no","Cabinet depended on support of the Progress Party.
+It lost a confidence vote (yes: 78, no 79) over a gas tax bill on 30 April 1986 and resigned on 9 May 1986.",,181,207,,578,19850
+311,64,1965-07-27,Harmel,0,http://en.wikipedia.org/wiki/Pierre_Harmel,mueller,,,613,150,,56,19650
+312,74,2005-10-31,Marcinkiewicz I,0,http://en.wikipedia.org/wiki/Kazimierz_Marcinkiewicz,mue-rom,,,322,188,199,616,20050
+313,51,1983-02-28,Kyprianou IV,0,http://en.wikipedia.org/wiki/Spyros_Kyprianou,"nyt, w",,,914,70,,196,19830
+314,1,1989-12-12,Cic,0,,,,,,,,703,19890
+315,37,1973-03-14,Cosgrave L,0,http://en.wikipedia.org/wiki/Government_of_the_20th_D%C3%A1il,,,,863,283,,372,19730
+316,21,2005-02-18,Rasmussen F II,0,http://en.wikipedia.org/wiki/Cabinet_of_Anders_Fogh_Rasmussen_II,ejpr,,plus 1MP from Greenland,482,563,168,208,20050
+317,26,1974-03-14,Rumor V,0,http://it.wikipedia.org/wiki/Governo_Rumor_V,mueller,,,24,65,,380,19740
+318,43,1993-03-29,Balladur,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,,199,664,360,250,19930
+319,1,2010-07-08,Radicova I,0,http://en.wikipedia.org/wiki/Iveta_Radi%C4%8Dov%C3%A1,"ap, bbc, reuters","PM Radičová was appointed on 8 July 2010 with the cabinet appointment one day after (BBC). The cabinet passed an investiture vote (yes: 79, no: 66) on 10 August 2010 (AP).
+On 11 October 2011 PM Radičová asked for a vote of confidence (yes: 55, no: 9, abstain: 60, absent: 26) linking it to a proposal on the European bailout mechanism, according to article 114 (3) of the constitution. The coalition partner Freedom and Solidarity (SaS) refused to back the cabinet (Reuters).",Coded as an equivalent to a substantively meaningful resignation due to a change into a caretaker cabinet.,269,524,441,703,20100
+320,21,1972-10-05,Jorgensen I,0,http://da.wikipedia.org/wiki/Regeringen_Anker_J%C3%B8rgensen_I,mueller,,,345,400,,208,19720
+321,56,1970-07-10,Hafstein,0,http://en.wikipedia.org/wiki/J%C3%B3hann_Hafstein,"indridason, nyt",,,254,318,,352,19700
+322,74,2004-05-02,Belka,0,http://en.wikipedia.org/wiki/Marek_Belka,"bbc, ejpr, nyt",,Parliamentary composition changes during legislative term,18,565,,616,20040
+323,59,1996-03-12,Vranitzky V,0,http://de.wikipedia.org/wiki/Bundesregierung_Vranitzky_V,"nyt, aufo","Cabinet was appointed on 12 March 1996.
+PM Vranitzky resigned on 18 January 1997 after his party suffered electoral defeats in the European and Vienna City Council elections.",,294,162,13,40,19960
+324,8,1977-05-25,Den Uyl II,1,http://en.wikipedia.org/wiki/Netherlands_cabinet_Den_Uyl,,,Election date (25 June 1977) set as start date because caretaker cabinet remains in office for more than three months after election but elections took place within three months after resignation (22 March 1977).,765,635,,528,19771
+325,39,2006-06-09,Gyurcsany II,0,http://en.wikipedia.org/wiki/Ferenc_Gyurcs%C3%A1ny,mue-rom,,,188,194,224,348,20060
+326,54,1965-10-26,Erhard II,0,http://de.wikipedia.org/wiki/Kabinett_Erhard_II,nyt,CDU executive committee nominated new candidates to succeed chancellor Erhard on 8 November 1966 and he lost an informal confidence vote ('Vertrauensfrage-Ersuchen') on the same day.,,31,250,,276,19650
+327,29,1953-08-10,St-Laurent III,0,http://en.wikipedia.org/wiki/Louis_St._Laurent#Prime_Minister_of_Canada,,,,750,292,,124,19530
+328,63,1980-10-05,Carneiro II,0,,,,,549,281,,620,19801
+329,43,1944-09-10,de Gaulle I,1,http://fr.wikipedia.org/wiki/Gouvernement_Charles_de_Gaulle_(1),w,,,,,,250,19440
+330,43,1947-01-22,Ramadier I,0,http://fr.wikipedia.org/wiki/Gouvernement_Paul_Ramadier_(1),w,,,52,75,,250,19470
+331,56,1959-11-20,Thors VI,0,http://en.wikipedia.org/wiki/%C3%93lafur_Thors,indridason,,,351,320,,352,19591
+332,67,1963-12-18,Lehto,1,http://en.wikipedia.org/wiki/Reino_Ragnar_Lehto,"valt, nyt",Technocratic cabinet under PM Lehto appointed on 18 December 1963.,,764,354,,246,19630
+333,9,2000-03-17,Stoltenberg I,0,http://en.wikipedia.org/wiki/Jens_Stoltenberg,ejpr,,,45,669,,578,20000
+334,26,1983-08-04,Craxi I,0,http://it.wikipedia.org/wiki/Governo_Craxi_I,"mueller, nyt",,,87,617,353,380,19830
+335,37,1981-06-30,Fitzgerald I,0,,,,,442,47,414,372,19810
+336,63,1978-01-23,Soares II,0,,"keesings, mueller",,Soares was dismissed on 27 July 1978 after refusing to resign following CDS defection from the government,585,200,,620,19780
+337,5,1976-12-24,Fukuda T,0,,,,,59,53,,392,19760
+339,67,1966-05-27,Paasio I,0,http://en.wikipedia.org/wiki/Rafael_Paasio,valt,,,139,460,,246,19660
+340,7,1944-11-23,Dupong I,0,http://lb.wikipedia.org/wiki/Regierung_vun_der_Befreiung,,,,,,,442,19440
+341,11,1997-12-08,Shipley I,0,http://en.wikipedia.org/wiki/Fourth_National_Government_of_New_Zealand,reuters,"Cabinet was appointed on 8 December 1997.
+Cabinet ended with withdrawal of the New Zealand First Party (NZFP) on 14 August 1998.",,620,561,,554,19970
+342,51,2003-02-28,Papadopoulos I,0,http://en.wikipedia.org/wiki/Tassos_Papadopoulos,"afp, ap",,,910,339,,196,20030
+343,54,1980-11-05,Schmidt III,0,http://de.wikipedia.org/wiki/Kabinett_Schmidt_III,"nyt, dhbt","FDP ministers resigned on 17 September 1982 and the FDP parliamentary group agreed on 29 September to elect Kohl as Chancellor. Schmidt lost a constructive vote of no-confidence (yes: 256, no: 235, abstain: 4) on 1 October and Kohl was elected by the vote. Earlier this year, Schmidt got support in a confidence vote (yes: 269, no: 224) on 2 February.",,459,547,361,276,19800
+344,11,1969-12-22,Holyoake V,0,http://en.wikipedia.org/wiki/Second_National_Government_of_New_Zealand,,,,44,120,,554,19690
+345,21,1971-10-11,Krag IV,0,http://da.wikipedia.org/wiki/Regeringen_Jens_Otto_Krag_III,mueller,,,596,400,,208,19710
+346,54,1983-03-30,Kohl II,0,http://de.wikipedia.org/wiki/Kabinett_Kohl_II,,,,642,484,361,276,19830
+347,26,1962-02-21,Fanfani IV,0,http://it.wikipedia.org/wiki/Governo_Fanfani_IV,mueller,,,810,507,,380,19620
+348,10,1991-11-08,Dimitrov,0,http://en.wikipedia.org/wiki/Philip_Dimitrov,"mue-rom, nyt",,"Government lost a confidence vote on 28 December 1992 (yes:120, no: 111) and resigned.",,32,,100,19910
+349,43,1966-01-08,Pompidou III,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,,698,407,,250,19660
+350,59,1975-10-28,Kreisky III,0,http://de.wikipedia.org/wiki/Bundesregierung_Kreisky_III,"faz, mueller","Cabinet was appointed on 28 October 1975.
+PM Kreisky initiated an early election after losing a referendum on nuclear energy on 5 November 1978.
+Cabinet ended with election on 6 May 1979 and resigned three days later.",,365,221,,40,19750
+351,56,1959-06-28,Jonsson II,1,http://en.wikipedia.org/wiki/Emil_J%C3%B3nsson,nyt,Caretaker cabinet ended with resignation of PM Jonsson on 19 November 1959 (NYT).,,446,393,,352,19590
+352,67,1999-04-15,Lipponen II,0,http://en.wikipedia.org/wiki/Paavo_Lipponen's_second_cabinet,"reuters, valt",Greens (VIHR) left cabinet on 26 Mai 2002 after a decision to build a new nuclear power plant was approved in parliament two days earlier (Reuters). Environment minister Satu Hassi was replaced on 31 May (Valtioneuvosto).,,100,15,652,246,19990
+353,64,1966-03-19,Vanden Boeynants I,0,http://en.wikipedia.org/wiki/Paul_Vanden_Boeynants,mueller,,,311,150,,56,19660
+354,59,1970-04-21,Kreisky I,0,http://de.wikipedia.org/wiki/Bundesregierung_Kreisky_I,"nyt, faz","Cabinet was appointed on 21 April 1970.
+Minority cabinet was supported by the Freedom Party (FPO).
+PM Kreisky initiated an early election on 6 July 1971 to win a new mandate.
+Cabinet ended with an early election on 10 October 1971 and resigned on 19 October.",,561,377,,40,19700
+355,43,1948-09-12,Queuille I,0,http://fr.wikipedia.org/wiki/Gouvernement_Henri_Queuille_(1),w,,,363,75,,250,19482
+356,74,2006-07-14,Kaczynski,0,http://en.wikipedia.org/wiki/Jaros%C5%82aw_Kaczy%C5%84ski,"reuters, afp","Cabinet was appointed on 14 July 2006 and won an investiture vote (yes: 240, no: 205) on 19 July (AFP).
+Coalition ended on 13 August 2007 when PM Kaczyński dismissed all Self-Defense (SRP) and League of Polish Families (LPR) ministers and called for early election. The cabinet resigned on 5 November following defeat in the election (Reuters).",Coded as one cabinet because election takes place within three months (19 October) and new government forms within three month after election (16 November).,754,188,199,616,20060
+357,74,2001-10-19,Miller I,0,http://en.wikipedia.org/wiki/Leszek_Miller,ejpr,,,194,565,,616,20010
+358,54,1969-10-22,Brandt I,0,http://de.wikipedia.org/wiki/Kabinett_Brandt_I,"nyt, dhbt","Brandt I cabinet lost its legislative majority after several FDP MPs crossed the floor. Opposition leader Barzel (CDU) initiated a constructive vote of no-confidence (yes: 247, no: 10, abstain: 3, total: 260) on 27 April 1972 to be elected as chancellor but gained no majority support. Brandt called for a vote of confidence (yes: 233, no: 248, abstain: 1) on 20 September 1972 to allow for a dissolution of parliament and new elections.",,170,447,,276,19690
+359,21,1953-04-21,Eriksen II,0,http://da.wikipedia.org/wiki/Regeringen_Erik_Eriksen,nyt,"PM Eriksen told King Frederik IX in early May 1953 that his government would continue with minority support from Radical Liberals (RV) and Justice Party (RF).
+It ended with elections on 22 September 1953 and resigned on 29 September.",,36,213,,208,19530
+360,7,1951-07-03,Dupong V,0,http://lb.wikipedia.org/wiki/Regierung_Dupong-Schaus-Bodson,,,,799,149,,442,19510
+361,35,1951-10-01,Erlander III,0,http://sv.wikipedia.org/wiki/Regeringen_Erlander_II,mueller,Continuation cabinet started on 1 October 1951 when Agrarian (B) ministers were appointed and ended with elections on 21 September 1952.,,445,431,,752,19510
+362,41,1990-04-11,Mitsotakis,0,,reuters,"Cabinet was appointed on 11 April 1990.
+Cabinet resigned  on 9 September 1993 after losing parliamentary majority. Some MPs from the New Democracy (ND) party group withdrew their support in conflict over the Republic of Macedonia.",,716,284,518,300,19901
+363,43,1948-09-05,Schuman II,0,http://fr.wikipedia.org/wiki/Gouvernement_Robert_Schuman_(2),w,,,263,75,,250,19481
+364,37,1959-06-23,Lemass I,0,http://en.wikipedia.org/wiki/Government_of_the_16th_D%C3%A1il,,,,523,469,,372,19590
+365,59,1971-11-04,Kreisky II,0,http://de.wikipedia.org/wiki/Bundesregierung_Kreisky_II,mueller,"Cabinet was appointed on 4 November 1971.
+Cabinet ended with election on 5 October 1975 and resigned three days later.",,354,185,,40,19710
+366,8,1952-09-02,Drees III,0,http://en.wikipedia.org/wiki/Netherlands_cabinet_Drees-3,,,,243,543,,528,19520
+367,43,1950-07-12,Pleven I,0,http://fr.wikipedia.org/wiki/Gouvernement_Ren%C3%A9_Pleven_(1),w,,,758,75,,250,19501
+369,39,1990-05-23,Antall,0,http://en.wikipedia.org/wiki/J%C3%B3zsef_Antall,mue-rom,Antall became ill with cancer and died on 12 December 1993.,,,257,,348,19900
+370,27,1996-05-05,Aznar I,0,,,"Minority cabinet supported by small regional parties, especially Convergence and Unity (CiU) and Basque National Party (PNV) (Hopkin 2005, 389),",,654,99,44,724,19960
+371,5,1996-11-07,Hashimoto II,0,,afp,"PM Hashimoto was elected on 7 November 1996 (yes: 262).
+Cabinet announced resignation on 13 July 1998, effective 30 July, following defeat in upper house elections.",,800,628,,392,19961
+372,26,1959-02-15,Segni II,0,http://it.wikipedia.org/wiki/Governo_Segni_II,mueller,,,880,507,,380,19590
+373,67,1956-03-03,Fagerholm II,0,http://en.wikipedia.org/wiki/Karl-August_Fagerholm%27s_second_cabinet,"keesings, nyt, valt",Fagerholm lost party support and was defeated on 24 April 1957 by a single vote in an election for the party presidency of the SSDP.,,685,71,,246,19560
+374,5,2009-09-16,Hatoyama Y,0,http://en.wikipedia.org/wiki/Yukio_Hatoyama,bbc,"Conflict over a US military base on Okinawa led to the fall of the cabinet and PM Hatoyama resigned on 2 June 2010. Previously, the SDP quit the coalition on 30 May 2010.",,494,327,,392,20090
+375,64,1985-11-28,Martens VI,0,http://en.wikipedia.org/wiki/Wilfried_Martens,mueller,,,724,396,10,56,19850
+376,54,1955-07-15,Adenauer III,0,http://de.wikipedia.org/wiki/Kabinett_Adenauer_II,"nyt, wid",Cabinet ended on 23 February 1956 after ministers of the Free Democratic Party (FDP) withdrew from the party group.,,192,103,,276,19550
+377,55,1997-02-13,Skele II,0,http://en.wikipedia.org/wiki/Andris_Skele,conrad,,,235,534,,428,19970
+378,67,1982-02-19,Sorsa IV,0,http://en.wikipedia.org/wiki/Kalevi_Sorsa,"nyt, valt",SKDL voted against bill that was supported by all parties in parliament.,,776,84,,246,19820
+379,21,1979-10-26,Jorgensen V,0,http://da.wikipedia.org/wiki/Regeringen_Anker_J%C3%B8rgensen_IV,"mueller, nyt, parline","Cabinet lost a vote over an economic reform bill (yes: 74, no: 78, abstain: 10) on 12 November 1981 and PM Jorgensen dissolved parliament (Parline, NYT). He resigned on 9 December following electoral defeat (NYT).",,824,242,271,208,19790
+380,35,1957-10-31,Erlander VI,0,http://sv.wikipedia.org/wiki/Regeringen_Erlander_III,nyt,"Cabinet was appointed on 31 October 1957 and ended with the dissolution of parliament on 28 April 1958 after loosing a confidence vote about a pension reform bill three days earlier (yes: 111, no 117).",,207,450,,752,19570
+381,63,2002-04-06,Barroso,0,,,,EJPR Yearbook lists one minister that is independent but member of parliament but there are no independent members of parliament in the last election outcomes.,5,657,619,620,20020
+382,26,1995-01-17,Dini I,1,http://it.wikipedia.org/wiki/Governo_Dini,reuters,"A technocratic cabinet under PM Dine was appointed on 17 January 1995 and won a confidence vote in parliament (yes: 302, no: 39, abstain: 270 [lower house]) on 25 January and in the Senate (yes: 191, no: 17, abstain: 2 [upper house]) on 1 February.
+Cabinet had no stable majority support. In October 1995 (facing a confidence motion) Dini promised to resign by the end of the year after passing the 1996 budget. 
+Dini offered his resignation on 30 December 1995 (rejected by President Scalfaro) and resigned on 11 January 1996.",,672,146,326,380,19950
+383,67,2010-06-22,Kiviniemi,0,http://fi.wikipedia.org/wiki/Kiviniemen_hallitus,"reuters, stt, valt, yle","PM Kiviniemi was approved in parliament on 22 June 2010 (yes: 115, no: 56, abstain: 4, absent: 24) (Reuters, STT).
+Cabinet  ended with regular election on 18 March 2011. PM Kiviniemi handed in her resignation on 28 April but cabinet remained in caretaker capacity until the new cabinet formed on 22 June (YLE).",,277,314,181,246,20100
+384,63,1979-07-07,Pintassilgo,1,http://en.wikipedia.org/wiki/Maria_de_Lourdes_Pintasilgo,,,,465,200,,620,19790
+385,33,2007-12-03,Rudd,0,http://en.wikipedia.org/wiki/First_Rudd_Ministry,bbc,Rudd was ousted on 24 June 2010 in a surprise leadership vote of the Labor Party and stepped down as prime minister.,,234,761,,36,20070
+387,21,1945-11-07,Kristensen,0,http://en.wikipedia.org/wiki/Cabinet_of_Knud_Kristensen,"keesings, nyt","Government ended by losing a vote of confidence on 4 October 1947 (yes: 66, no: 88) and cabinet resignation on 5 November.",,10,121,,208,19451
+388,11,1998-08-14,Shipley II,0,http://en.wikipedia.org/wiki/Fourth_National_Government_of_New_Zealand,"reuters, ejpr",Cabinet continued on 14 August 1998 following a change in party composition. ,Minority support on confidence issues by ACT and UNZ.,341,561,,554,19980
+389,64,1952-01-15,Houtte,0,http://en.wikipedia.org/wiki/Jean_Van_Houtte,mueller,,,700,217,,56,19520
+390,5,2007-08-27,Abe II,0,,ejpr,,,679,554,,392,20070
+391,67,1971-10-29,Aura II,1,http://en.wikipedia.org/wiki/Teuvo_Aura,valt,,,856,77,,246,19711
+393,56,1983-05-26,Hermannsson I,0,http://en.wikipedia.org/wiki/Steingr%C3%ADmur_Hermannsson,indridason,,,752,114,,352,19830
+394,9,1986-05-09,Brundtland II,0,http://en.wikipedia.org/wiki/Gro_Harlem_Brundtland,mueller,,,310,207,,578,19860
+395,7,1947-03-01,Dupong III,0,http://lb.wikipedia.org/wiki/Regierung_Dupong-Schaus,,,,174,144,,442,19470
+396,63,1981-01-09,Balsemao I,0,,nyt,,Balsemao resigned on 10 August 1981 due to lack of internal support.,328,281,,620,19810
+397,43,1955-02-23,Faure II,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,,414,293,,250,19550
+398,26,1972-02-17,Andreotti I,0,http://it.wikipedia.org/wiki/Governo_Andreotti_I,mueller,,,89,261,,380,19720
+399,1,1990-06-27,Meciar I,0,http://en.wikipedia.org/wiki/Vladim%C3%ADr_Me%C4%8Diar,,,,314,538,,703,19900
+400,43,1953-06-28,Laniel,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,,557,293,,250,19531
+401,33,1984-12-13,Hawke II,0,http://en.wikipedia.org/wiki/Second_Hawke_Ministry,aph-11,,,576,733,,36,19840
+402,33,1996-03-11,Howard I,0,http://en.wikipedia.org/wiki/First_Howard_Ministry,aph-11,,,49,754,,36,19960
+404,44,1957-01-10,Macmillan I,0,http://en.wikipedia.org/wiki/Conservative_Government_1957-1964,bpf,,,184,678,,826,19570
+405,15,2001-07-03,Brazauskas I,0,http://en.wikipedia.org/wiki/Algirdas_Brazauskas,mue-rom,,,304,59,,440,20010
+406,27,1981-02-26,Calvo-Sotelo,0,,,,"Minority government with various supporting parties (Hopkin 2005, 389),",539,493,,724,19810
+407,60,2004-12-03,Jansa I,0,http://en.wikipedia.org/wiki/Janez_Jan%C5%A1a,mue-rom,,,292,80,659,705,20041
+408,21,1947-11-13,Hedtoft I,0,http://da.wikipedia.org/wiki/Regeringen_Hans_Hedtoft_I,nyt,Cabinet resigned on 9 August 1950 following opposition refusal to approve import controls.,,387,541,,208,19470
+409,74,1995-03-06,Oleksy,0,http://en.wikipedia.org/wiki/J%C3%B3zef_Oleksy,mue-rom,,,226,268,,616,19950
+410,11,1954-11-26,Holland III,0,,,,,66,321,,554,19540
+411,43,1945-11-21,de Gaulle II,1,http://fr.wikipedia.org/wiki/Gouvernement_Charles_de_Gaulle_(2),w,,,329,471,,250,19450
+412,59,1997-01-28,Klima I,0,http://de.wikipedia.org/wiki/Bundesregierung_Klima,afp. aufo,"Cabinet was appointed on 28 January 1997.
+Cabinet ended with election on 3 October 1999 and resigned two days later.",,323,162,22,40,19970
+413,11,1974-09-06,Rowling,0,,,,,97,1,,554,19740
+414,43,1954-06-19,Mendes-France,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,,400,293,,250,19540
+415,29,1965-12-18,Pearson II,0,,,,,857,282,,124,19650
+416,26,1946-07-13,De Gasperi II,0,http://it.wikipedia.org/wiki/Governo_De_Gasperi_II,mueller,,,790,503,,380,19460
+417,5,1993-08-06,Hosokawa,0,,reuters,"PM Hosokawa was elected (yes: 262, total: 503 [lower house]; yes: 132, total: 240 [upper house]) and the cabinet was appointed three days later.",,253,57,,392,19930
+418,7,1989-07-14,Santer II,0,http://lb.wikipedia.org/wiki/Regierung_Santer-Poos_II,,,,175,526,238,442,19890
+419,44,1974-03-04,Wilson III,0,http://en.wikipedia.org/wiki/Labour_Government_1974-1979,bpf,Minority cabinet with support of the Ulster Unionists.,,216,568,,826,19740
+420,1,1993-01-12,Meciar III,0,http://en.wikipedia.org/wiki/Vladim%C3%ADr_Me%C4%8Diar,mue-rom,,,690,294,,703,19930
+421,33,1977-12-20,Fraser III,0,http://en.wikipedia.org/wiki/Third_Fraser_Ministry,hug-86,,,836,755,,36,19770
+422,43,1995-11-06,Juppe II,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,,244,664,680,250,19951
+423,33,1998-10-21,Howard II,0,http://en.wikipedia.org/wiki/Second_Howard_Ministry,aph-11,,,402,756,,36,19980
+424,35,1960-09-18,Erlander VIII,0,http://sv.wikipedia.org/wiki/Regeringen_Erlander_III,mueller,,,208,295,,752,19600
+425,10,2005-08-17,Stanishev,0,http://en.wikipedia.org/wiki/Sergei_Stanishev,"nyt, reuters, w",,"Stanishev was elected in parliament on 16 August 2005 (yes: 168, no: 67) and took office one day later.
+Government survived confidence votes on 2 March 2007 (yes: 163, no 60) and 11 April 2008 (yes: 117, no: 82, abstain: 35, absent: 6)",575,618,,100,20050
+426,40,1987-12-09,Bundesrat 1987,0,,,,,129,358,,756,19870
+427,11,2005-10-17,Clark III,0,http://en.wikipedia.org/wiki/Fifth_Labour_Government_of_New_Zealand,ejpr,Minority cabinet with confidence and supply from New Zealand First Party and United Future. The Greens agreed to abstain on votes of confidence and supply. The Māori Party also abstained on confidence and supply votes without a formal agreement.,,845,675,,554,20050
+428,43,1983-03-22,Mauroy III,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,mueller,,,116,20,677,250,19830
+429,64,1981-04-06,Eyskens M,0,http://en.wikipedia.org/wiki/Mark_Eyskens,mueller,,,453,663,442,56,19810
+430,43,1972-07-05,Messmer I,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,,111,386,,250,19720
+431,64,2009-11-25,Leterme II,0,http://en.wikipedia.org/wiki/Leterme_II_Government,"bbc, nzz",Leterme offered to resign on 22 April 2010 following an unresolved conflict in the coalition over electoral reform in a district and the resignation was accepted by the King four days later.,,80,401,638,56,20090
+432,5,1994-04-25,Hata,0,,ejpr,Sakigake stayed in coalition without a ministerial position.,,417,57,,392,19940
+433,26,1966-02-23,Moro III,0,http://it.wikipedia.org/wiki/Governo_Moro_III,,,,705,380,,380,19660
+434,55,1993-08-07,Birkavs,0,http://en.wikipedia.org/wiki/Valdis_Birkavs,mue-rom,,,595,564,,428,19930
+435,56,1944-10-21,Thors II,0,http://en.wikipedia.org/wiki/%C3%93lafur_Thors,indridason,,,1025,780,,352,19420
+436,1,1991-04-23,Carnogursky,0,http://en.wikipedia.org/wiki/Jan_Carnogursky,,,,399,538,,703,19910
+437,74,1996-02-07,Cimoszewicz,0,http://en.wikipedia.org/wiki/Wlodzimierz_Cimoszewicz,mue-rom,,,409,268,,616,19960
+438,35,1973-09-16,Palme III,0,http://sv.wikipedia.org/wiki/Regeringen_Palme_I,mueller,,,577,215,,752,19730
+439,26,1972-07-26,Andreotti II,0,http://it.wikipedia.org/wiki/Governo_Andreotti_II,mueller,,,398,65,,380,19721
+440,23,1998-04-15,Vasile,0,http://en.wikipedia.org/wiki/Radu_Vasile,reuters,"Cabinet won an investiture vote (yes: 317, no: 124) on 15 April 1998 in a joint sitting of parliament.
+Cabinet ended on 14 December 1999 when PM Vasile was dismissed by President Constantinescu and resigned three days later.",,73,49,,642,19981
+441,64,2007-12-21,Verhofstadt IV,1,http://en.wikipedia.org/wiki/Verhofstadt_III,reuters,"Interim government until March 2008 when Yves Leterme was supposed to form a new government. PM Verhofstadt and the cabinet were appointed on 21 December 2007. It won an investiture vote (yes: 97, no: 46, abstain: 1) two days later. Verhofstadt and his cabinet resigned on 20 March 2008. (Reuters)",,886,401,656,56,20070
+442,37,1979-12-12,Haughey I,0,,,,,794,6,414,372,19790
+443,68,1998-07-17,Zeman,0,http://cs.wikipedia.org/wiki/Vl%C3%A1da_Milo%C5%A1e_Zemana,mue-rom,,,76,27,,203,19981
+444,15,1999-05-18,Paksas I,0,http://en.wikipedia.org/wiki/Rolandas_Paksas,mue-rom,,,47,566,,440,19990
+445,35,1948-11-19,Erlander II,0,http://sv.wikipedia.org/wiki/Regeringen_Erlander_I,nyt,Cabinet remained in office after elections on 19 November 1948 and ended with a change in party composition on 1 October 1951.,,628,431,,752,19480
+446,56,1958-12-23,Jonsson I,0,http://en.wikipedia.org/wiki/Emil_J%C3%B3nsson,"indridason, nyt","Minority cabinet backed by Independence (Sj).
+It ended with elections on 28 June 1958.",,664,665,,352,19580
+447,23,1994-08-18,Vacaroiu II,0,http://en.wikipedia.org/wiki/Vacaroiu,mue-rom,,,839,416,,642,19940
+448,64,1972-01-21,Eyskens G V,0,http://en.wikipedia.org/wiki/Gaston_Eyskens,mueller,,,586,591,,56,19720
+449,64,2003-07-12,Verhofstadt II,0,http://en.wikipedia.org/wiki/Guy_Verhofstadt,,,,193,143,624,56,20030
+450,33,1949-12-19,Menzies IV,0,http://en.wikipedia.org/wiki/Fourth_Menzies_Ministry,"hug-68, nyt",Cabinet ended on 17 March 1951 with the agreement of the Govenor General to dissolve the Parliament and the Senate.,,490,734,,36,19490
+451,64,1977-03-06,Tindemans III,0,http://en.wikipedia.org/wiki/Leo_Tindemans,mueller,,,847,384,,56,19770
+452,59,1945-04-27,Renner,1,http://de.wikipedia.org/wiki/Provisorische_Staatsregierung_Renner_1945,"bka, nyt","Provisional cabinet was formed on 27 April 1945.
+Cabinet ended with election on 25 October 1945 and resigned on 28 November.",,,,,40,19450
+453,64,1980-10-22,Martens IV,0,http://en.wikipedia.org/wiki/Wilfried_Martens,mueller,,,266,663,442,56,19802
+454,41,1989-11-23,Zolotas I,1,http://en.wikipedia.org/wiki/Xenophon_Zolotas,,,ministers were withdrawn from this all party cabinet and it was replaced by a caretaker government,721,508,518,300,19892
+455,8,1966-11-22,Zijlstra,1,http://en.wikipedia.org/wiki/Netherlands_cabinet_Zijlstra,,,,518,529,,528,19660
+456,21,1960-11-18,Kampmann II,0,http://da.wikipedia.org/wiki/Regeringen_Viggo_Kampmann_II,mueller,,,467,73,,208,19601
+457,64,1988-05-09,Martens VIII,0,http://en.wikipedia.org/wiki/Wilfried_Martens,mueller,Cabinet terminates on 29 September 1991 when the VU leaves government. PM Martens asked to resign on 4 October. The King did not accept the request on 7 October but called for early elections.,,92,191,10,56,19880
+458,43,1957-11-06,Gaillard,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,,209,312,,250,19571
+459,54,1976-12-15,Schmidt II,0,http://de.wikipedia.org/wiki/Kabinett_Schmidt_II,,,,252,163,,276,19760
+460,26,1989-07-23,Andreotti VI,0,http://it.wikipedia.org/wiki/Governo_Andreotti_VI,mueller,PM Andreotti resigned on 29 March 1991 following a cabinet crisis initiated by former PM Craxi and his Socialist Party (PSI).,,809,17,280,380,19890
+462,10,1992-12-30,Berov,1,http://en.wikipedia.org/wiki/Lyuben_Berov,"conrad, keesings",,The cabinet was approved in parliament on 30 December 1992. In a vote in May 1994 PM Lyuben Berov received only 3 months of confidence and the cabinet resigned on 2 September.,348,32,,100,19920
+463,59,1979-06-05,Kreisky IV,0,http://de.wikipedia.org/wiki/Bundesregierung_Kreisky_IV,mueller,"Cabinet was appointed on 5 June 1979.
+Cabinet ended with an early election on 24 April 1983 and resigned two days later.",,350,452,,40,19790
+464,26,1980-10-18,Forlani,0,http://it.wikipedia.org/wiki/Governo_Forlani,mueller,,,86,604,353,380,19801
+465,63,1978-11-22,Mota Pinto,1,http://en.wikipedia.org/wiki/Carlos_Mota_Pinto,mueller,,,542,200,,620,19782
+466,67,1977-05-15,Sorsa II,0,http://fi.wikipedia.org/wiki/Sorsan_II_hallitus,"mueller, valt",,,848,98,,246,19770
+467,21,1960-02-21,Kampmann I,0,http://da.wikipedia.org/wiki/Regeringen_Viggo_Kampmann_I,mueller,,,51,263,,208,19600
+468,72,2008-03-12,Gonzi II,0,http://en.wikipedia.org/wiki/Lawrence_Gonzi,,,,298,203,346,470,20080
+469,55,1999-02-04,Kristopans II,0,http://en.wikipedia.org/wiki/Vilis_Kristopans,mue-rom,,,682,615,,428,19990
+472,54,2009-10-28,Merkel II,0,http://en.wikipedia.org/wiki/Merkel_Cabinet_II,"wid, dw","PM Merkel  won an investiture vote (yes: 323, no: 258, abstain: 4) on 28 October 2009.
+The cabinet lost its upper house majority on 14 July 2010 when a new cabinet took office in the state of North Rhine-Westphalia.",,85,93,231,276,20090
+473,11,1990-11-02,Bolger I,0,http://en.wikipedia.org/wiki/Fourth_National_Government_of_New_Zealand,reuters,Cabinet was appointed on 2 November 1990.,,571,350,,554,19901
+474,11,1946-12-20,Frazer III,0,http://en.wikipedia.org/wiki/Peter_Fraser_%28New_Zealand_politician%29,,,,1036,586,,554,19460
+475,35,2006-10-05,Reinfeldt I,0,http://en.wikipedia.org/wiki/Cabinet_of_Fredrik_Reinfeldt,afp,"PM Reinfeldt won an investiture vote on 5 October 2006 (yes: 175, no: 169) and presented his cabinet the day after.
+Cabinet ended with an early election on 19 September 2010.",,641,629,104,752,20060
+476,67,1975-11-30,Miettunen II,0,http://en.wikipedia.org/wiki/Martti_Miettunen,valt,,,143,98,,246,19751
+477,55,2009-02-26,Dombrovskis I,0,http://en.wikipedia.org/wiki/Valdis_Dombrovskis,"bbc, keesings, lo, reuters",Cabinet ended on 17 March 2010 when People's Party withdraws from the coalition.,,42,52,145,428,20090
+478,35,1986-03-12,Carlsson I,0,http://sv.wikipedia.org/wiki/Regeringen_Carlsson_I,"ap, times",PM Carlsson was voted into office on 12 March 1986.,,296,48,,752,19860
+479,33,1956-01-11,Menzies VII,0,http://en.wikipedia.org/wiki/Seventh_Menzies_Ministry,hug-68,,,178,742,,36,19560
+480,75,1999-03-29,Laar II,0,http://en.wikipedia.org/wiki/Mart_Laar,mue-rom,,,303,239,,233,19990
+481,43,1997-06-02,Jospin,0,http://fr.wikipedia.org/wiki/Gouvernement_Lionel_Jospin,w,,,422,479,680,250,19970
+482,21,2001-11-27,Rasmussen F I,0,http://en.wikipedia.org/wiki/Cabinet_of_Anders_Fogh_Rasmussen_I,ejpr,,,630,632,668,208,20010
+483,59,1964-04-02,Klaus I,0,http://de.wikipedia.org/wiki/Bundesregierung_Klaus_I,"bka, apa","Cabinet was appointed on 2 April 1964.
+Cabinet resigned on 23 October 1965 and coalition parties agreed to call an early election after disagreement over the 1966 budget.",,622,495,,40,19640
+485,9,1981-10-14,Willoch I,0,http://en.wikipedia.org/wiki/K%C3%A5re_Willoch,mueller,,,81,100,,578,19811
+487,9,1951-11-19,Torp I,0,http://en.wikipedia.org/wiki/Oscar_Torp,mueller,,,726,478,,578,19510
+488,39,1994-07-15,Horn,0,http://en.wikipedia.org/wiki/Gyula_Horn,mue-rom,,,13,620,,348,19940
+489,64,1946-03-31,Van Acker III,0,http://en.wikipedia.org/wiki/Achille_Van_Acker,"keesings, mueller",Van Acker resigned on 9 July 1946 after losing a vote of confidence in Chamber and Senate.,,168,19,,56,19461
+490,33,1946-11-01,Chifley II,0,http://en.wikipedia.org/wiki/Second_Chifley_Ministry,hug-68,,,574,739,,36,19460
+491,7,1964-07-15,Werner II,0,http://lb.wikipedia.org/wiki/Regierung_Werner-Cravatte,,,,832,579,,442,19640
+492,67,1978-03-02,Sorsa III,0,http://fi.wikipedia.org/wiki/Sorsan_II_hallitus,"mueller, valt",,,466,98,,246,19780
+493,5,2010-06-04,Kan,0,,"bbc, yomiuri","PM Kan won an investiture votes (yes: 313, total: 477 [lower house]; yes: 123, total: 237 [upper house]) on 4 June 2010 and the cabinet was appointed four days later.
+Cabinet lost its upper house majority in elections on 11 July 2010.
+Cabinet resigned on 30 August following criticism after the 11 March tsunami and the crisis at a nuclear power plant.",,374,327,,392,20100
+494,5,2008-09-24,Aso,0,,w,,,134,554,,392,20080
+495,15,2006-04-12,Brazauskas III,0,http://en.wikipedia.org/wiki/Algirdas_Brazauskas,mue-rom,,,287,214,539,440,20060
+496,64,1947-03-20,Spaak II,0,http://en.wikipedia.org/wiki/Paul-Henri_Spaak,mueller,,,540,19,,56,19470
+497,27,2008-04-12,Zapatero II,0,,afp,"PM Zapatero failed to win an absolute majority in an investiture vote on 9 April 2008 (yes: 168, no: 158, abstain: 23) and was elected by simple majority in a second vote (yes: 169, no: 158, abstain: 23) two days later. The prime minister was appointed on 12 April and the cabinet was presented two days after.
+Zapatero called early elections on 29 July 2011 and the cabinet ends with election on 20 November 2011.",,806,500,368,724,20080
+498,29,1984-09-17,Mulroney I,0,,,,,670,159,,124,19841
+500,7,1954-06-28,Bech II,0,http://lb.wikipedia.org/wiki/Regierung_Bech-Bodson,nyt,Cabinet was formed on 28 June 1954 and it terminates when Bech resigns on 26 March 1958.,,532,153,,442,19540
+501,26,1947-05-31,De Gasperi IV,0,http://it.wikipedia.org/wiki/Governo_De_Gasperi_IV,mueller,,,525,503,,380,19471
+502,5,1972-12-22,Tanaka II,0,,,,,656,333,,392,19721
+503,35,1998-10-07,Persson II,0,http://en.wikipedia.org/wiki/Cabinet_of_G%C3%B6ran_Persson,,,,156,33,55,752,19980
+504,68,2002-07-15,Spidla,0,http://en.wikipedia.org/wiki/Vladim%C3%ADr_%C5%A0pidla,afp,"Cabinet was appointed on 15 July 2002.
+PM Spidla resigned on 26 June 2004 following a defeat of his party in the European Parliament election and after narrowly surviving a confidence vote in his party.",,443,487,,203,20020
+505,60,2000-11-30,Drnovsek VI,0,http://en.wikipedia.org/wiki/Janez_Drnovsek,rferl,,,768,525,,705,20001
+506,35,1964-09-20,Erlander IX,0,http://sv.wikipedia.org/wiki/Regeringen_Erlander_III,mueller,,,424,41,,752,19640
+507,33,1972-12-19,Whitlam I,0,http://en.wikipedia.org/wiki/Second_Whitlam_Ministry,hug-77,,,671,759,,36,19721
+508,40,2007-12-12,Bundesrat 2007,0,,reuters,Federal Council was elected on 12 December 2007 and the Swiss Peoples Party (SVP) went into opposition.,"SVP member Eveline Widmer-Schlumpf was elected instead of Christoph Blocher, later expelled from the party and a founding member the BDP. SVP and BDP are not coded as a cabinet members.
+Cabinet ends with a change in party composition on 10 December 2008.",855,310,,756,20070
+509,23,2004-12-29,Popescu-Tariceanu I,0,http://en.wikipedia.org/wiki/T%C4%83riceanu_I_Cabinet,"keesings, mue-rom",,,1029,165,,642,20041
+510,9,1963-09-25,Gerhardsen VII,0,http://en.wikipedia.org/wiki/Einar_Gerhardsen,nyt,,,53,622,,578,19631
+511,26,1963-06-21,Leone I,0,http://it.wikipedia.org/wiki/Governo_Leone_I,mueller,,,347,380,,380,19630
+512,15,1992-07-21,Abisala,0,http://en.wikipedia.org/wiki/Aleksandras_Abi%C5%A1ala,,,,546,462,,440,19920
+513,40,1963-12-12,Bundesrat 1963,0,,,,,623,108,,756,19630
+514,11,1993-11-28,Bolger II,0,http://en.wikipedia.org/wiki/Fourth_National_Government_of_New_Zealand,,Cabinet lost majority support on 11 September 1994 when MP Ross Meurant crossed the floor.,,473,634,,554,19930
+515,44,1990-11-28,Major I,0,http://en.wikipedia.org/wiki/Major_Ministry,bpf,,,297,490,682,826,19900
+516,44,2005-05-06,Blair III,0,http://en.wikipedia.org/wiki/Blair_Ministry,,,,19,233,196,826,20050
+517,74,1997-10-31,Buzek I,0,http://en.wikipedia.org/wiki/Jerzy_Buzek,mue-rom,,,437,477,,616,19970
+518,8,1965-04-14,Cals,0,http://en.wikipedia.org/wiki/Netherlands_cabinet_Cals,,,,35,529,,528,19650
+519,55,2010-03-17,Dombrovskis II,0,http://en.wikipedia.org/wiki/Valdis_Dombrovskis,"lo, reuters",Minority cabinet was supported by Latvia's First Party (LPP).,,477,52,302,428,20100
+520,9,1976-01-12,Nordli I,0,http://en.wikipedia.org/wiki/Odvar_Nordli,reg-no,Cabinet was appointed on 15 January 1976 and ended with regular elections on 11 September 1977.,,56,523,,578,19760
+521,64,1979-04-03,Martens I,0,http://en.wikipedia.org/wiki/Martens_I_Government,nyt,Martens was appointed on 3 April 1980. Government ended on 16 January 1980 when Democratic Front (FDF) ministers resigned.,,233,663,,56,19790
+522,26,1999-12-21,D'Alema II,0,http://it.wikipedia.org/wiki/Governo_D%27Alema_II,reuters,"PM D'Alema and his cabinet were appointed on 22 December 1999. The cabinet won a confidence vote in the Senate (yes: 177, no: 100 [upper house]) on the same day and in parliament (yes: 310, no: 287 [lower house]) the day after.
+D'Alema offered to resign on 17 April 2000 after losses of centre-left parties in regional elections and resigned two days later.",,214,551,363,380,19990
+523,37,1957-03-20,Valera IX,0,http://en.wikipedia.org/wiki/Government_of_the_16th_D%C3%A1il,,,,626,469,,372,19570
+524,59,1990-12-17,Vranitzky III,0,http://de.wikipedia.org/wiki/Bundesregierung_Vranitzky_III,reuters,"Cabinet was appointed on 17 December 1990.
+Cabinet ended with election on 10 October 1994 and resigned the next day.",,873,325,,40,19900
+525,26,1947-02-02,De Gasperi III,0,http://it.wikipedia.org/wiki/Governo_De_Gasperi_III,mueller,,,416,503,,380,19470
+526,43,1962-04-14,Pompidou I,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,not in Woldendorp ea 2000,692,375,,250,19620
+527,60,1990-05-16,Peterle,0,http://en.wikipedia.org/wiki/Lojze_Peterle,reuters,"PM Peterle was sworn in on 16 May 1990.
+He lost a vote of confidence and resigned on 22 April 1992.",,,129,,705,19900
+528,35,1994-10-06,Carlsson IV,0,http://sv.wikipedia.org/wiki/Regeringen_Carlsson_III,"ap, mueller",PM Carlsson unexpectedly announced on 18 August 1995 that he would resign the following March.,,779,412,,752,19940
+529,54,2002-10-22,Schroeder II,0,http://en.wikipedia.org/wiki/Schr%C3%B6der_Cabinet_II,bbc,"PM Schröder announced on 22 May 2005 that he intended to call for early election. He initiated and lost a vote of confidence (yes: 151, no: 296, abstain: 148) on 1 July 2005 and most coalition MPs abstained from voting.",,107,385,417,276,20020
+530,75,1995-11-03,Vahi II,0,http://en.wikipedia.org/wiki/Tiit_V%C3%A4hi,mue-rom,,,604,600,,233,19951
+531,41,1980-05-09,Rallis,0,,,,,865,596,,300,19800
+532,7,1953-12-29,Bech I,0,http://lb.wikipedia.org/wiki/Regierung_Bech-Bodson,,,,360,149,,442,19530
+533,59,1961-04-11,Gorbach I,0,http://de.wikipedia.org/wiki/Bundesregierung_Gorbach_I,"mueller, nyt","Cabinet was appointed on 11 April 1961.
+On 12 July 1962, coalition parties agreed to call an early election to seek a fresh mandate before the beginning of negotiations with the European Economic Community.
+Cabinet ended with an early election on 18 November 1962 and resigned two days later.",,757,347,,40,19610
+534,29,1948-11-15,St-Laurent I,0,http://en.wikipedia.org/wiki/Louis_St._Laurent#Prime_Minister_of_Canada,,,,608,189,,124,19480
+535,55,2006-04-08,Kalvitis II,0,http://en.wikipedia.org/wiki/Aigars_Kalv%C4%ABtis,mue-rom,,,228,260,145,428,20060
+536,56,1979-10-15,Groendal,1,http://en.wikipedia.org/wiki/Benedikt_Sigur%C3%B0sson_Gr%C3%B6ndal,indridason,"Formed only to call an election (Indridason 2005, 461).",,673,275,,352,19790
+537,23,2010-05-19,Boc III,0,http://en.wikipedia.org/wiki/Boc_Cabinets,"ager, reuters","National Union (UNPR) signed a cooperation agreement with the cabinet on 19 May 2010.
+PM Boc resigned on 6 February 2012 after mass protests against the cabinet's austerity measures.",,993,319,229,642,20090
+538,56,2009-02-01,Sigurdardottir I,1,http://sv.wikipedia.org/wiki/Jóhanna_Sigurðardóttir,w,,,558,265,,352,20090
+539,27,1979-04-05,Suarez II,0,,,,"Minority government with various supporting parties (Hopkin 2005, 389),",205,493,,724,19790
+540,64,1946-08-03,Huysmans,0,http://en.wikipedia.org/wiki/Camille_Huysmans,mueller,,,489,19,,56,19462
+541,10,1995-01-26,Videnov,0,http://en.wikipedia.org/wiki/Zhan_Videnov,reuters,"Cabinet won an investiture vote (yes: 131, no: 15) on 26 January 1995.
+PM Videnov presented his resignation on 21 December 1996 and it was approved (yes:211, no: 3, abstain: 9) a week later.",,109,355,,100,19950
+542,63,1978-08-29,Nobre da Costa,1,http://en.wikipedia.org/wiki/Alfredo_Nobre_da_Costa,keesings,,Nobre da Costa lost a vote of confidence on 14 September 1978 two weeks after taking office.,336,200,,620,19781
+543,35,1945-07-31,Hansson,0,http://sv.wikipedia.org/wiki/Regeringen_Hansson_IV,"mueller, nyt",PM Hansson died on 6 October 1946,,,485,,752,19450
+544,7,1958-03-29,Frieden,0,http://lb.wikipedia.org/wiki/Regierung_Frieden,nyt,PM Frieden was appointed on 31 March 1958. The government resigned on 10 December 1958 after the LSAP left the coalition.,,500,153,,442,19580
+545,9,1953-10-12,Torp II,0,http://en.wikipedia.org/wiki/Oscar_Torp,mueller,,,487,167,,578,19530
+546,15,1991-01-13,Vagnorius I,0,http://en.wikipedia.org/wiki/Gediminas_Vagnorius,,,,267,462,,440,19911
+547,1,2002-10-16,Dzurinda II,0,http://en.wikipedia.org/wiki/Mikul%C3%A1%C5%A1_Dzurinda,"ejpr, rferl",Cabinet lost majority support on 8 December 2003 following the formation of a breakaway group by coalition party MPs.,,699,218,,703,20020
+548,26,1969-08-05,Rumor II,0,http://it.wikipedia.org/wiki/Governo_Rumor_II,mueller,,,554,261,,380,19690
+549,63,1980-01-03,Carneiro I,0,,,,,384,248,,620,19800
+550,8,1986-07-14,Lubbers II,0,http://en.wikipedia.org/wiki/Netherlands_cabinet_Lubbers-2,,,,270,62,341,528,19860
+551,9,2009-10-20,Stoltenberg III,0,,,,,693,285,,578,20090
+552,67,1958-08-29,Fagerholm III,0,http://en.wikipedia.org/wiki/Karl-August_Fagerholm,"nyt, valt",Cabinet resigned on 4 December 1958 after Agrarians left the coalition.,,791,616,,246,19581
+553,56,1963-11-14,Benediktsson I,0,http://en.wikipedia.org/wiki/Bjarni_Benediktsson,indridason,,,851,379,,352,19631
+554,26,1968-12-12,Rumor I,0,http://it.wikipedia.org/wiki/Governo_Rumor_I,mueller,,,183,261,,380,19681
+555,56,2004-09-15,Asgrimsson,0,http://en.wikipedia.org/wiki/http://de.wikipedia.org/wiki/Halld%C3%B3r_%C3%81sgr%C3%ADmsson,ejpr,,,130,178,,352,20040
+556,40,1947-12-11,Bundesrat 1947,0,,,,,972,684,,756,19470
+557,43,1953-01-08,Mayer,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,,658,293,,250,19530
+558,56,2007-05-24,Haarde II,0,http://en.wikipedia.org/wiki/Geir_Haarde,ejpr,,,246,265,,352,20070
+559,60,1993-01-12,Drnovsek II,0,http://en.wikipedia.org/wiki/Janez_Drnovsek,"vlada, bbc, afp","PM Drnovšek won a confidence vote (yes: 48) on 12 January 1993 (BBC) and presented his cabinet on 25 January (AFP).
+Cabinet ended on 8 April 1994 when the Social Democrats (SDS) withdrew (BBC). ",,9,382,,705,19930
+560,59,1952-10-28,Figl IV,1,http://de.wikipedia.org/wiki/Bundesregierung_Figl_III,"bka, mueller","Caretaker cabinet was appointed on 28 October 1952 after the previous cabinet fell. 
+Cabinet ended with an early election on 22 February 1953 and resigned three days later.",,775,67,,40,19520
+561,59,1966-04-19,Klaus III,0,http://de.wikipedia.org/wiki/Bundesregierung_Klaus_II,mueller,"Cabinet was appointed on 19 April 1966.
+Cabinet ended with election on 1 March 1970 and resigned two days later.",,1035,608,,40,19660
+562,60,1996-01-26,Drnovsek IV,0,http://en.wikipedia.org/wiki/Janez_Drnovsek,,Continuation cabinet started on 26 January 1996 with a change in party composition of the previous cabinet and ends with regular elections on 10 November 1996.,,145,382,,705,19960
+563,8,1977-12-19,Van Agt I,0,http://en.wikipedia.org/wiki/Netherlands_cabinet_Van_Agt-1,,,,324,635,,528,19770
+564,75,1992-10-21,Laar I,0,http://en.wikipedia.org/wiki/Mart_Laar,mue-rom,,Laar lost a vote of no confidence,,670,,233,19921
+565,29,1968-04-20,Trudeau I,0,,,,,415,282,,124,19680
+566,33,1951-05-11,Menzies V,0,http://en.wikipedia.org/wiki/Fifth_Menzies_Ministry,hug-68,,,450,763,,36,19510
+567,26,2005-05-28,Berlusconi III,0,http://it.wikipedia.org/wiki/Governo_Berlusconi_III,"ejpr, w",,,256,498,329,380,20050
+568,5,1983-12-27,Nakasone II,0,,,,,242,138,,392,19830
+569,11,1972-02-07,Marshall,0,,,,,344,120,,554,19720
+570,64,1991-11-24,Martens IX,1,http://en.wikipedia.org/wiki/Wilfried_Martens,reuters,Continuation caretaker cabinet that remained in office after the previous coalition broke apart and until a new coalition formed following general elections.,Start date set to 24 November 1991 (election date) following three month coding rule.,457,418,553,56,19910
+571,11,1990-09-04,Moore,0,,,,,307,322,,554,19900
+572,9,1993-09-13,Brundtland IV,0,http://en.wikipedia.org/wiki/Gro_Harlem_Brundtland,"keesings, mueller",,,588,404,,578,19930
+573,37,1994-12-15,Bruton,0,,,,,748,359,34,372,19940
+574,33,1945-07-13,Chifley I,0,http://en.wikipedia.org/wiki/First_Chifley_Ministry,hug-68,,,632,737,,36,19451
+575,10,2001-07-24,Sakskoburggotski,0,http://en.wikipedia.org/wiki/Simeon_II_of_Bulgaria,mue-rom,,,792,681,,100,20010
+576,33,1983-03-11,Hawke I,0,http://en.wikipedia.org/wiki/First_Hawke_Ministry,hug-86,,,774,751,,36,19830
+577,35,1970-09-20,Palme II,0,http://sv.wikipedia.org/wiki/Regeringen_Palme_I,nyt,Minority government supported by Communists (VK). It ends with regular elections on 16 September 1973.,,219,258,,752,19700
+578,26,1979-08-04,Cossiga I,0,http://it.wikipedia.org/wiki/Governo_Cossiga_I,mueller,,,638,604,353,380,19791
+579,15,2006-07-18,Kirkilas I,0,http://en.wikipedia.org/wiki/Valdas_Adamkus,ejpr,,,495,214,539,440,20061
+580,68,2004-08-04,Gross,0,http://en.wikipedia.org/wiki/Stanislav_Gross,afp,"Christian Democrats left cabinet on 31 March 2005. One day later, Gross survived a confidence vote (yes: 76 , no: 78, abstain: 41) with tactic support from the Communists (KSCM) but resigned on 25 April.","EJPR (2005, p. 985) gives 21 seats for KDU-CSL and 10 seats for US-DEU.",504,487,567,203,20040
+581,41,2007-10-01,Karamanlis Kos II,0,http://en.wikipedia.org/wiki/Kostas_Karamanlis,"ejpr, afp",Cabinet ended on 3 September 2009 when PM Karamanlis asked President Papoulias to dissolve parliament and to call snap elections.,,876,466,672,300,20070
+582,72,1998-09-06,Fenech Adami III,0,,,,,299,173,,470,19980
+583,59,2007-01-11,Gusenbauer,0,http://en.wikipedia.org/wiki/Gusenbauer_cabinet,reuters,"Parties signed a coalition agreement on 8 January 2007 and cabinet was appointed three days later.
+Cabinet ended on 7 July 2008 after the Conservatives (OVP) withdrew from the coalition and formally resigned on 2 December 2008.","No caretaker cabinet added, because election (28 September 2008) took place within three month after termination (7 July 2008) and formal resignation (2 December 2008) followed within three month after election.",888,197,45,40,20070
+584,15,1990-03-17,Prunskiene,0,http://en.wikipedia.org/wiki/Prunskiene,,,,,462,,440,19900
+585,63,1976-07-23,Soares I,0,,mueller,,,,200,,620,19760
+586,64,1968-06-17,Eyskens G IV,0,http://en.wikipedia.org/wiki/Gaston_Eyskens,mueller,,,353,184,,56,19680
+587,35,1978-10-13,Ullsten,0,http://sv.wikipedia.org/wiki/Regeringen_Ullsten,"keesings, mueller, nyt, riksdag","PM Ullsten won an investiture vote on 13 October 1978 (yes: 39, no: 66, abstain: 215).",,137,262,,752,19780
+588,9,1990-11-03,Brundtland III,0,http://en.wikipedia.org/wiki/Gro_Harlem_Brundtland,mueller,,,94,571,,578,19900
+589,72,1962-03-05,Borg Olivier I,0,,,,,,658,,470,19620
+590,44,1976-04-05,Callaghan,0,http://en.wikipedia.org/wiki/Labour_Government_1974-1979,"bpf, nyt",Callaghan lost a vote of confidence on 28 March 1979 and called early elections (NYT).,,7,40,,826,19760
+591,43,1956-02-01,Mollet,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,,397,312,,250,19560
+592,1,1993-03-19,Meciar IV,0,http://en.wikipedia.org/wiki/Vladim%C3%ADr_Me%C4%8Diar,mue-rom,,,420,294,,703,19931
+593,64,1944-09-26,Pierlot I,0,http://en.wikipedia.org/wiki/Hubert_Pierlot,,,,,,,56,19440
+594,43,1958-05-14,Pflimlin,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,,458,312,,250,19580
+595,55,1990-05-07,Godmanis I,0,http://en.wikipedia.org/wiki/Ivars_Godmanis,w,,,,647,,428,19900
+596,21,1968-02-22,Baunsgaard,0,http://da.wikipedia.org/wiki/Regeringen_Hilmar_Baunsgaard,mueller,,,825,531,,208,19680
+597,26,1951-07-26,De Gasperi VII,0,http://it.wikipedia.org/wiki/Governo_De_Gasperi_VII,mueller,,,123,467,,380,19510
+598,67,1961-07-14,Miettunen I,0,http://fi.wikipedia.org/wiki/Miettusen_I_hallitus,valt,Cabinet under PM Miettunen was appointed 14 July 1961 and ended with elections on 5 February 1962.  ,,230,616,,246,19610
+599,23,2008-12-22,Boc I,0,http://en.wikipedia.org/wiki/Boc_I_Cabinet,bbc,"PSD ministers resigned on 1 October 2009 and the cabinet lost a confidence vote (yes: 254, no: 176) on 13 October. It remained in office until the new cabinet formed following presidential elections.",,118,319,676,642,20080
+600,68,2006-08-16,Topolanek I,0,http://cs.wikipedia.org/wiki/Prvn%C3%AD_vl%C3%A1da_Mirka_Topol%C3%A1nka,"afp, reuters","PM Topolanek was appointed on 16 August 2006 and the cabinet on 4 September. 
+Cabinet lost an investiture vote (yes: 96, no: 99) on 3 October and resigned on 11 October.",,15,50,567,203,20060
+601,7,2009-07-23,Juncker IV,0,http://en.wikipedia.org/wiki/Jean-Claude_Juncker,,,,12,172,662,442,20090
+602,37,1966-11-10,Lynch I,0,http://en.wikipedia.org/wiki/Government_of_the_18th_D%C3%A1il,,,,217,323,,372,19660
+603,26,1953-07-16,De Gasperi VIII,0,http://it.wikipedia.org/wiki/Governo_De_Gasperi_VIII,mueller,,,597,642,,380,19530
+604,75,1995-04-17,Vahi I,0,http://en.wikipedia.org/wiki/Tiit_V%C3%A4hi,mue-rom,,,4,600,,233,19950
+605,74,1992-06-05,Pawlak I,1,http://en.wikipedia.org/wiki/First_Cabinet_of_Waldemar_Pawlak,afp,"Pawlak was appointed by President Lech Wałęsa as Prime Minister and elected in parliament on 5 June 1992 (yes: 261, no: 149, abstain: 7) but failed to find majority support for his potential government.
+He resigned on 10 July after parliament accepted his resignation (286 to 11, abstain: 107).",,132,211,,616,19920
+606,72,1976-09-25,Mintoff III,0,,,,,816,533,,470,19760
+607,43,1973-04-02,Messmer II,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,mueller,,cabinet ended by formal resignation,430,357,,250,19730
+608,29,1945-06-11,King III,0,http://en.wikipedia.org/wiki/William_Lyon_Mackenzie_King,,,,,189,,124,19450
+609,41,1974-11-21,Karamanlis Kon I,0,,,,,,653,,300,19740
+610,29,2006-02-06,Harper I,0,http://en.wikipedia.org/wiki/28th_Canadian_Ministry,,,,308,137,,124,20060
+611,11,1987-08-19,Lange II,0,,,,,121,322,,554,19870
+612,29,2008-10-30,Harper II,0,http://en.wikipedia.org/wiki/28th_Canadian_Ministry,afp,"PM Harper won election on 14 October 2008 and presented his cabinet on 30 October.
+PM Harper's government lost a confidence vote over budget plans on 25 March 2011 (yes: 145, no: 156). The following day, he asked to dissolve the parliament.",,610,601,,124,20080
+613,64,1961-04-25,Lefevre,0,http://en.wikipedia.org/wiki/Th%C3%A9o_Lef%C3%A8vre,"mueller, nyt",,,144,425,,56,19610
+614,67,1987-04-30,Holkeri I,0,http://en.wikipedia.org/wiki/Harri_Holkeri,"mueller, valt",,,650,527,,246,19870
+615,26,1960-03-26,Tambroni,0,http://it.wikipedia.org/wiki/Governo_Tambroni,nyt,"PM Tambroni formed an ""emergency"" government that took office on 26 March 1960 and won an investiture vote (yes: 300, no: 293) on 8 April.
+Cabinet resigned on 19 July 1960 following an agreement among centre parties about forming a new government.",,372,507,,380,19600
+618,67,1972-02-23,Paasio II,0,http://fi.wikipedia.org/wiki/Paasion_II_hallitus,valt,,,391,636,,246,19720
+619,29,1962-06-18,Diefenbaker III,0,,,,,697,76,,124,19620
+620,11,1996-12-16,Bolger IV,0,http://en.wikipedia.org/wiki/Fourth_National_Government_of_New_Zealand,ejpr,,,830,561,,554,19961
+621,7,1995-01-20,Juncker I,0,http://en.wikipedia.org/wiki/Juncker-Poos_Ministry,,,,222,306,594,442,19950
+622,59,1963-03-27,Gorbach III,0,http://de.wikipedia.org/wiki/Bundesregierung_Gorbach_II,"nyt, times, mueller","Cabinet was appointed on 27 March 1963 after four months of deadlock in the formation process.
+PM Gorbach declared to resign on 20 February 1964 following disputes within the Austrian People's Party (OVP) and handed in his resignation four days later. The cabinet resigned on 2 April.",On 25 February 1964 President Schärf lanced a discussion of whether the resignation of a PM would also require the resignation of the whole cabinet.,890,495,,40,19630
+623,40,1959-12-17,Bundesrat 1959,0,,,,,635,674,,756,19590
+624,64,1992-03-07,Dehaene I,0,http://en.wikipedia.org/wiki/Jean-Luc_Dehaene,mueller,,,570,418,553,56,19920
+625,56,1949-12-06,Thors IV,0,http://en.wikipedia.org/wiki/%C3%93lafur_Thors,indridason,"Cabinet lost a vote of confidence on 1 March 1950 (yes:18, no: 33) and resigned the following day.",,742,259,,352,19490
+626,37,1954-06-02,Costello,0,http://en.wikipedia.org/wiki/Government_of_the_15th_D%C3%A1il,,,,643,584,,372,19540
+627,33,1958-12-10,Menzies IIX,0,http://en.wikipedia.org/wiki/Eighth_Menzies_Ministry,,,,479,749,,36,19580
+628,35,1946-10-11,Erlander I,0,http://sv.wikipedia.org/wiki/Regeringen_Erlander_I,"mueller, nyt",PM Erlander was appointed on 11 October 1946 and cabinet ended with elections on 19 November 1948.,,543,485,,752,19460
+629,11,1957-09-26,Holyoake I,0,,,,,410,321,,554,19570
+630,21,1998-03-11,Rasmussen N IV,0,http://en.wikipedia.org/wiki/Cabinet_of_Poul_Nyrup_Rasmussen_IV,ejpr,,,255,389,434,208,19980
+631,67,1957-09-02,Sukselainen II,0,http://en.wikipedia.org/wiki/Vieno_Johannes_Sukselainen%27s_first_cabinet,nyt,Sukselainen unexpectedly lost a vote of confidence (74 to 75) on 18 October 1957.,,747,71,,246,19571
+632,33,1945-07-06,Forde,1,http://en.wikipedia.org/wiki/Forde_Ministry,hug-68,Caretaker cabinet under PM Forde took office after the death of PM Curtin until the United Australia Party (UAP) elected a new leader.,,994,737,,36,19450
+633,54,1956-02-24,Adenauer IV,0,http://de.wikipedia.org/wiki/Kabinett_Adenauer_II,"nyt, wid","Cabinet continued on 24 February 1956 when Christian Democrats (CDU) announced to continue the previous coalition with ministers that resigned from the Free Democratic (FDP) party group.
+Cabinet changes when German Party (DP) and Free People's Party (FVP) party groups formed a cooperation agreement on 27 September 1956 and formally merged on 14 March 1957.",DP and FVP merger not coded as a new cabinet since no coalition bargaining took place.,376,103,,276,19560
+634,33,1967-12-19,McEwen,0,http://en.wikipedia.org/wiki/McEwen_Ministry,hug-77,Caretaker cabinet under PM McEwen took office after the death of PM Holt until the Government parties appoint a new leader.,,67,764,,36,19670
+635,40,1955-12-15,Bundesrat 1955,0,,,,,814,30,,756,19550
+636,43,1949-10-28,Bidault II,0,http://fr.wikipedia.org/wiki/Gouvernement_Georges_Bidault_(2),w,,,82,75,,250,19491
+637,8,1994-08-22,Kok I,0,http://en.wikipedia.org/wiki/Netherlands_cabinet_Kok-1,,,,148,570,58,528,19940
+638,26,1979-03-20,Andreotti V,0,http://it.wikipedia.org/wiki/Governo_Andreotti_V,mueller,,,245,502,,380,19790
+639,67,1951-01-17,Kekkonen II,0,http://en.wikipedia.org/wiki/Urho_Kekkonen%27s_second_cabinet,valt,,,872,187,,246,19510
+640,56,1991-04-30,Oddsson I,0,http://en.wikipedia.org/wiki/Dav%C3%AD%C3%B0_Oddsson,indridason,,,127,274,,352,19910
+641,35,2002-10-21,Persson III,0,http://en.wikipedia.org/wiki/Cabinet_of_G%C3%B6ran_Persson,,,,503,156,374,752,20020
+642,54,1982-10-01,Kohl I,0,http://de.wikipedia.org/wiki/Kabinett_Kohl_I,dhbt,"Kohl initiated a vote of confidence (yes: 8, no: 218, abstain: 248) on 17 December 1982 and most coalition MPs abstained from voting, to dissolve parliament and call snap elections.",,343,547,361,276,19820
+643,37,1951-06-13,Valera VIII,0,http://en.wikipedia.org/wiki/Government_of_the_14th_D%C3%A1il,,,,154,515,,372,19510
+644,60,1997-02-27,Drnovsek V,0,http://en.wikipedia.org/wiki/Janez_Drnovsek,rferl,PM Drnovsek lost a confidence vote on 8 April 2000 after Slovenian People's Party (SLS) ministers announced to withdraw from the coalition.,,562,338,,705,19970
+645,51,1993-02-28,Klerides I,0,http://en.wikipedia.org/wiki/Glafkos_Klerides,"afp, reuters",,,912,342,,196,19930
+646,44,1983-06-09,Thatcher II,0,http://en.wikipedia.org/wiki/Conservative_Government_1983-1987,,,,273,290,37,826,19830
+647,35,1982-10-07,Palme IV,0,http://sv.wikipedia.org/wiki/Regeringen_Palme_II,"mueller, riksdag",,,142,175,,752,19820
+648,43,1946-01-26,Gouin,1,http://fr.wikipedia.org/wiki/Gouvernement_F%C3%A9lix_Gouin,w,,,411,471,,250,19460
+649,5,1963-12-09,Ikeda III,0,,,,,48,640,,392,19630
+650,67,1983-05-06,Sorsa VI,0,http://en.wikipedia.org/wiki/Kalevi_Sorsa,valt,,,34,133,,246,19830
+651,56,2009-04-25,Sigurdardottir II,0,http://en.wikipedia.org/wiki/Cabinet_of_Iceland,,,,538,36,,352,20091
+652,8,2010-02-23,Balkenende V,1,http://en.wikipedia.org/wiki/Netherlands_cabinet_Balkenende-4,,Demissionary cabinet came into office when Queen Beatrix ordered early elections on 23 February 2010.,Caretaker cabinet remains more than three month in office before and after the election but continuation caretaker cabinets are only code ones.,69,578,134,528,20100
+653,9,1977-09-11,Nordli II,0,http://en.wikipedia.org/wiki/Odvar_Nordli,"nyt, reg-no","PM Nordli resigned on 31 January 1981, effective 4 February, following a controversy over US weapons in Norway.",,520,499,,578,19770
+654,27,1993-07-09,Gonzalez IV,0,,,"Minority cabinet supported by small regional parties, especially Convergence and Unity (CiU) (Hopkin 2005, 389),",,37,252,474,724,19930
+655,7,1974-06-15,Thorn,0,http://lb.wikipedia.org/wiki/Regierung_Thorn-Vouel-Berg,,,,101,446,,442,19740
+656,5,1972-07-07,Tanaka I,0,,,,,789,603,,392,19720
+657,9,1969-09-07,Borten II,0,http://en.wikipedia.org/wiki/Per_Borten,"nyt, reg-no","PM Borten resigned on 2 March 1971, effective 17 March, following a disclosure of confidential documents about negotiations on European Economic Community membership.",,284,580,,578,19690
+658,43,1952-03-08,Pinay,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,,32,293,,250,19521
+659,59,1953-04-02,Raab I,0,http://de.wikipedia.org/wiki/Bundesregierung_Raab_I,"faz, mueller","Cabinet was appointed on 2 April 1953.
+On 28 February 1956, coalition parties agreed to call an early election after a conflict over former German properties.
+Cabinet ended with an early election on 13 May 1956 and resigned one day later.",,560,11,,40,19530
+660,21,1964-09-26,Krag II,0,http://da.wikipedia.org/wiki/Regeringen_Jens_Otto_Krag_II,mueller,,,841,288,,208,19640
+661,55,2002-11-07,Repse,0,http://en.wikipedia.org/wiki/Einars_Repse,rferl,,,23,260,,428,20020
+662,43,1967-04-06,Pompidou IV,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,,349,291,,250,19670
+663,67,2002-05-31,Lipponen III,0,http://en.wikipedia.org/wiki/Paavo_Lipponen's_second_cabinet,valt,"New cabinet starting on 31 May 2002 with a replacement of the Green (VIHR) environment ministers.
+Cabinet ends with election on 16 March 2003 and resigns on 17 April (Valtioneuvosto).",,352,15,334,246,20020
+664,56,1956-07-24,Jonasson III,0,http://en.wikipedia.org/wiki/Hermann_J%C3%B3nasson,nyt,"Cabinet was appointed on 24 July 1956.
+Cabinet resigned on 4 December 1958 in disagreement over economic policy.",,762,665,,352,19560
+665,5,1999-10-05,Obuchi III,0,,afp,Komeito enters cabinet on 5 October 1999.,,916,628,,392,19980
+666,9,1945-06-25,Gerhardsen I,1,http://en.wikipedia.org/wiki/Einar_Gerhardsen,"nyt, reg-no","Provisional post-war cabinet formed on 25 June 1945.
+Cabinet handed in resignation on 1 November 1945 and formally resigned on 5 November.",,,,,578,19450
+667,37,1961-10-11,Lemass II,0,http://en.wikipedia.org/wiki/Government_of_the_17th_D%C3%A1il,,,,364,413,,372,19610
+668,11,1963-12-20,Holyoake III,0,,,,,701,117,,554,19630
+669,11,1978-12-12,Muldoon II,0,,,,,285,202,,554,19780
+670,29,1984-06-30,Turner,0,,,,,70,139,,124,19840
+671,33,1971-03-10,McMahon,1,http://en.wikipedia.org/wiki/McMahon_Ministry,hug-77,Following the defeat at the election McMahon resigned on 5 December 1972. A two-member interim ministry was formed by Whitlam and Barnard (both Australian Labor Party) until finalisation of election results.,,1024,735,,36,19710
+672,26,1994-05-11,Berlusconi I,0,http://it.wikipedia.org/wiki/Governo_Berlusconi_I,afp,"Cabinet was sworn in on 11 May 1994 and won a confidence vote (yes: 366; no: 245) on 20 May 1994.
+PM Berlusconi resigned on 22 December 1994 to avoid a confidence vote supported by the Northern League (LN) coalition partner.",,801,146,280,380,19940
+673,56,1978-09-01,Johannesson II,0,http://en.wikipedia.org/wiki/%C3%93lafur_J%C3%B3hannesson,"indridason, keesings",Cabinet ends on 9 October when Social Democrats withdrew in conflict over economic policies (Keesing's). Cabinet resigned on 12 November (Indridason).,,849,275,,352,19780
+674,26,1981-06-28,Spadolini I,0,http://it.wikipedia.org/wiki/Governo_Spadolini_I,"mueller, nyt","Cabinet resigned on 7 August 1982, a day after the Socialists (PSI) withdrew.",,464,604,353,380,19810
+675,64,2010-06-13,Leterme III,1,http://en.wikipedia.org/wiki/Leterme_II_Government,bbc,,Start date set to 13 June 2010 (election date) following three month coding rule.,431,486,638,56,20100
+676,26,1948-05-23,De Gasperi V,0,http://it.wikipedia.org/wiki/Governo_De_Gasperi_V,mueller,,,501,467,,380,19480
+677,64,1974-04-25,Tindemans I,0,http://en.wikipedia.org/wiki/Leo_Tindemans,mueller,,,859,384,,56,19740
+678,44,1992-04-09,Major II,0,http://en.wikipedia.org/wiki/Major_Ministry,"nyt, w",,Vote of confidence on 24 July 1993 to pass approval of the Treaty on European Union.,515,514,682,826,19920
+679,5,2006-09-26,Abe I,0,,ejpr,,,850,554,,392,20060
+680,55,2006-11-07,Kalvitis III,0,http://en.wikipedia.org/wiki/Aigars_Kalv%C4%ABtis,mue-rom,,,535,52,145,428,20061
+681,72,1966-04-07,Borg Olivier II,0,,,,,589,419,,470,19660
+682,55,1998-11-26,Kristopans I,0,http://en.wikipedia.org/wiki/Vilis_Kristopans,mue-rom,,,2,615,,428,19981
+684,15,1992-12-02,Lubys,1,http://en.wikipedia.org/wiki/Bronislovas_Lubys,mue-rom,,,512,439,,440,19921
+685,67,1954-10-20,Kekkonen V,0,http://en.wikipedia.org/wiki/Urho_Kekkonen,valt,,,161,71,,246,19541
+686,75,2007-04-05,Ansip II,0,http://en.wikipedia.org/wiki/Andrus_Ansip%27s_cabinet,"afp, reuters",Government was appointed on 5 April 2007 and ended on 21 May 2009 when PM Ansip fired all three SDE ministers.,,274,83,130,233,20070
+688,15,2008-11-27,Kubilius II,0,http://en.wikipedia.org/wiki/Andrius_Kubilius,afp,"PM Kubilius was nominated on 20 November 2008, elected on 27 November (yes: 89, no: 27, abstain: 18) and his cabinet was elected on 9 December (yes: 83, no: 40, abstain: 13).
+Cabinet ended on 21 September 2010 with the merger of the coalition partners Liberal and Centre Union (LiCS) and the National Resurrection Party (TPP). ",,579,646,539,440,20080
+689,63,1983-06-09,Soares III,0,,nyt,,,135,598,,620,19830
+690,1,1992-06-24,Meciar II,0,http://en.wikipedia.org/wiki/Vladim%C3%ADr_Me%C4%8Diar,mue-rom,,,436,294,,703,19920
+691,44,1951-10-26,Churchill III,0,http://en.wikipedia.org/wiki/Conservative_Government_1951-1957,bpf,"Conservatives and National Liberals formed an electoral alliance, the Woolton-Teviot agreement of May 1947, merging at the constituency level. The Conservatives had no majority of seats in parliament and there were no cabinet members from the National Liberals although Churchill had offered a cabinet position to Clement Davies who turned the offer down. ""The National Liberals met regularly as a group each Wednesday throughout the 1951-5 parliament, though they never voted as a group against the government"" (Dutton 1989, 366-7).",,88,102,,826,19510
+692,43,1959-01-08,Debre,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,,197,375,,250,19590
+693,9,2005-10-17,Stoltenberg II,0,http://en.wikipedia.org/wiki/Second_cabinet_Stoltenberg,ejpr,,,300,3,,578,20050
+694,8,1959-05-19,De Quay,0,http://en.wikipedia.org/wiki/Netherlands_cabinet_de_Quay,,,,741,667,,528,19590
+695,64,1950-06-08,Duvieusart,0,http://en.wikipedia.org/wiki/Jean_Duvieusart,mueller,,,746,217,,56,19500
+696,29,1968-07-06,Trudeau II,0,,,,,565,91,,124,19681
+697,29,1958-03-31,Diefenbaker II,0,,,,,249,286,,124,19580
+698,43,1962-12-06,Pompidou II,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,,526,407,,250,19621
+699,1,1998-10-30,Dzurinda I,0,http://en.wikipedia.org/wiki/Mikul%C3%A1%C5%A1_Dzurinda,mue-rom,,,26,349,,703,19980
+700,64,1950-08-16,Pholien,0,http://en.wikipedia.org/wiki/Joseph_Pholien,mueller,,,695,217,,56,19501
+701,11,1960-12-12,Holyoake II,0,,,,,869,666,,554,19600
+702,59,1983-05-24,Sinowatz,0,http://de.wikipedia.org/wiki/Bundesregierung_Sinowatz,"nyt, mueller","Cabinet was appointed on 24 May 1983.
+PM Sinowatz resigned on 9 June 1986 after Kurt Waldheim was elected as president and cabinet resigned on 16 June.",,463,456,,40,19830
+703,56,1946-06-30,Thors III,0,http://en.wikipedia.org/wiki/%C3%93lafur_Thors,indridason,,,435,35,,352,19460
+704,29,1993-06-25,Campbell,0,,,,,739,96,,124,19930
+705,26,1964-07-22,Moro II,0,http://it.wikipedia.org/wiki/Governo_Moro_II,,,,818,380,,380,19640
+706,39,2008-05-02,Gyurcsany III,0,http://en.wikipedia.org/wiki/Ferenc_Gyurcs%C3%A1ny,nzz,,,325,194,224,348,20080
+707,67,1970-05-14,Aura I,1,http://en.wikipedia.org/wiki/Teuvo_Aura,valt,,,203,77,,246,19700
+708,68,2010-06-28,Necas I,0,http://cs.wikipedia.org/wiki/Vl%C3%A1da_Petra_Ne%C4%8Dase,"cp, ctk,  afp","PM Necas was appointed on 28 June 2010 and cabinet on 13 July. It won an investiture vote (yes: 118, no: 82) on 10 August 2010.
+Cabinet ended on 17 April 2012 after Public Affairs (VV) party group split.",,157,599,516,203,20100
+710,23,1991-10-16,Stolojan,1,http://en.wikipedia.org/wiki/Theodor_Stolojan,,,,715,633,,642,19910
+711,43,2002-05-07,Raffarin I,0,http://fr.wikipedia.org/wiki/Gouvernement_Jean-Pierre_Raffarin_(1),w,,,481,479,273,250,20020
+712,43,1988-06-23,Rocard II,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,,240,643,415,250,19881
+713,41,1981-10-21,Papandreou A I,0,,,,,531,227,147,300,19810
+714,10,1997-02-12,Sofiyanski,1,http://en.wikipedia.org/wiki/Stefan_Sofiyanski,"mue-rom, w",,,541,355,,100,19970
+715,23,1990-05-20,Roman,0,http://en.wikipedia.org/wiki/Petre_Roman,,,,,633,,642,19900
+716,41,1990-02-13,Zolotas II,1,,,,,454,508,518,300,19900
+717,11,1949-12-08,Holland I,0,http://en.wikipedia.org/wiki/First_National_Government_of_New_Zealand,nyt,"Holland called snap elections on 11 July following dispute over a strike.
+Cabinet ended with an early election on 1 September 1951.",,474,94,,554,19490
+718,63,1987-08-17,Silva II,0,,ap,"PM Silva and his cabinet were appointed on 12 August 1987 and sworn in on 17 August.
+It ends with regular elections on 6 October 1991.",,734,480,535,620,19870
+719,1,1993-11-17,Meciar V,0,http://en.wikipedia.org/wiki/Vladim%C3%ADr_Me%C4%8Diar,nyt,Meciar lost a vote of confidence on 11 March 1994.,,592,294,,703,19932
+720,33,1975-11-11,Fraser I,1,http://en.wikipedia.org/wiki/Malcolm_Fraser,"hug-86, nyt",Caretaker cabinet formed on 11 November 1975 after the dismissal of PM Whitlam and the dissolution of both houses of paliament. It ends with election on 13 December.,,844,758,,36,19750
+721,41,1989-10-12,Grivas,1,http://en.wikipedia.org/wiki/Yiannis_Grivas,,,,782,205,518,300,19891
+722,59,2000-02-04,Schuessel I,0,http://de.wikipedia.org/wiki/Bundesregierung_Sch%C3%BCssel_I,"afp, aufo","Cabinet was appointed on 4 February 2000.
+On 9 September 2002, cabinet announced resignation following disputes within the Freedom Party (FPO) and coalition parties agreed to call an early election.
+Cabinet ended with an early election on 24 November 2002 and resigned the same day.",,1034,492,16,40,20000
+723,40,1979-12-05,Bundesrat 1979,0,,,,,20,435,,756,19790
+724,64,1981-12-17,Martens V,0,http://en.wikipedia.org/wiki/Wilfried_Martens,mue-rom,,,429,501,442,56,19811
+725,33,1991-12-20,Keating I,0,http://en.wikipedia.org/wiki/First_Keating_Ministry,aph-11,,,155,752,,36,19910
+726,9,1949-10-10,Gerhardsen III,0,http://en.wikipedia.org/wiki/Einar_Gerhardsen,mueller,,,58,478,,578,19490
+727,5,1979-11-09,Ohira II,0,http://en.wikipedia.org/wiki/Masayoshi_Ohira,nyt,"Ohira lost a confidence vote on 16 May 1980 (yes: 187, no: 243) after some MPs from the Liberal Democrats abstained from the vote and parliament was dissolved. Ohira died on 12 June and Masayoshi Ito became acting prime minster until the elections in July.",,227,433,,392,19790
+728,74,1989-08-24,Mazowiecki I,0,http://en.wikipedia.org/wiki/Tadeusz_Mazowiecki,nyt,"PM Mazowiecki won an investiture vote on 24 August 1989 (yes: 378, no: 4, abstain: 41) and the cabinet on 12 September (yes: 402, no: 0, abstain: 13).",,,158,,616,19890
+729,44,1955-04-06,Eden I,0,http://en.wikipedia.org/wiki/Conservative_Government_1955%E2%80%931957,bpf,,,691,102,,826,19550
+730,74,1993-05-28,Suchocka II,1,http://en.wikipedia.org/wiki/Hanna_Suchocka,afp,Continuation caretaker cabinet that resigned on 18 October 1993 following elections on 19 September.,,68,211,,616,19930
+731,51,1998-02-28,Klerides III,0,http://en.wikipedia.org/wiki/Glafkos_Klerides,reuters,,,911,330,,196,19980
+732,35,1990-02-26,Carlsson III,0,http://sv.wikipedia.org/wiki/Regeringen_Carlsson_II,ap,"Previous government reformed under Carlsson after the opposition parties failed to form a new government. PM Carlsson won an investiture vote on 26 February 1990 (yes: 175, no: 101, abstain: 59).",Cabinet not listed in Müller/Strom (2000).,220,428,,752,19900
+733,44,1966-04-05,Wilson II,0,http://en.wikipedia.org/wiki/Labour_Government_1964-1970,,,,760,583,,826,19660
+734,63,1985-10-31,Silva I,0,,"ap, times","PM Silva was appointed on 31 October 1985, cabinet was appointed on 2 November and sworn in on 6 November.
+Minority cabinet with regular support from the Christian Democrats (PDC) and sometimes from the Democratic Renewal Party (PRD).
+It lost a PRD initiated confidence vote (yes: 108; no: 134) over economic policies on 3 April 1987. Government remained in office in caretaker capacity after parliament was dissolved on 28 April (AP).",,885,106,,620,19850
+735,15,1999-10-29,Kubilius,0,http://en.wikipedia.org/wiki/Andrius_Kubilius,mue-rom,,,444,566,,440,19991
+736,33,2010-06-24,Gillard I,0,http://en.wikipedia.org/wiki/First_Gillard_Ministry,bbc,PM Gillard took office on 24 June 2010 after PM Rudd stepped down and called for general elections on 17 July.,,385,761,,36,20100
+737,26,1987-04-17,Fanfani VI,0,http://it.wikipedia.org/wiki/Governo_Fanfani_VI,mueller,,,293,617,458,380,19870
+738,67,1953-11-17,Tuomioja,1,http://en.wikipedia.org/wiki/Sakari_Tuomioja,valt,,Recorded as non-partisan cabinet in Müller/Strøm (2000).,232,575,,246,19531
+739,29,1988-12-07,Mulroney II,0,,,,,498,96,,124,19880
+740,21,1993-01-25,Rasmussen N I,0,http://da.wikipedia.org/wiki/Regeringen_Poul_Nyrup_Rasmussen_I,mueller,,,11,157,308,208,19930
+741,8,1958-12-22,Beel II,1,http://en.wikipedia.org/wiki/Netherlands_cabinet_Beel-2,,,,761,437,,528,19580
+742,56,1947-02-04,Stefansson,0,http://en.wikipedia.org/wiki/Stef%C3%A1n_J%C3%B3hann_Stef%C3%A1nsson,indridason,,,703,35,,352,19470
+743,5,1989-06-03,Uno,0,,,,,283,506,,392,19890
+744,21,1973-12-19,Hartling,0,http://da.wikipedia.org/wiki/Regeringen_Poul_Hartling,mueller,,,320,64,,208,19730
+745,64,1954-04-22,Van Acker IV,0,http://en.wikipedia.org/wiki/Achille_Van_Acker,mueller,,,389,545,,56,19540
+746,64,1949-08-11,Eyskens G I,0,http://en.wikipedia.org/wiki/Gaston_Eyskens,nyt,Cabinet resigned on 18 March 1950 after Liberal Party (LP-PL) withdrew from coalition.,,40,644,,56,19490
+747,67,1957-05-27,Sukselainen I,0,http://en.wikipedia.org/wiki/Vieno_Johannes_Sukselainen%27s_first_cabinet,"nyt, valt",,,373,71,,246,19570
+748,37,1993-01-12,Reynolds II,0,,,,,870,359,46,372,19930
+749,8,1998-08-03,Kok II,0,http://en.wikipedia.org/wiki/Netherlands_cabinet_Kok-2,afp,Cabinet requested to resign on 19 May 1999 over a constitutional reform bill and withdrew its resignation request on 8 June. It resigned on 16 April 2002 over a report on the 1995 Srebrenica massacre in Bosnia.,Coded as one cabinet because none of the cabinet changes lasts for more than three months.,637,372,58,528,19980
+750,29,1949-06-27,St-Laurent II,0,http://en.wikipedia.org/wiki/Louis_St._Laurent#Prime_Minister_of_Canada,,,,534,112,,124,19490
+751,29,1979-06-04,Clark,0,,,,,783,683,,124,19790
+752,56,1980-02-08,Thoroddsen,0,http://en.wikipedia.org/wiki/Gunnar_Thoroddsen,indridason,,,536,436,,352,19800
+753,43,1947-11-24,Schuman I,0,http://fr.wikipedia.org/wiki/Gouvernement_Robert_Schuman_(1),w,,,191,75,,250,19472
+754,74,2006-05-05,Marcinkiewicz II,0,http://en.wikipedia.org/wiki/Kazimierz_Marcinkiewicz,"bbc, ejpr",PM Marcinkiewicz resigned on 7 July 2006 following divisions with Law and Justice (PiS) party leader Jarosław Kaczyński. The resignation of the cabinet was accepted by president Lech Kaczyński on 10 July 2006.,,312,188,199,616,20051
+755,63,2004-07-23,Santana Lopes,0,http://en.wikipedia.org/wiki/Pedro_Santana_Lopes,ejpr,,,381,657,140,620,20040
+756,26,1987-07-28,Goria,0,http://it.wikipedia.org/wiki/Governo_Goria,mueller,,,737,17,458,380,19871
+757,59,1960-11-03,Raab IV,0,http://de.wikipedia.org/wiki/Bundesregierung_Raab_IV,nyt,"Cabinet was appointed on 3 November 1960. 
+On 16 February 1961, PM Raab announced his resignation because of poor health and resigned on 11 April.",,114,347,,40,19600
+758,43,1950-07-02,Queuille III,0,http://fr.wikipedia.org/wiki/Gouvernement_Henri_Queuille_(2),w,,,636,75,,250,19500
+759,67,2003-06-24,Vanhanen I,0,http://en.wikipedia.org/wiki/Matti_Vanhanen%27s_first_cabinet,"reuters, valt","PM Vanhanen was appointed in parliament (yes: 109, no: 67, absent: 23) on 24 June 2003 (Reuters). 
+Cabinet ended with regular election on 18 March 2007. PM Vanhanen remained in office until the new cabinet formed on 19 April 2007 (Valtioneuvosto).",,877,253,334,246,20031
+760,44,1964-10-16,Wilson I,0,http://en.wikipedia.org/wiki/Labour_Government_1964-1970,bpf,,,63,223,,826,19640
+761,8,1956-10-12,Drees IV,0,http://en.wikipedia.org/wiki/Netherlands_cabinet_Drees-4,w,,,366,437,,528,19560
+762,56,1953-09-11,Thors V,0,http://en.wikipedia.org/wiki/%C3%93lafur_Thors,nyt,Cabinet formed on 11 September 1953 and resigned on 27 March 1956 following the withdrawal of the Progressives (NYT).,Coded as one cabinet because none of the cabinet changes lasts for more than three months.,766,88,,352,19530
+763,8,2002-07-21,Balkenende I,0,http://en.wikipedia.org/wiki/Netherlands_cabinet_Balkenende-1,,,,749,74,177,528,20020
+764,67,1962-04-13,Karjalainen I,0,http://en.wikipedia.org/wiki/Ahti_Karjalainen,"valt, nyt","Cabinet under PM Karjalainen was appointed on 13 April 1962 and resigned on 30 August 1963 in a dispute over farmer compensations. The cabinet reformed without the Social Democrats (TPSL) on 1 November and resigned in conflict over the 1964 budget on 17 December, announced three days before (NYT).",Cabinet changes on 31 August 1963 (cabinet resignation) and on 18 October (party change). Coded as one cabinet because none of the changes lasts for more than three months.,598,354,,246,19620
+765,8,1973-05-11,Den Uyl I,0,http://en.wikipedia.org/wiki/Netherlands_cabinet_Den_Uyl,"nyt, ro",Cabinet resigned on 22 March 1978 following a conflict over land sales and KVP/ARP withdrawal from cabinet.,,291,51,,528,19730
+766,56,1950-03-14,Steinthorsson,0,http://en.wikipedia.org/wiki/Steingr%C3%ADmur_Stein%C3%BE%C3%B3rsson,indridason,,,625,259,,352,19500
+767,8,1945-06-24,Schermerhorn,1,http://en.wikipedia.org/wiki/Netherlands_cabinet_Schermerhorn/Drees,,,,,,,528,19450
+768,60,2000-06-07,Bajuk,0,http://en.wikipedia.org/wiki/Andrej_Bajuk,mue-rom,,,644,338,,705,20000
+769,67,1972-09-04,Sorsa I,0,http://en.wikipedia.org/wiki/Kalevi_Sorsa,"afp, valt",Cabinet appointed on 4 September 1972.,,618,636,,246,19721
+770,5,2003-11-19,Koizumi II,0,http://en.wikipedia.org/wiki/Junichiro_Koizumi,afp,"PM Koizumi was elected (yes: 281 [lower house]; yes: 136, total: 240 [upper house]) on 19 August 2003 and the cabinet was appointed the same day.",,840,511,,392,20030
+771,43,1978-04-03,Barre III,0,http://fr.wikipedia.org/wiki/Gouvernement_Raymond_Barre_(3),,,,72,496,,250,19780
+772,69,1990-04-12,Maizere,0,http://de.wikipedia.org/wiki/Kabinett_de_Maizi%C3%A8re,dhbt,"PM de Maizière won an investiture vote on 12 April 1990 (yes: 265, no: 108, abstain: 9). Cabinet composition changed on 2 July 1990 (DSU minister resignation), on 5 August (DA joined CDU) and on 20 August (SPD minister resignation). It lost its parliamentary majority on 19 August when the SPD withdrew its support.",Coded as one cabinet because none of the cabinet changes lasts for more than three months.,,287,,1003,19900
+773,40,1991-12-04,Bundesrat 1991,0,,,,,426,521,,756,19910
+774,33,1980-11-03,Fraser IV,0,http://en.wikipedia.org/wiki/Fourth_Fraser_Ministry,hug-86,Cabinet ended on 3 February 1983 after PM Fraser obtained a dissolution of the Parliament and Senate.,,421,736,,36,19800
+775,59,1949-11-08,Figl III,0,http://de.wikipedia.org/wiki/Bundesregierung_Figl_II,faz,"Cabinet was appointed on 8 November 1949.
+Cabinet resigned on 22 October 1952 and called an early election after disagreement over the 1953 budget.",,884,67,,40,19490
+776,67,1979-05-26,Koivisto II,0,http://fi.wikipedia.org/wiki/Koiviston_II_hallitus,valt,Koivisto was elected as president resulting in a cabinet reshuffle.,,492,84,,246,19790
+777,40,1967-12-14,Bundesrat 1967,0,,,,,513,373,,756,19670
+778,54,1994-11-17,Kohl V,0,http://de.wikipedia.org/wiki/Kabinett_Kohl_V,,,,862,595,540,276,19940
+779,35,1991-10-03,Bildt,0,http://sv.wikipedia.org/wiki/Regeringen_Carl_Bildt,mueller,,,732,472,,752,19910
+780,5,1958-06-12,Kishi II,0,http://en.wikipedia.org/wiki/Nobusuke_Kishi,nyt,"PM Kishi was elected on 12 June 1958 and the cabinet was appointed the same day.
+On 16 June 1960, Kishi announced his intention to resign after a controversial United States--Japanese security treaty came into force. Cabinet resigned on 16 July",,887,645,,392,19580
+781,35,1952-09-21,Erlander IV,0,http://sv.wikipedia.org/wiki/Regeringen_Erlander_II,mueller,Cabinet remained in office after elections on  21 September 1952 and ended with elections on 26 September 1956.,,361,234,,752,19520
+782,41,1989-07-02,Tzannetakis,0,,,,,39,205,518,300,19890
+783,29,1974-08-08,Trudeau IV,0,,,,,25,276,,124,19740
+784,51,1988-02-28,Vassiliou I,0,http://en.wikipedia.org/wiki/George_Vasiliou,reuters,,,913,127,,196,19880
+785,29,1993-11-04,Chretien I,0,,,,,704,546,,124,19931
+786,33,1963-12-18,Menzies X,0,http://en.wikipedia.org/wiki/Tenth_Menzies_Ministry,hug-77,Cabinet ended on 20 January 1966 with the resignation of PM Menzies.,,288,741,,36,19630
+787,5,1967-02-17,Sato II,0,,,,,8,367,,392,19670
+788,21,2007-11-23,Rasmussen F III,0,http://en.wikipedia.org/wiki/Cabinet_of_Anders_Fogh_Rasmussen_III,ejpr,Rasmussen stepped down to become NATO Secretary General,,316,174,168,208,20070
+789,5,1970-01-14,Sato III,0,,,,,787,603,,392,19700
+790,26,1945-12-09,De Gasperi I,0,http://it.wikipedia.org/wiki/Governo_De_Gasperi_I,mueller,,,,,,380,19450
+791,67,1958-04-26,Kuuskoski,1,http://en.wikipedia.org/wiki/Reino_Kuuskoski,valt,,,860,71,,246,19580
+792,10,1997-05-21,Kostov,0,http://en.wikipedia.org/wiki/Ivan_Kostov,mue-rom,,"Government was elected in parliament on 21 May 1997 (yes: 179 , no: 55).",714,126,,100,19971
+793,54,1957-10-24,Adenauer V,0,http://de.wikipedia.org/wiki/Kabinett_Adenauer_III,dhbt,Cabinet ended on 1 July 1960 when German Party (DP) parliamentary group split.,,633,331,,276,19570
+794,37,1977-07-05,Lynch III,0,,,,,315,6,,372,19770
+795,33,1968-02-28,Gorton II,0,http://en.wikipedia.org/wiki/Second_Gorton_Ministry,hug-77,,,1,764,,36,19690
+796,26,1954-02-10,Scelba,0,http://it.wikipedia.org/wiki/Governo_Scelba,mueller,,,90,642,,380,19541
+798,26,1953-08-17,Pella,0,http://it.wikipedia.org/wiki/Governo_Pella,mueller,,,603,642,,380,19531
+799,7,1948-07-14,Dupong IV,0,http://lb.wikipedia.org/wiki/Regierung_Dupong-Schaus-Bodson,,,,395,661,,442,19480
+800,5,1996-01-11,Hashimoto I,0,,,,,868,57,,392,19960
+801,26,1993-04-29,Ciampi,0,http://it.wikipedia.org/wiki/Governo_Ciampi,mueller,,Contains PLI members (Raffaele Costa) that were only interim ministers.,176,605,280,380,19930
+802,43,2004-03-30,Raffarin III,0,http://fr.wikipedia.org/wiki/Gouvernement_Jean-Pierre_Raffarin_(3),"bbc, nyt, w",Raffarin resigned on 31 May 2005 following the rejection of the referendum on the European Union constitution.,,820,403,273,250,20030
+803,60,2008-11-21,Pahor I,0,http://en.wikipedia.org/wiki/Borut_Pahor,sta,"Cabinet was appointed on 21 November 2008 (yes: 56, no: 30).
+It lost the majority on 9 May 2011 when DeSUS decided to leave the coalition and ended on 19 May when last DeSUS minister resigned from the party. Another party (Zares) left the coalition on 27 June.",Coded as one cabinet because none of the cabinet changes lasts for more than three months.,407,522,659,705,20080
+804,8,2010-10-14,Rutte I,0,http://en.wikipedia.org/wiki/Netherlands_cabinet_Rutte,"reuters, rnw, afp","Cabinet was appointed on 14 October 2010.
+Minority cabinet with support agreement from the Party for Freedom (PVV). It lost its majority support on 20 March after an PVV MP left the party group. PVV withdrew its support on 21 April 2012.
+Cabinet resigned on 23 April 2012 after conflict over budget cuts.",,652,530,134,528,20101
+805,10,2009-07-27,Borisov,0,http://en.wikipedia.org/wiki/Boyko_Borisov,afp,"Government was confirmed in parliament on 27 July 2009 (yes: 162, no: 77, abstain: 1).",,425,79,432,100,20090
+806,27,2004-04-17,Zapatero I,0,,nyt,"Minority cabinet with support of small left-wing and nationalist parties, especially United Left (IU) and Left of Catalonia (ERC) (Hopkin 2005, 389). 
+It was appointed on 17 April  2004 (NYT).",,309,164,585,724,20040
+807,43,2007-05-18,Fillon I,0,http://fr.wikipedia.org/wiki/Gouvernement_Fran%C3%A7ois_Fillon_(1),"bbc, ejpr, nyt, w",Fillion cabinet formally resigned on 18 June 2007 following parliamentary elections and he was re-appointed as PM by President Sarkozy on the same day.,,46,403,160,250,20070
+808,64,1945-02-12,Van Acker I,0,http://en.wikipedia.org/wiki/Achille_Van_Acker,,,,29,,,56,19450
+809,26,1988-04-13,De Mita,0,http://it.wikipedia.org/wiki/Governo_De_Mita,mueller,,,756,17,458,380,19880
+810,26,1960-07-26,Fanfani III,0,http://it.wikipedia.org/wiki/Governo_Fanfani_III,mueller,,,615,507,,380,19601
+811,15,1993-03-10,Slezevicius,0,http://en.wikipedia.org/wiki/Adolfas_%C5%A0le%C5%BEevi%C4%8Dius,mue-rom,,,684,439,,440,19930
+812,33,2001-11-26,Howard III,0,http://en.wikipedia.org/wiki/Third_Howard_Ministry,aph-11,,,423,760,,36,20010
+813,9,1996-10-25,Jagland,0,http://en.wikipedia.org/wiki/Thorbj%C3%B8rn_Jagland,afp,"PM Jagland resigned on 13 October 1997 after failing to win votes in the 1997 election. Before the election, he declared to step down if his party would not get at least 36.9 percent of the vote, the 1993 DNA result.",,572,404,,578,19960
+814,40,1951-12-13,Bundesrat 1951,0,,,,,556,21,,756,19510
+815,67,1945-04-17,Paasikivi II,0,http://fi.wikipedia.org/wiki/Paasikiven_III_hallitus,"nyt, valt",Paasikivi was elected as President by Parliament on 9 March 1946.,,120,101,,246,19450
+816,72,1974-09-30,Mintoff II,0,,,,,295,8,,470,19740
+817,1,1994-03-16,Moravcik,0,http://en.wikipedia.org/wiki/Jozef_Morav%C4%8D%C3%ADk,mue-rom,,,719,294,,703,19940
+818,26,1963-12-04,Moro I,0,http://it.wikipedia.org/wiki/Governo_Moro_I,"mueller, nyt",,,511,380,,380,19631
+819,21,1982-09-10,Schluter I,0,http://da.wikipedia.org/wiki/Regeringen_Poul_Schl%C3%BCter_I,mueller,,,275,179,271,208,19820
+820,43,2002-06-17,Raffarin II,0,http://fr.wikipedia.org/wiki/Gouvernement_Jean-Pierre_Raffarin_(2),w,,,711,403,273,250,20021
+821,35,1968-09-15,Erlander X,0,http://sv.wikipedia.org/wiki/Regeringen_Erlander_III,mueller,,,506,655,,752,19680
+822,9,1972-10-17,Korvald,1,http://en.wikipedia.org/wiki/Lars_Korvald,"nyt, reg-no","Minority cabinet supported by Conservative Party (H) and Liberal People's Party (DLF).
+It was appointed on 18 October 1972 following resignation of Bratelli and its main objective was to negotiate a trade agreement with the European Communities (EC) instead of EC membership.
+Cabinet ended with elections on 9 September 1973 and formally resigned on 16 October.",Coded as caretaker due to the limited mandate of the government and its only main task to negotiate a trade agreement.,14,580,,578,19720
+823,26,2008-05-08,Berlusconi IV,0,http://en.wikipedia.org/wiki/Berlusconi_IV_Cabinet,"reuters, ansa","PM Berlusconi was appointed on 8 May 2008 and the cabinet won confidence votes on 14/15 May (yes: 335, no: 272, abstain: 1 [lower house], yes: 173, no: 133, abstain: 1 [upper house]).
+Cabinet lost its majority on 30 July 2010 when 33 MPs formed a new parliamentary group Future and Freedom (FLI).
+Berlusconi announced to resign on 8 November 2011 after failing to secure an absolute majority in a budget vote (yes: 308, required: 316) and stepped down on 12 November.",,117,111,329,380,20080
+824,21,1978-08-30,Jorgensen IV,0,http://da.wikipedia.org/wiki/Regeringen_Anker_J%C3%B8rgensen_III,mueller,,,248,409,,208,19780
+825,21,1966-11-22,Krag III,0,http://da.wikipedia.org/wiki/Regeringen_Jens_Otto_Krag_II,mueller,,,660,97,,208,19660
+826,43,1951-08-11,Pleven II,0,http://fr.wikipedia.org/wiki/Gouvernement_Ren%C3%A9_Pleven_(2),w,,,104,293,,250,19511
+827,39,1998-07-06,Orban I,0,http://en.wikipedia.org/wiki/Viktor_Orb%C3%A1n,mue-rom,,,488,671,,348,19980
+828,59,1986-06-16,Vranitzky I,0,http://de.wikipedia.org/wiki/Bundesregierung_Vranitzky_I,"nyt, mueller","Cabinet was appointed on 16 June 1986.
+On 15 September 1986, PM Vranitzky called an early election after Jörg Haider was elected as chairman of the Freedom Party (FPO).
+The cabinet ended with an early election on 23 November 1986 and resigned two days later.",,702,456,,40,19860
+830,11,1996-03-01,Bolger III,0,http://en.wikipedia.org/wiki/Fourth_National_Government_of_New_Zealand,ejpr,,"Not coded as a cabinet in the EJPR yearbook. However, cabinet composition changed by appointing ministers from United New Zealand.",514,634,,554,19960
+831,67,1991-04-26,Aho I,0,http://en.wikipedia.org/wiki/Esko_Aho,valt,,,41,602,,246,19910
+832,7,1959-03-02,Werner I,0,http://lb.wikipedia.org/wiki/Regierung_Werner-Schaus_I,,,,544,390,,442,19590
+834,27,1986-07-25,Gonzalez II,0,,,,,238,254,38,724,19860
+835,68,1993-01-01,Klaus II,0,http://en.wikipedia.org/wiki/V%C3%A1clav_Klaus,mue-rom,,,165,39,,203,19930
+836,33,1975-12-22,Fraser II,0,http://en.wikipedia.org/wiki/Second_Fraser_Ministry,hug-86,"Cabinet was formed on 22 December 1975.
+It ended with elections on 18 October 1980.",,720,757,,36,19751
+837,21,1987-09-10,Schluter III,0,http://da.wikipedia.org/wiki/Regeringen_Poul_Schl%C3%BCter_II,mueller,,,195,226,128,208,19870
+838,44,1997-05-02,Blair I,0,http://en.wikipedia.org/wiki/Blair_Ministry,bpf,,,678,315,351,826,19970
+839,23,1992-11-13,Vacaroiu I,0,http://en.wikipedia.org/wiki/Vacaroiu,"mue-rom, reuters","Minority support by Socialist Party (PSM), Greater Romania Party (PRM) and Romanian National Unity Party (PUNR) was formally acknowledged on 25 June 1993.",,710,416,,642,19920
+840,5,2001-04-26,Koizumi I,0,http://en.wikipedia.org/wiki/Junichiro_Koizumi,ejpr,,,163,237,,392,20010
+841,21,1962-09-03,Krag I,0,http://da.wikipedia.org/wiki/Regeringen_Jens_Otto_Krag_I,mueller,,,456,73,,208,19620
+842,26,1976-02-12,Moro V,0,http://it.wikipedia.org/wiki/Governo_Moro_V,mueller,,,149,65,,380,19760
+843,43,1984-07-17,Fabius,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,,428,20,415,250,19840
+844,33,1974-06-12,Whitlam II,0,http://en.wikipedia.org/wiki/Third_Whitlam_Ministry,"hug-86, nyt",Cabinet ended on 11 November 1975 after an opposition-controlled Senate refused to approve the budget and Governor-General Kerr dismissed PM Whitlam.,,507,758,,36,19740
+845,11,2002-08-15,Clark II,0,http://en.wikipedia.org/wiki/Fifth_Labour_Government_of_New_Zealand,ejpr,confidence and supply from the Greens and United Future,,212,572,,554,20020
+846,39,2010-05-29,Orban II,0,,reuters,"Government passed an investiture vote on 29 May 2010 (yes: 261, no: 107, abstain: 18).",,162,688,249,348,20100
+847,64,1974-06-11,Tindemans II,0,http://en.wikipedia.org/wiki/Leo_Tindemans,mueller,,,677,384,,56,19741
+848,67,1976-09-29,Miettunen III,0,http://en.wikipedia.org/wiki/Martti_Miettunen,valt,,,476,98,,246,19760
+849,56,1974-08-28,Hallgrimsson,0,http://en.wikipedia.org/wiki/Geir_Hallgr%C3%ADmsson,indridason,,,272,637,,352,19740
+850,5,2005-10-31,Koizumi III,0,http://en.wikipedia.org/wiki/Junichiro_Koizumi,"ejpr, nyt",,,770,554,,392,20050
+851,56,1963-06-09,Thors VII,0,http://en.wikipedia.org/wiki/%C3%93lafur_Thors,indridason,,,331,379,,352,19630
+853,21,1950-09-16,Hedtoft II,0,http://da.wikipedia.org/wiki/Regeringen_Hans_Hedtoft_I,"mueller, nyt","Government lost a vote over butter rationing (yes: 68, no: 69) on 25 November 1950 and resigned a day later.",,408,430,,208,19500
+854,35,2010-09-19,Reinfeldt II,0,http://en.wikipedia.org/wiki/Cabinet_of_Fredrik_Reinfeldt,ap,PM Reinfeldt won the September election but the coalition was not able to maintain a majority in parliament. Reinfeld presented his new minority cabinet and appointed his ministers on 5 October 2010.,,475,512,304,752,20100
+855,40,2003-12-10,Bundesrat 2003,0,,swiss,,,198,206,,756,20030
+856,67,1971-03-26,Karjalainen III,0,http://fi.wikipedia.org/wiki/Karjalaisen_toinen_hallitus,"nyt, valt","Cabinet begins with change of party composition on 26 March 1971.
+It resigned on 29 October 1971 over disputes on agricultural prices.",,115,77,,246,19710
+857,29,1963-04-22,Pearson I,0,,,,,619,424,,124,19630
+858,63,2009-10-26,Socrates II,0,http://en.wikipedia.org/wiki/Jos%C3%A9_S%C3%B3crates,"bbc, reuters",PM Socrates resigned on 23 March 2011 after parliament rejected an austerity budget.,,169,405,5,620,20090
+859,64,1973-01-26,Leburton,0,http://en.wikipedia.org/wiki/Edmond_Leburton,mueller,,Coded as one cabinet: Election (10 March 1974) takes place within three month and new cabinet forms (25 March 1974) within three month thereafter.,448,591,,56,19730
+860,67,1957-11-29,Fieandt,1,http://en.wikipedia.org/wiki/Rainer_von_Fieandt,"nyt, valt","Following disputes over food pricing, the cabinet lost a confidence vote (yes: 50, no: 143) on 18 April 1958 and resigned.",,631,71,,246,19573
+862,54,1991-01-18,Kohl IV,0,http://de.wikipedia.org/wiki/Kabinett_Kohl_IV,,,,286,445,296,276,19910
+863,37,1969-07-02,Lynch II,0,http://en.wikipedia.org/wiki/Government_of_the_19th_D%C3%A1il,,,,602,641,,372,19690
+864,37,2007-06-14,Ahern III,0,http://en.wikipedia.org/wiki/Government_of_the_30th_D%C3%A1il#27th_Government_of_Ireland,ejpr,,,179,190,123,372,20070
+865,41,1977-11-28,Karamanlis Kon II,0,,,,,609,596,,300,19770
+866,43,1981-05-21,Mauroy I,0,http://fr.wikipedia.org/wiki/Historique_des_gouvernements_de_la_France,,,,771,496,677,250,19810
+867,37,1982-12-14,Fitzgerald II,0,,,,,54,307,414,372,19821
+868,5,1994-06-30,Murayama,0,,,,,432,57,,392,19941
+869,11,1957-12-11,Nash,0,,,,,629,421,,554,19571
+870,37,1992-02-11,Reynolds I,0,,,,,215,590,46,372,19920
+871,54,1972-12-15,Brandt II,0,http://de.wikipedia.org/wiki/Kabinett_Brandt_II,nyt,Brandt resigned on 6 May 1974 following a spy scandal about a staff member.,,358,95,,276,19720
+872,67,1950-03-17,Kekkonen I,0,http://en.wikipedia.org/wiki/Urho_Kekkonen,valt,,,78,187,,246,19500
+873,59,1987-01-21,Vranitzky II,0,http://de.wikipedia.org/wiki/Bundesregierung_Vranitzky_II,mueller,"Cabinet was appointed on 21 January 1987.
+Cabinet ended with election on 7 October 1990 and resigned two days later.
+",,828,235,,40,19870
+874,44,2010-05-11,Cameron,0,http://en.wikipedia.org/wiki/Cameron_ministry,bpf,,PM Cameron took office on 11 May 2010 after forming a coalition with the Liberal Democrats.,119,582,410,826,20100
+875,33,1987-07-24,Hawke III,0,http://en.wikipedia.org/wiki/Third_Hawke_Ministry,aph-11,,,401,732,,36,19870
+876,41,2004-03-10,Karamanlis Kos I,0,http://en.wikipedia.org/wiki/Kostas_Karamanlis,,,,190,201,482,300,20040
+877,67,2003-04-17,Jaatteenmaki,0,http://en.wikipedia.org/wiki/Anneli_J%C3%A4%C3%A4tteenm%C3%A4ki%27s_Cabinet,"ap, reuters, valt","PM Jaatteenmaki was approved in parliament (yes: 111, no 72) and cabinet appointed on 17 April 2003 (AP).
+PM Jaatteenmaki resigned on 18 June, effective 24 June, over the usage of confidential information (Reuters, Valtioneuvosto).",,663,253,334,246,20030
+878,55,1997-08-07,Krasts I,0,http://en.wikipedia.org/wiki/Guntars_Krasts,conrad,,,377,534,,428,19971
+879,21,1953-09-30,Hedtoft III,0,http://da.wikipedia.org/wiki/Regeringen_Hans_Hedtoft_II,mueller,,,359,630,,208,19531
+880,26,1958-07-01,Fanfani II,0,http://it.wikipedia.org/wiki/Governo_Fanfani_II,mueller,,,280,507,,380,19580
+881,72,1992-02-27,Fenech Adami II,0,,,,,3,520,,470,19920
+882,55,2010-11-03,Dombrovskis III,0,http://en.wikipedia.org/wiki/Valdis_Dombrovskis,"ap, afp","PM Dombrovskis was nominated on 2 November 2010 and his cabinet was confirmed in parliament (yes: 63, no: 35, absent: 2) the day after (AP).
+Cabinet ends with snap elections on 17 September 2011.",,519,690,302,,
+883,43,2010-11-14,Fillon III,0,http://fr.wikipedia.org/wiki/Gouvernement_Fran%C3%A7ois_Fillon_%283%29,"afp, reuters","A reshuffled cabinet under Fillon was appointed on 14 November 2010.
+The government lost its Senate majority in elections on 25 September 2011. 
+Cabinet resigned on 10 May 2012 after presidential elections.",,306,171,219,,
+884,59,1947-11-20,Figl II,0,,"mueller, oepa","Cabinet continued on 20 November 1947 after a change in party composition.
+Cabinet ended with election on 9 October 1949 and resigned two days later.",,133,402,,,
+885,63,1985-06-14,Soares IV,1,,nyt,,,689,598,,,
+886,64,2007-06-10,Verhofstadt III,1,http://en.wikipedia.org/wiki/Guy_Verhofstadt,reuters,,Coded because formation of new cabinet after the election takes more than three months.,449,401,656,,
+887,5,1957-02-25,Kishi I,0,http://en.wikipedia.org/wiki/Nobusuke_Kishi,nyt,"PM Kishi was elected on 25 February 1957 (yes: 276 [lower house]; yes: 147 [upper house]). 
+Kishi dissolved parliament on 25 April 1958.",,901,692,,,
+888,59,2005-04-05,Schuessel IV,0,http://de.wikipedia.org/wiki/Bundesregierung_Sch%C3%BCssel_II,"ap, aufo","Cabinet continued on 5 April when PM Schuessel announced to continue the previous coalition with Freedom Party (FPO) ministers who joined the newly formed Alliance for the Future of Austria (BZO).
+Minority cabinet was supported by most remaining FPO MPs.
+Cabinet ended with election on 1 October 2006 and resigned two days later.",,257,365,45,,
+889,59,2002-11-24,Schuessel II,1,http://de.wikipedia.org/wiki/Bundesregierung_Sch%C3%BCssel_I,reuters,Continuation caretaker cabinet remained in office after the election on 24 November 2002 until the  coalition reformed on 28 February 2003.,Start date set to 24 November 2002 (election date) following three month coding rule.,722,365,16,,
+890,59,1962-11-18,Gorbach II,1,http://de.wikipedia.org/wiki/Bundesregierung_Gorbach_I,nyt,Continuation caretaker cabinet remained in office after the election on 18 November 1962 until the coalition reformed on 27 March 1963.,Start date set to 18 November 1962 following three month coding rule.,533,495,,,
+891,5,1946-05-22,Yoshida I,0,http://ja.wikipedia.org/wiki/%E7%AC%AC1%E6%AC%A1%E5%90%89%E7%94%B0%E5%86%85%E9%96%A3,nyt,"PM Yoshida and his cabinet were appointed on 22 May 1946.
+Cabinet ended with elections on 25 April 1947 and resigned on 19 May.",,,697,,,
+892,5,1947-05-23,Katayama,0,http://ja.wikipedia.org/wiki/%E7%89%87%E5%B1%B1%E5%86%85%E9%96%A3,nyt,"PM Katayama was elected on 23 May 1947 (yes: 420  [lower house]; yes: 205 [upper house]) and the cabinet came into office on 1 June.
+Cabinet resigned on 10 February 1948.",,891,696,,,
+893,5,1948-02-21,Ashida,0,http://en.wikipedia.org/wiki/Hitoshi_Ashida,nyt,"PM Ashida was elected on 21 February 1948 (yes: 216 [lower house]; yes: 102 [upper house]) and the cabinet came into office on 9 March.
+Cabinet resigned on 7 October 1948 following corruption charges.",,892,696,,,
+894,5,1948-10-15,Yoshida II,0,http://ja.wikipedia.org/wiki/%E7%AC%AC2%E6%AC%A1%E5%90%89%E7%94%B0%E5%86%85%E9%96%A3,nyt,"PM Yoshida was elected on 15 October 1948 (yes: 185) and his cabinet came into office on 19 October.
+Cabinet resigned on 7 December 1948 to avoid a no confidence vote by the opposition.",,893,696,,,
+895,5,1949-02-11,Yoshida III,0,http://ja.wikipedia.org/wiki/%E7%AC%AC3%E6%AC%A1%E5%90%89%E7%94%B0%E5%86%85%E9%96%A3,nyt,"PM Yoshida was elected on 11 February 1949 (yes: 350, cast: 451 [lower house]; yes: 167, cast: 218  [upper house]) and his cabinet came into office on 16 February.
+Yoshida dissolved parliament and announced general elections on 28 August 1952.",,894,695,,,
+896,5,1952-10-24,Yoshida IV,0,http://ja.wikipedia.org/wiki/%E7%AC%AC4%E6%AC%A1%E5%90%89%E7%94%B0%E5%86%85%E9%96%A3,nyt,"PM Yoshida was elected on 24 October 1952 (yes: 247 [lower house]; yes: 126 [upper house]) and his cabinet came into office on 29 October.
+PM Yoshida lost a confidence vote (yes: 218, no: 229) on 14 March 1953 and dissolved parliament.",,895,694,,,
+897,5,1953-05-19,Yoshida V,0,http://ja.wikipedia.org/wiki/%E7%AC%AC5%E6%AC%A1%E5%90%89%E7%94%B0%E5%86%85%E9%96%A3,nyt,"PM Yoshida was elected on 19 May 1953 (yes: 204 [lower house]; yes: 141 [upper house]) and his cabinet came into office on 22 May.
+Cabinet resigned on 7 December 1954 following a potential vote of no confidence by the opposition and a faction of the Liberal party.",,896,693,,,
+898,5,1954-12-09,Hatoyama I I,1,http://ja.wikipedia.org/wiki/%E7%AC%AC1%E6%AC%A1%E9%B3%A9%E5%B1%B1%E4%B8%80%E9%83%8E%E5%86%85%E9%96%A3,nyt,"PM Hatoyama was elected on 9 December 1954 (yes: 257 [lower house]; yes: 116 [upper house]) following the resignation of PM Yoshida. He promised to dissolve parliament and to hold an election by spring. 
+Cabinet ends with the dissolution of parliament on 24 January 1955.",,897,693,,,
+899,5,1955-03-18,Hatoyama I II,0,http://ja.wikipedia.org/wiki/%E7%AC%AC2%E6%AC%A1%E9%B3%A9%E5%B1%B1%E4%B8%80%E9%83%8E%E5%86%85%E9%96%A3,nyt,"PM Hatoyama was elected on 18 March 1955  (yes: 254 [lower house]) and cabinet came into office on 26 March.
+Cabinets resigned on 21 November 1955 and later reformed following the merger of Liberal and Democratic parties.",,898,692,,,
+900,5,1955-11-22,Hatoyama I III,0,http://ja.wikipedia.org/wiki/%E7%AC%AC3%E6%AC%A1%E9%B3%A9%E5%B1%B1%E4%B8%80%E9%83%8E%E5%86%85%E9%96%A3,nyt,"PM Hatoyama was elected on 22 November 1955 (yes: 288 [lower house], yes: 149 [upper house]) and the cabinet appointed the same day.
+Cabinet resigned on 20 December 1956 because of Hatoyama's failing health.",,899,692,,,
+901,5,1956-12-20,Ishibashi,0,http://ja.wikipedia.org/wiki/%E7%9F%B3%E6%A9%8B%E5%86%85%E9%96%A3,,"PM Ishibashi was elected on 20 December 1956 (yes: 291 [lower house]) and cabinet came into office four days later.
+Ishibashi resigned on 23 February 1957 because of failing health.",,900,692,,,
+902,75,2009-05-21,Ansip III,0,http://en.wikipedia.org/wiki/Andrus_Ansip%27s_cabinet,reuters,"PM Ansip tried to include the ERa into the coalition after the withdrawal of the SDE on 21 May 2009 to form a new majority coalition. However, on 2 June he announced to continue as a minority cabinet. The government ended on 6 March 2011 following regular elections.",,686,83,130,,
+903,40,2008-12-10,Bundesrat 2008,0,,reuters,"Cabinet starts on 10 December 2008 with the election of Ueli Maurer (SVP) to the Federal Council.
+It ends with elections on 23 October 2011.",BDP was formed on 1 November 2008 but start date is set to 10 December 2008 (last change previous cabinet) following three month coding rule.  ,508,310,,,
+904,37,2011-03-09,Kenny I,0,http://en.wikipedia.org/wiki/Government_of_the_31st_D%C3%A1il,bbc,Kenny was elected in parliament on 9 March 2011 and presented his cabinet the same day.,,173,698,369,,
+905,75,2011-04-05,Ansip IV,0,http://en.wikipedia.org/wiki/Andrus_Ansip%27s_cabinet,err,Cabinet appointed on 5 April 2011.,,902,699,395,,
+906,54,1960-07-01,Adenauer VI,0,http://de.wikipedia.org/wiki/Kabinett_Adenauer_III,dhbt,,,793,331,,,
+907,60,2011-06-27,Pahor II,0,http://en.wikipedia.org/wiki/Borut_Pahor,"sta, afp","Pahor cabinet (SD and LDS) continued in office on 19 May 2011 and 27 June after the resignation of DeSUS and Zares ministers.
+Pahor minority cabinet fell on 20 September 2011 after losing a confidence vote (yes: 36, no: 51, abstain: 1) about vacated cabinet posts.",Start date set to 27 June 2011 (last change previous cabinet) following three month coding rule.,803,522,195,,
+908,51,2010-03-02,Christofias II,0,http://en.wikipedia.org/wiki/Dimitris_Christofias,afp,"Cabinet starts with appointment of new ministers on 2 March 2010, replacing Movement for Social Democracy (EDEK) ministers.
+It ends with elections on 22 May 2011.",,289,556,28,,
+909,51,2006-05-21,Papadopoulos II,0,http://en.wikipedia.org/wiki/Tassos_Papadopoulos,cyprus.gov.cy,,,342,556,397,,
+910,51,2001-05-27,Klerides IV,0,http://en.wikipedia.org/wiki/Glafkos_Klerides,,,,731,339,,,
+911,51,1996-05-26,Klerides II,0,http://en.wikipedia.org/wiki/Glafkos_Klerides,,,,645,330,,,
+912,51,1991-05-19,Vassiliou II,0,http://en.wikipedia.org/wiki/George_Vasiliou,,,,784,342,,,
+913,51,1985-12-08,Kyprianou V,0,http://en.wikipedia.org/wiki/Spyros_Kyprianou,,,,313,127,,,
+914,51,1981-05-24,Kyprianou III,0,http://en.wikipedia.org/wiki/Spyros_Kyprianou,,,,210,70,,,
+915,5,1998-07-30,Obuchi I,0,,afp,"PM Obuchi was elected on 30 July 1998 (yes: 268).
+Cabinet ends on 14 January 1999 through reshuffle and new cabinet party.",,371,628,,,
+916,5,1999-01-14,Obuchi II,0,,afp,"Liberal Party enters cabinet on 14 January 1999.
+Cabinet ends on 5 October 1999 through reshuffle and new cabinet party.",,915,628,,,
+917,63,2011-06-15,Passos Coelho,0,http://en.wikipedia.org/wiki/Pedro_Passos_Coelho,reuters,PM Passos Coelho was appointed on 15 June 2011. The cabinet was sworn in on 21 June.,,858,702,5,,
+918,67,2011-06-22,Katainen,0,http://en.wikipedia.org/wiki/Jyrki_Katainen%27s_cabinet,valt,"PM Katainen won an investiture vote (yes: 118, no: 72) and cabinet was appointed on 22 June 2011.",,383,700,181,,
+919,29,2011-05-02,Harper III,0,,cp,Harper won in a snap election on 2 May 2011 and presented his cabinet on 18 May.,,612,703,,,
+920,51,2011-08-05,Christofias IV,0,http://en.wikipedia.org/wiki/Dimitris_Christofias,afp,New cabinet was sworn in on 5 August 2011 after DIKO left previous cabinet.,,921,701,28,,
+921,51,2011-05-22,Christofias III,0,http://en.wikipedia.org/wiki/Dimitris_Christofias,cymail,"New cabinet due to elections on 22 May 2011.
+President Christofias asked his cabinet to resign on 28 July 2011 after a munitions blast killed 13 people and knocked out a power plant on 11 July. The move came after ministers of junior coalition partner DIKO handed in their resignations (AFP).",,908,701,28,,
+969,5,2011-08-30,Noda,0,http://en.wikipedia.org/wiki/Yoshihiko_Noda,"reuters, jiji","PM Noda won investiture votes (yes: 308, [lower house]; yes: 110, total: 241 [upper house]) on 30 August 2011 following the resignation of PM Kan. His cabinet came into office on 2 September.",,493,327,,,
+970,21,2011-10-02,Thorning-Schmidt,0,http://en.wikipedia.org/wiki/Helle_Thorning-Schmidt,afp,PM Thorning-Schmidt was appointed on 2 October 2011 and cabinet came into office the following day.,AFP mentions the support of three centre-left MPs from Greenland and Faroe Islands. These parties are coded from their party family.,71,722,309,,
+971,55,2011-10-25,Dombrovskis IV,0,http://en.wikipedia.org/wiki/Valdis_Dombrovskis,"lo, afp, leta","PM Dombrovskis and his cabinet were confirmed in parliament (yes: 57, no: 38, abstain: 3) on 25 October 2011 (Latvians Online).
+Zatlers' Reform Party (ZRP) won 22 seats but 6 MPs formed an independent party group that supported the government (AFP). The independent group signed an agreement that includes the joint responsibility for the Transport Ministry (LETA).",,882,765,302,,
+972,40,1943-12-15,Bundesrat 1943,0,,swiss,,,973,771,,,
+973,40,1939-12-13,Bundesrat 1939,0,,swiss,,,974,767,,,
+974,40,1935-12-11,Bundesrat 1935,0,,swiss,,,975,769,,,
+975,40,1934-03-22,Bundesrat 1934,0,,swiss,Cabinet started on 22 March 1934 with the election of Chancellor Bovet after Käslin resigned. ,,976,768,,,
+976,40,1931-12-17,Bundesrat 1931,0,,swiss,"Cabinet ended on 22 March 1934 with the election of a new chancellor, after Käslin resigned because of health problems.  ",,978,768,,,
+977,40,1928-12-13,Bundesrat 1928,0,,swiss,Cabinet ended on 12 December 1929 with the election of a Swiss Peoples Party (SVP) member to the Federal Council.,,979,772,,,
+978,40,1929-12-12,Bundesrat 1929,0,,swiss,Cabinet started on 12 December 1929 with the election of Rudolf Minger (SVP) to the Federal Council.,,977,772,,,
+979,40,1925-12-17,Bundesrat 1925,0,,swiss,,,980,774,,,
+980,40,1922-12-14,Bundesrat 1922,0,,swiss,,,981,773,,,
+981,40,1919-12-11,Bundesrat 1919,0,,swiss,,,,770,,,
+982,1,2011-10-20,Radicova II,1,http://en.wikipedia.org/wiki/Iveta_Radi%C4%8Dov%C3%A1,spectator,Previous cabinet was defeated in a vote of confidence on 11 October 2011 and constitutionally obliged to resign. Leaders of all cabinet parties and President Gašparovič agreed on 20 October that the existing government remains in office until the next elections in March 2012. The president made use of article 115 (2) of the constitution.,Coded as as change in cabinet because of the quasi-resignation. The date of the agreement on 20 October 2011 is used as start date.,319,524,441,,
+983,26,2011-11-16,Monti,1,http://en.wikipedia.org/wiki/Monti_Cabinet,reuters,"PM Monti and his technocrat cabinet were sworn in on 16 November 2011. He won a confidence vote in the Senate (yes: 281, no: 25 [upper house]) on 18 November and in parliament (yes: 556, no: 61 [lower house]) a day after .",,823,111,549,,
+984,41,2011-11-11,Papademos,1,http://en.wikipedia.org/wiki/Coalition_Cabinet_of_Lucas_Papademos,reuters,"PM Papademos and his interim cabinet were appointed on 11 November 2011.
+Cabinet ended on 10 February 2012 with the resignation of all Popular Orthodox Rally (LAOS) ministers.",Coded as one cabinet because elections take place within three months.,224,651,264,,
+985,74,2011-11-18,Tusk II,0,http://en.wikipedia.org/wiki/Second_Cabinet_of_Donald_Tusk,pr,"Cabinet was sworn in on 18 November 2011 and won an investiture vote (yes: 234, no: 211) the day after.",,164,766,255,,
+986,11,2011-11-26,Key II,0,http://en.wikipedia.org/wiki/Fifth_National_Government_of_New_Zealand,nzhe,"PM Key presented his cabinet on 12 December 2011. It was supported through confidence and supply agreements with ACT New Zealand, United New Zealand (signed on 5 December) and the Maori Party (signed on 11 December).",No investiture of new cabinet. Election date used as start date.,251,776,,,
+987,64,2011-12-06,Di Rupo,0,http://en.wikipedia.org/wiki/Di_Rupo_I_Government,dere,"Cabinet formed more than 500 days after the general election. It was appointed on 6 December 2011 and won a confidence vote (yes: 89, no: 54) on 12 December.",,675,486,638,,
+988,27,2011-12-21,Rajoy,0,,afp,"PM Rajoy won an investiture vote on 20 December 2011 (yes: 187, no: 149, abstain: 14). He was appointed and presented his cabinet a day after.",,497,777,448,,
+989,40,2011-12-14,Bundesrat 2011,0,,reuters,Federal Council was elected on 14 December 2011.,,903,779,,,
+990,60,2012-01-28,Jansa II,0,http://en.wikipedia.org/wiki/Janez_Jan%C5%A1a,sta,"Parties signed a coalition agreement on 25 January 2012 and a support agreement with the two MPs representing the Hungarian and Italian minorities the day after.
+PM Jansa passed an investiture vote (yes: 51, no: 39) on 28 January and the cabinet (yes:50, no:10, abstain:28) on 10 February.",,907,778,195,,
+991,26,1996-01-11,Dini II,1,http://it.wikipedia.org/wiki/Governo_Dini,reuters,Caretaker cabinet following the resignation of PM Dini on 11 January 1996.,,382,146,326,,
+992,23,2012-02-09,Ungureanu,0,http://en.wikipedia.org/wiki/Ungureanu_Cabinet,ager,"Cabinet won an investiture vote (yes: 237, no: 2, required: 232) on 9 February 2012 in a joint sitting of parliament.
+Cabinet resigned on 27 April 2012 after losing a vote of confidence (yes: 9, no: 235, required: 231).",,537,319,229,,
+993,23,2009-12-23,Boc II,0,http://en.wikipedia.org/wiki/Boc_Cabinets,reuters,Cabinet won an investiture vote (yes: 276 no: 135) on 23 December 2009 in a joint sitting of parliament.,,599,319,229,,
+994,33,1943-09-21,Curtin II,0,http://en.wikipedia.org/wiki/Curtin_Government,hug-68,Cabinet ended on 5 July 1945 with death of PM Curtin.,,995,737,,,
+995,33,1941-10-07,Curtin I,0,http://en.wikipedia.org/wiki/Curtin_Government,hug-68,,,1023,738,,,
+996,33,1901-01-01,Barton,0,http://en.wikipedia.org/wiki/Barton_Ministry,hug-68,PM Barton resigned on 24 September 1903.,,,,,,
+997,33,1903-09-24,Deakin I,0,http://en.wikipedia.org/wiki/First_Deakin_Ministry,hug-68,,,996,731,,,
+998,33,1904-04-27,Watson,0,http://en.wikipedia.org/wiki/Watson_Ministry,hug-68,PM Watson resigned on 13 August 1904 after the dissolution of the parliament failed.,,997,730,,,
+999,33,1904-08-18,Reid,0,http://en.wikipedia.org/wiki/Reid_Ministry,hug-68,,,998,730,,,
+1000,33,1905-07-05,Deakin II,0,http://en.wikipedia.org/wiki/Second_Deakin_Ministry,hug-68,Cabinet ended on 6 November 1908 when the Labor Party withdrew its support from the government. ,,999,730,,,
+1001,33,1908-11-13,Fisher I,0,http://en.wikipedia.org/wiki/First_Fisher_Ministry,hug-68,"Cabinet ended on 27 May 1909 when PM Fisher resigned after he lost a vote of confidence (yes: 30, no: 39).",,1000,725,,,
+1002,33,1909-06-02,Deakin III,0,http://en.wikipedia.org/wiki/Fourth_Deakin_Ministry,hug-68,,,1001,725,,,
+1003,33,1910-04-29,Fisher II,0,http://en.wikipedia.org/wiki/Second_Fisher_Ministry,hug-68,,,1002,747,,,
+1004,33,1913-06-24,Cook,0,http://en.wikipedia.org/wiki/Cook_Ministry,"hug-68, aph",Cabinet ended on 5 September 1914 with the dissolutions of the Parliament and Senate.,,1003,748,,,
+1005,33,1914-09-17,Fisher III,0,http://en.wikipedia.org/wiki/Third_Fisher_Ministry,hug-68,"Cabinet ended on 27 October 1915 with the resignation of PM Fisher.
+",,1004,724,,,
+1006,33,1915-10-27,Hughes I,0,http://en.wikipedia.org/wiki/First_Hughes_Ministry,hug-68,,,1005,724,,,
+1007,33,1916-11-14,Hughes II,0,http://en.wikipedia.org/wiki/Second_Hughes_Ministry,hug-68,Cabinet ended on 17 February 1917 when the National Labor and Liberal parliamentary group merged to the Nationalist Party.,,1006,724,,,
+1008,33,1917-02-17,Hughes III,0,http://en.wikipedia.org/wiki/Third_Hughes_Ministry,hug-68,,,1007,724,,,
+1009,33,1917-05-05,Hughes IV,0,http://en.wikipedia.org/wiki/Fourth_Hughes_Ministry,hug-68,Cabinet ended on 20 December 1917 with the resignation of PM Hughes after a referendum on conscription was defeated. ,,1008,750,,,
+1010,33,1918-01-10,Hughes V,0,http://en.wikipedia.org/wiki/Billy_Hughes,hug-68,,,1009,750,,,
+1011,33,1919-12-13,Hughes VI,0,http://en.wikipedia.org/wiki/Fifth_Hughes_Ministry,"hug-68, nyt",PM Hughes resigned on 1 February 1923 after the Country Party refused any coalition including Hughes.,,1010,723,,,
+1012,33,1923-02-09,Bruce I,0,http://en.wikipedia.org/wiki/First_Bruce_Ministry,hug-68,,,1011,726,,,
+1013,33,1925-11-14,Bruce II,0,http://en.wikipedia.org/wiki/Second_Bruce_Ministry,hug-68,,,1012,727,,,
+1014,33,1928-11-17,Bruce III,0,http://en.wikipedia.org/wiki/Third_Bruce_Ministry,"hug-68, aph",Cabinet ended on 10 September 1929 after PM Bruce was defeated in a bill and obtained a dissolution of the parliament. ,,1013,728,,,
+1015,33,1929-10-22,Scullin,0,http://en.wikipedia.org/wiki/Scullin_Ministry,hug-68,"Cabinet ended on 25 November 1931 after PM Scullin was defeated in a bill and obtained a dissolution of the parliament.
+",,1014,729,,,
+1016,33,1932-01-06,Lyons I,0,http://en.wikipedia.org/wiki/First_Lyons_Ministry,hug-68,,,1015,744,,,
+1017,33,1934-11-09,Lyons II,0,http://en.wikipedia.org/wiki/Second_Lyons_Ministry,hug-68,,,1016,746,,,
+1018,33,1937-10-23,Lyons III,0,http://en.wikipedia.org/wiki/Fourth_Lyons_Ministry,hug-68,Cabinet ended on 7 April 1939 with death of PM Lyons.,,1017,745,,,
+1019,33,1939-04-07,Page,1,http://en.wikipedia.org/wiki/Page_Ministry,hug-68,Caretaker cabinet under PM Page took office after the death of PM Lyons until the United Australia Party (UAP) elected a new leader.,,1018,745,,,
+1020,33,1939-04-26,Menzies I,0,http://en.wikipedia.org/wiki/First_Menzies_Ministry,hug-68,Cabinet ended on 14 March 1990 with the agreement between the United Australia Party (UAP) and the Country Party (CP) to form a coalition cabinet.,,1019,745,,,
+1021,33,1940-03-14,Menzies II,0,http://en.wikipedia.org/wiki/Second_Menzies_Ministry,hug-68,,,1020,745,,,
+1022,33,1940-10-28,Menzies III,0,http://en.wikipedia.org/wiki/Third_Menzies_Ministry,hug-68,PM Menzies resigned on 28 August 1941 after the Australian Labor Party (ALP) refused his offer to join the coalition.,,1021,738,,,
+1023,33,1941-08-29,Fadden,0,http://en.wikipedia.org/wiki/Fadden_Ministry,"hug-68, nyt","Cabinet ended on 3 October 1943 with the resignation of PM Fadden after two Independents withdrew their support from the government and the cabinet lost a confidence vote (yes: 33, no: 36) the same day. ",,1022,738,,,
+1024,33,1969-11-12,Gorton III,0,http://en.wikipedia.org/wiki/Second_Gorton_Ministry,hug-77,Cabinet ended on 10 March 1971 after PM Gorton resigned. The Resignation followed a tied motion of confidence for Gorton in the Liberal Party (LPA).,,795,735,,,
+1025,56,1942-12-16,Thordarson,0,http://en.wikipedia.org/wiki/Bj%C3%B6rn_%C3%9E%C3%B3r%C3%B0arson,nyt,Non-partisan cabinet resigned on 16 September 1944 after failing to find support for inflation control measures.,,,780,,,
+1026,15,2010-09-21,Kubilius III,0,http://en.wikipedia.org/wiki/Andrius_Kubilius,"elta, afp",Cabinet continued on 21 September 2010 after the Nation's Resurrection Party (TPP) and Liberal and Centre Union (LiCS) merged to form the United Faction of the Liberal and Centre Union and Nation's Resurrection Party (LiCS-TPP).,,688,646,337,,
+1027,1,2012-04-04,Fico II,0,http://en.wikipedia.org/wiki/Robert_Fico,"afp, sita","PM Fico and the cabinet were appointed on 4 April 2012 (AFP). It won an investiture vote (yes: 82, no: 53, abstain: 8) on 15 May (SITA).",,982,781,441,,
+1028,8,2012-04-23,Rutte II,1,http://en.wikipedia.org/wiki/Cabinet_Rutte,reuters,"Continuation caretaker cabinet remained in office on 23 April 2012 upon a request by the Queen.
+Cabinet ended with election on 12 September 2012.",Start date set to 23 April 2012 (resignation) following three month coding rule.,804,530,134,,
+1029,23,2003-06-19,Nastase II,0,,reuters,"Cabinet won a confidence vote (yes: 267, no: 7) on 19 June 2003 approving a reshuffle with a reduction of the number of ministries from 23 to 14.
+Cabinet ended with election on  28 November 2004.",,64,336,,,
+1030,68,2012-04-27,Necas II,0,http://en.wikipedia.org/wiki/Petr_Ne%C4%8Das%27s_Cabinet,afp,"Cabinet continued after a change in party composition and won a confidence vote (yes: 105, no: 93) on 27 April 2012.",Start date set on 27 April 2012 -- parliamentary approval in a non-required confidence vote.,708,599,516,,
+1033,23,2012-05-07,Ponta,0,http://en.wikipedia.org/wiki/Ponta_Cabinet,"afp, reuters","Cabinet was nominated on 27 April 2012 and won an investiture vote (yes: 284, no: 92) on 7 May in a joint sitting of parliament.",,992,319,229,,
+1034,59,1999-10-03,Klima II,1,,reuters,Continuation caretaker cabinet remained in office until the new cabinet was formed on 4 February 2000.,Start date set to 3 October 1999 (election date) following three month coding rule.,412,492,16,,
+1035,59,1965-10-25,Klaus II,1,http://de.wikipedia.org/wiki/Bundesregierung_Klaus_I,faz,"Caretaker cabinet was appointed on 25 October 1965.
+Cabinet ended with an early election on 6 March 1966.",,483,495,,,
+1036,11,1943-09-25,Frazer II,0,http://en.wikipedia.org/wiki/Peter_Fraser_%28New_Zealand_politician%29,,,,,775,,,
+1037,43,2012-05-15,Ayrault I,0,http://en.wikipedia.org/wiki/Ayrault_Cabinet,"afp, fragov, ap","PM Ayrault was appointed on 15 May 2012 and the cabinet was appointed the following day.
+Cabinet ended with election on 10 June 2012 and resigned on 18 June.",,883,171,219,,
+1038,43,2012-06-18,Ayrault II,0,http://en.wikipedia.org/wiki/Ayrault_Cabinet,"ap, fragov",PM Ayrault was re-appointed on 18 June 2012 and the cabinet was appointed three days later.,,1037,782,219,,
+1039,41,2012-05-16,Pikramenos,1,http://en.wikipedia.org/wiki/Caretaker_Cabinet_of_Panagiotis_Pikrammenos,ap,"PM Pikramenos was appointed on 16 May 2012 and his technocrat cabinet one day later.
+Cabinet ended with early election on 17 June 2012.",,984,783,264,,
+1040,41,2012-06-20,Samaras,0,http://en.wikipedia.org/wiki/Antonis_Samaras,ana,"PM Samaras was appointed on 20 July 2012 and presented his cabinet the day after.
+The cabinet was supported by Panhellenic Socialist Movement (PASOK) and Democratic Left (DIMAR).",,1039,784,264,,

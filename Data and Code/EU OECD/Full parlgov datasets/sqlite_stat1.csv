@@ -1,0 +1,166 @@
+tbl,idx,stat
+mp,,10041
+external_party_morgan_data,external_party_morgan_data_7de83c58,160 2
+external_party_morgan_data,sqlite_autoindex_external_party_morgan_data_1,160 1
+party,party_7fd44d7f,1946 14
+party,party_6892745e,1946 8
+party,party_593e315a,1946 12
+party,party_6b368c1b,1946 6
+party,party_27d6a670,1946 11
+party,party_5b133ee7,1946 8
+party,party_c7eac8a,1946 17
+party,party_1276b1a5,1946 22
+party,party_42cc4ebd,1946 10
+party,party_53d5973c,1946 8
+party,party_3fc8d130,1946 4
+party,party_25adf148,1946 2
+party,party_52094d6e,1946 2
+party,party_6728bbf5,1946 2
+party,party_39c76333,1946 2
+party,party_330df8aa,1946 130
+party,party_534dd89,1946 26
+country,country_1fb123cd,75 2
+country,country_39c76333,75 1
+parliament_composition,parliament_composition_764fa81,195 6
+parliament_composition,parliament_composition_81c05c7,195 22
+info_variable,info_variable_52094d6e,468 3
+info_variable,info_variable_3f3c6161,468 11
+info_variable,sqlite_autoindex_info_variable_1,468 11 1
+cabinet_confidence_vote,cabinet_confidence_vote_777d41c8,216 18
+cabinet_confidence_vote,cabinet_confidence_vote_679343db,216 2
+cabinet_confidence_vote,cabinet_confidence_vote_2fca0f9f,216 2
+election_result,election_result_770cd5fb,6462 26
+election_result,election_result_764fa81,6462 5
+election_result,election_result_81c05c7,6462 9
+election_result,sqlite_autoindex_election_result_1,6462 9 1
+cabinet,cabinet_5332a5e9,984 9
+cabinet,cabinet_3621c885,984 2
+cabinet,cabinet_27d06e6e,984 2
+cabinet,cabinet_52094d6e,984 2
+cabinet,cabinet_d6326f9,984 110
+cabinet,cabinet_199461f6,984 2
+cabinet,cabinet_534dd89,984 27
+cabinet,sqlite_autoindex_cabinet_1,984 27 1
+election,election_27d06e6e,745 2
+election,election_5332a5e9,745 7
+election,election_3621c885,745 2
+election,election_679343db,745 2
+election,election_534dd89,745 14
+election,election_777d41c8,745 373
+cabinet_support,cabinet_support_764fa81,92 2
+cabinet_support,cabinet_support_777d41c8,92 16
+cabinet_support,cabinet_support_2fca0f9f,92 2
+info_id,info_id_2ffcd08c,69 2
+info_id,info_id_3ba08eca,69 2
+info_id,info_id_67219af6,69 9
+info_id,sqlite_autoindex_info_id_1,69 9 1
+minister_portfolio_salience,minister_portfolio_salience_75369ac8,284 2
+minister_portfolio_salience,minister_portfolio_salience_73c69baf,284 4
+party_family,party_family_777d41c8,334 14
+party_family,party_family_764fa81,334 2
+person,person_5b2addf7,16852 3
+person,person_534dd89,16852 482
+person,person_2826e86,16852 2
+party_name_change,party_name_change_764fa81,245 3
+external_party_ees,sqlite_autoindex_external_party_ees_1,211 1
+person_name_source,person_name_source_21b911c5,192 2
+person_name_source,person_name_source_534dd89,192 192
+person_duplicate_check,person_duplicate_check_71680389,538 2
+person_duplicate_check,person_duplicate_check_713a3cc0,538 2
+person_duplicate_check,person_duplicate_check_534dd89,538 25
+mp_deu,mp_deu_764fa81,7911 7911
+external_minister_druckmann_ea,external_minister_druckmann_ea_777d41c8,371 62
+external_minister_druckmann_ea,external_minister_druckmann_ea_534dd89,371 27
+external_party_euprofiler,sqlite_autoindex_external_party_euprofiler_1,274 1
+commissioner,commissioner_764fa81,222 4
+commissioner,commissioner_21b911c5,222 2
+commissioner,commissioner_534dd89,222 9
+commissioner,commissioner_67a244e3,222 18
+commission,commission_52094d6e,13 1
+external_party_morgan,sqlite_autoindex_external_party_morgan_1,133 1
+minister,minister_42cf5bcc,26173 34
+minister,minister_764fa81,26173 80
+minister,minister_21b911c5,26173 3
+minister,minister_21d9b019,26173 50
+minister,minister_7fe7fecb,26173 2909
+minister,minister_534dd89,26173 748
+minister_position_ministry_source,minister_position_ministry_source_21d9b019,3992 11
+minister_position_ministry_source,minister_position_ministry_source_7fe7fecb,3992 400
+minister_portfolio_ministry,minister_portfolio_ministry_73c69baf,1119 7
+minister_portfolio_ministry,minister_portfolio_ministry_21d9b019,1119 3
+django_content_type,sqlite_autoindex_django_content_type_1,72 6 1
+external_party_cmp_name_change,external_party_cmp_name_change_74d3c3a1,81 2
+external_party_cmp_name_change,sqlite_autoindex_external_party_cmp_name_change_1,81 1
+minister_ministry_country,minister_ministry_country_21d9b019,858 2
+minister_ministry_country,minister_ministry_country_534dd89,858 26
+external_party_chess_data,external_party_chess_data_4d28cd88,501 167
+external_party_chess_data,external_party_chess_data_13be6603,501 2
+external_party_chess_data,external_party_chess_data_a9e7aee,501 21
+external_party_chess_data,sqlite_autoindex_external_party_chess_data_1,501 1
+external_party_huber_inglehart,sqlite_autoindex_external_party_huber_inglehart_1,300 1
+auth_user_groups,auth_user_groups_425ae3c4,37 10
+auth_user_groups,auth_user_groups_403f60f,37 3
+auth_user_groups,sqlite_autoindex_auth_user_groups_1,37 3 1
+info_variable_update,info_variable_update_73cdf2c,17 1
+info_variable_update,sqlite_autoindex_info_variable_update_1,17 1
+mp_ep_person,mp_ep_person_764fa81,2870 14
+mp_ep_person,mp_ep_person_534dd89,2870 115
+minister_position,minister_position_2ffcd08c,10 1
+info_data_source,sqlite_autoindex_info_data_source_1,164 1
+auth_group,sqlite_autoindex_auth_group_1,4 1
+parliament_change,parliament_change_15461b4,292 4
+parliament_change,parliament_change_764fa81,292 4
+parliament_change,parliament_change_81c05c7,292 5
+auth_permission,auth_permission_1bb8f392,221 4
+auth_permission,sqlite_autoindex_auth_permission_1,221 4 1
+django_session,sqlite_autoindex_django_session_1,12958 1
+auth_group_permissions,auth_group_permissions_1e014c8f,98 1
+auth_group_permissions,auth_group_permissions_425ae3c4,98 25
+auth_group_permissions,sqlite_autoindex_auth_group_permissions_1,98 25 1
+cabinet_party,cabinet_party_764fa81,2441 6
+cabinet_party,cabinet_party_2fca0f9f,2441 3
+mp_ep,mp_ep_2c0a4aa5,6664 3
+external_mep_hix_ea,sqlite_autoindex_external_mep_hix_ea_1,2052 1
+django_flatpage_sites,django_flatpage_sites_6223029,5 5
+django_flatpage_sites,django_flatpage_sites_21210108,5 1
+django_flatpage_sites,sqlite_autoindex_django_flatpage_sites_1,5 1 1
+external_party_chess,external_party_chess_a9e7aee,251 11
+external_party_chess,sqlite_autoindex_external_party_chess_1,251 1
+django_site,,1
+election_ep,election_ep_777d41c8,18 6
+admin_table,sqlite_autoindex_admin_table_1,87 1
+external_taglarsson_minister,external_taglarsson_minister_28d7dba0,26938 25
+external_taglarsson_minister,external_taglarsson_minister_a9e7aee,26938 562
+auth_user,sqlite_autoindex_auth_user_1,17 1
+info_data_json,sqlite_autoindex_info_data_json_1,3 1
+external_taglarsson_party_parlgov,external_taglarsson_party_parlgov_764fa81,1653 3
+external_taglarsson_party_parlgov,external_taglarsson_party_parlgov_534dd89,1653 37
+minister_cabinet,minister_cabinet_1c15b1e9,795 795
+minister_cabinet,minister_cabinet_4db91e35,795 2
+minister_cabinet,minister_cabinet_199461f6,795 2
+minister_cabinet,minister_cabinet_52094d6e,795 2
+minister_cabinet,minister_cabinet_534dd89,795 23
+minister_cabinet,sqlite_autoindex_minister_cabinet_1,795 795
+django_flatpage,django_flatpage_a4b49ab,5 1
+django_admin_log,django_admin_log_1bb8f392,13354 382
+django_admin_log,django_admin_log_403f60f,13354 1113
+info_news,,92
+external_mep_hix_ea_party,sqlite_autoindex_external_mep_hix_ea_party_1,169 1
+minister_position_country,minister_position_country_52094d6e,33 2
+minister_position_country,minister_position_country_2ffcd08c,33 2
+minister_position_country,minister_position_country_7fe7fecb,33 5
+minister_position_country,minister_position_country_534dd89,33 3
+info_data_source_country,info_data_source_country_534dd89,79 3
+info_data_source_country,info_data_source_country_28eb74d1,79 2
+info_data_source_country,sqlite_autoindex_info_data_source_country_1,79 2 1
+external_party_castles_mair,external_party_castles_mair_a9e7aee,119 7
+external_party_castles_mair,sqlite_autoindex_external_party_castles_mair_1,119 1
+external_party_cmp,external_party_cmp_a9e7aee,755 15
+external_party_cmp,sqlite_autoindex_external_party_cmp_1,755 1
+party_change,party_change_777d41c8,426 61
+party_change,party_change_679343db,426 3
+party_change,party_change_15461b4,426 2
+party_change,party_change_764fa81,426 2
+info_table,sqlite_autoindex_info_table_1,52 1
+minister_portfolio,,200
+minister_ministry,,549

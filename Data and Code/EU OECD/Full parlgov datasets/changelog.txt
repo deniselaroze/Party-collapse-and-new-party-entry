@@ -1,0 +1,405 @@
+All significant changes between ParlGov stable releases are documented. Minor corrections of dates and names are not reported. 
+
+Version 12/10 -- 15 October 2012
+
+Data
+New information
+
+    * elections added: DNK 2011, LVA 2011, POL 2011, ESP 2011, NZL 2011, CHE 2011, SVN 2011, SVK 2012, FRA 2012
+    * cabinets added: CYP Christofias IV, JPN Noda, DNK Thorning-Schmidt, LVA Dombrovskis IV, SVK Radicova II, ITA Monti, GRC Papademos, POL Tusk II, NZL Key II, ESP Rajoy, CHE Bundesrat 2011, BEL Di Rupo, SVN Jansa II, ROU Ungureanu, SVK Fico II, NLD Rutte II, CZE Necas II, ROU Ponta, SVK Pahor, FRA Ayrault I+II 
+
+    * updated from seats to votes level data: AUT, NZL
+    * AUS: elections and cabinets 1901 to 1945
+    * CHE: elections and cabinets 1919 to 1943 
+
+    * seats data in 'view_cabinet' take into account changes in parliament composition (if data available)
+    * added application to calculate political composition of the European Union
+
+Corrections and updates
+
+    * party clean up: removed minor parties without election results or two external data points
+    * party positions: fixed error in calculating party positions based on Benoit/Laver (2006)
+    * threshold including election results: removed election results for parties with less than 1.0% vote share (no seats)
+    * CHE election 1947 to 2007: updated source 
+
+    * AUS election 2010: added results CLP
+    * AUT cabinet 1964 and 1997: Klaus I and Klima cabinet split into two cabinets -- three month constrain
+    * AUT cabinet 2011: Schuessel IV updated 'parliament_change' to include BZÖ seats
+    * AUT election 1953: coded VdU and ApE as alliance members of WdU
+    * AUT party: split VdU/FPO into VdU and FPO
+    * BEL cabinet 2008 to 2001: recoded CD&V/N-VA into CD&V for Rompuy, Leterme II, Leterme II
+    * BEL cabinet: added Van and Vanden to names of respective PMs
+    * BEL cabinet: removed roman number from cabinet names for PMs with single term
+    * BEL cabinet: renamed Eyskens into Eyskens G
+    * BGR cabinet 1995: Videnov added coalition partners BZNS and PKE
+    * CAN election 1979: added SCP and corrected seats NDP
+    * CAN election 2008 and 2011: added official election results
+    * CAN election: updated source
+    * CHE cabinet 2008: added BDP
+    * CHE party: merged PSU into PSA
+    * CYP cabinet 2008: Christofias I split into two cabinets due to EDEK withdrawal
+    * DEU cabinet: 'description' added results confidence votes
+    * DEU party: added 'uh' to cover changes in parliament composition due to resignation of MPs and surplus seats
+    * DNK election 1953: April -- corrected G/F seats
+    * DNK election 2001: recoded Mp into FrP
+    * DNK election EP 1979: corrected seats KF and seats_total
+    * DNK election EP 1984: corrected seats Sf and seats_total
+    * DNK election EP 1979 to 1989: updated source added parties with more than 1.0% vote share
+    * ESP election EP 1987: updated results
+    * FIN cabinet 1962: Karjalainen I added SK
+    * FIN cabinet 1971: one PM party in Karjalainen III only
+    * FIN election 1962: corrected vote share VI
+    * FRA election 2002: recoded ER/PRG into Droite and GE into V, added FN
+    * FRA election EP 1997: recoded ER/PRG into PRG
+    * GBR cabinet: updated source
+    * GBR election 2010: added Alliance (1 seat)
+    * GBR election EP 2009: removed UCU-NF (party_id 1243) and coded alliance with Uup
+    * GBR election EP 2009: UCU-NF added UUP and CNI alliance members
+    * GRC election 2007 and 2009: updated source
+    * ISL cabinet 1942: added Thordarson
+    * ISL election 1942: added results
+    * ITA cabinet 1996: split Dini into Dini I and Dini II -- three month constrain
+    * ITA cabinet 1999 and 2000: D'Alema I and Amato II split DINI into RI and SDI
+    * ITA cabinet: recoded non-partisan PMs from 'none' into 'PC'
+    * ITA election: corrected and updated some results
+    * JPN cabinet 1947: added NCoP
+    * JPN cabinet 1993: added DRP
+    * JPN cabinet 2003: removed NCP
+    * LTU cabinet 2010: split Kubilius II into Kubilius II and Kubilius III -- party change
+    * LTU election 1996: corrected and updated results
+    * LUX election 1948 and 1951: updated partial election results
+    * LUX election EP 1979 to 2004: updated results
+    * LVA election 2010: corrected vote share
+    * NLD election EP 1994: corrected GroenLinks vote share
+    * NLD election EP 1994: recoded SGP into SGP/GPV/RP, corrected seats added alliance members
+    * NLD election EP 1999: SGP/GPV/RP added alliance members
+    * NLD election EP 2009: corrected GroenLinks and ChristenUnie-SGP votes
+    * NOR election 1973 to 2009: extended to 1.0% coding threshold
+    * NOR election 1973: minor corrections of vote share and updating data source
+    * NOR election 1977: minor corrections and additions
+    * POL election 1991: removed PPG and MP and added seats to PPPP
+    * ROU cabinet: removed Dejeu 1998, Athanasiu 1999, Bejinariu 2004 -- three month constrain
+    * ROU cabinet 1996 to 1999: Ciorbea, Vasile, Isarescu cabinet parties recoded USD into PD and PSDR, CDR into PNT-CD and PNL
+    * ROU cabinet 2000: split Nastase into Nastase I and Nastase II -- party change
+    * ROU cabinet 2009: split Boc II into Boc II and Boc III -- party change
+    * ROU election 1992: split CDR seats into alliance members
+    * ROU election 2008: corrected ADA alliance members; corrected etnice; updated source
+    * SVK election EP 2009: corrected SDKU-DS vote share
+    * SVN cabinet 1993: Drnovsek II recoded DS into SDS
+    * SVN election 2008: updated source, added votes, turnout data and LIPA, LPR, LZCPV and KDS.
+    * SWE election 1998 and 2002: updated source
+    * SWE election EP 1995: updated source, corrected 'electorate'
+    * SWE election EP 2004: updated source 
+
+Webpage
+
+    * party -- added information about the calculation of party positions
+    * party -- put information about parties (and their names) in external data sets to bottom of page
+    * party -- removed information about party seats from index page of all parties per country
+    * election, election index -- using new names for effective number of parties
+    * election, election index -- disproportionality and advantage ratio with two digits
+    * election index -- party with absolute majority of seats underlined
+    * cabinet index -- show only one election date
+    * home section -- show 'Quick links' first and add 'Data section' with examples
+    * documentation -- removed key list from list of data sources (kept in experimental version)
+    * download section -- added direct links to csv files of party, election and cabinet table 
+
+Database
+
+    * new table -- 'parliament_composition', 'viewcalc_parliament_composition', , 'viewcalc_country_year_share'
+    * table 'cabinet' and 'election' -- fixed bug in determining non-existent previous ids
+    * table 'cabinet' -- added columns 'appointment_date', 'resignation_date' (experimental version)
+    * table 'cabinet_party' -- added column 'description' and moved (most) 'comment' entries into it
+    * table 'election' -- added columns 'dissolution_date', 'wikipedia' (experimental version)
+    * table 'election_result' -- added column 'description' and moved (most) 'comment' entries into it
+    * table 'party' -- added column 'dissolution_date' (experimental version)
+    * table 'viewcalc_election_parameter' -- renamed 'enep' into 'enp_votes' and 'enlp' into 'enp_seats'
+    * table 'viewcalc_election_parameter' -- removed results for party family 'none' from calculation
+    * table 'viewcalc_party_position' -- renamed 'eu_pro_contra' into 'eu_anti_pro'
+    * table 'viewcalc_party_position' -- don't overwrite missing 'left_right' with 'state_market'
+    * table 'view_party' -- renamed 'eu_pro_contra' into 'eu_anti_pro'
+    * table 'view_cabinet', 'view_election', 'view_party' -- added 'country_name'
+    * table 'view_cabinet' -- 'seats' now based on 'viewcalc_parliament_composition' instead of 'election_result' 
+
+
+Version 11/07 ¶
+
+Released 26 July 2011 -- milestone:1.2 -- St. Gallen
+
+Data ¶
+New information ¶
+
+    * elections 2011 added: IRL, EST, CYP, FIN, PRT, CAN
+    * cabinets added: FRA Fillon III, IRL Kenny, EST Ansip IV, SVN Pahor II, PRT Coelho, FIN Katainen
+    * added NIR -- parties only 
+
+    * updated from seats to votes level data: AUT, CYP, POL
+    * JPN: added elections and cabinets from 1945 to 1958 
+
+Corrections and updates ¶
+
+    * recoded nationalist, fascist and right-wing populist party families into 'right wing' and added former classifications as additional party families to table 'party family'
+    * removed some entries used to define full party names from table party_change and added the information to json field in party table (eg. DEU: CDU, CSU; SWE: SAP)
+    * replaced missing 'left_right' party positions with 'state_market' values if available (esp. relevant for Benoit/Laver 2006 data)
+    * corrected documentation of variable 'date' in 'election' table
+    * CYP: removed elections and cabinets prior to 1976 (Polity IV score)
+          o added Kyprianou III, Kyprianou V, Vassiliou II, Klerides II, Klerides IV, Papadopoulos II 
+
+    * AUT election 1995: added turnout data, votes and Nein party, changed vote share
+    * AUT cabinet 1945: Figl I split into two cabinets
+    * AUT cabinet 2002: Schuessel I split into two cabinets -- three month constrain
+    * AUT cabinet 2003: Schuessel II split into two cabinets taking into account FPÖ split (FPÖ, BZÖ)
+    * AUT election 1949 to 1962: coded KPO as Communist alliance
+    * AUT election 1999 and 2002: corrected seats total
+    * AUT election 2008: corrected vote share
+    * AUT election EP 1996: corrected vote share
+    * AUT election EP 1999: corrected valid votes
+    * BEL cabinet 1991: recoded Martens IX starting date -- three month constrain
+    * BEL cabinet 2007: Verhofstadt II split into two cabinets -- three month constrain
+    * BEL cabinet 2010: Leterme III set start of cabinet to date of election (2010-06-13) -- three month constrain
+    * BEL party: KPB-PCB split in 1989 coded (KP and PC); reassigned Ray party expert identifier to PC
+    * BGR election 1991: added parties
+    * BIH party: EU Profiler removed all links to Croatian parties -- ticket:72
+    * BIH party: Benoit/Laver removed Croatian HDZ link
+    * CHE cabinet 2008: added Bundesrat 2008 -- ticket:60
+    * CHE election 1983: added 'others' to election, updated seat composition
+    * CHE party: recoded LdU-AdI (party_id 1646) into LdU-ADI (party_id 1264)
+    * CYP cabinet 2008: recoded ADK into EDEK
+    * CYP election 2006: corrected KISOS and updated (votes) results
+    * CYP election EP 2004: added votes and EDEK result
+    * CYP party: added 'EDEK' to party name of Movement for Social Democracy and updated short party name
+    * CZE cabinet 2006: recoded start date of Topolanek I
+    * CZE cabinet 2009: updated start date of Fisher cabinet to PM appointment
+    * CZE election 2002: recoded date of election to last election date
+    * DEU cabinet 1960: Adenauer V split into two cabinets taking into account DP split
+    * DEU election 1949: added SSW
+    * DEU election 1953 to 2005: corrected valid votes -- ticket:67
+    * DEU election 1961: recoded GB/BHE into an electoral alliance (GDP) between GB/BHE and DP
+    * DEU election 2009: corrected electorate, total votes, valid votes
+    * DEU election EP 1979 to 2004: updated from seats to votes level data
+    * DEU election: electoral alliance added for CDU/CSU -- election results still coded at the the CDU and CSU level
+    * DEU party: updated predecessor/successor entries Linke and added 2005 electoral alliance
+    * DNK election 1945 to 1950: updated sources
+    * DNK election 1945 to 1994: corrected number of seats
+    * DNK election 1947: added HV
+    * DNK election 1957: corrected total seats
+    * DNK election 1973 to 1977: added SV as alliance member
+    * DNK election 1973: added DU as alliance member
+    * DNK party: recoded party family Dansk Folkeparti
+    * ESP cabinet 1977 and 1979: Gonzalez renamed into Suarez
+    * ESP election 1977: corrected and updated results
+    * ESP party: recoded CHA (party_id 1675) into CA (party_id 1367)
+    * EST cabinet 2009: Ansip II split into two cabinets
+    * EST election 1992 and 1995: updated source, added turnout data, corrected and updated results
+    * EST party: added V, EPL, Metsa, ERKL, KunRoh, ETRE, OIG, TEE
+    * FIN election 1948 to 1983: updated data sources for RKP-SFP and AS
+    * FIN election 1958 and 1962: removed SKL
+    * FIN election 1966: added SKDL/TPSL alliance
+    * FIN election 1987: corrected SKDL vote share
+    * FIN election 1991 and 1995: recoded SKYP results into SEP
+    * FIN election 1995: added VSL
+    * FIN election 2003: corrected election date
+    * FIN election EP 1999: corrected number of seats
+    * FIN party: minor updates on party names and predecessor/successor parties
+    * FIN party: SKP-97 party names changed into SKP-Y
+    * FRA election 2007: corrected vote share and seats, added votes
+    * FRA election EP 2009: corrected number of seats Gauche
+    * FRA party: added UEM
+    * FRA party: recoded UMP Benoit/Laver ID
+    * FRA party: removed The Right (party_id 157) duplicate of Other Right (party_id 285)
+    * GBR election 1974 to 1987: calculated 'vote_share' for some parties from Northern Ireland -- ticket:66
+    * GBR election 1983 and 1987: recoded LD as Alliance
+    * GBR election EP: added notes about vote share in regions
+    * GBR election EP 1999: corrected vote share and number of valid votes
+    * GBR party: updated EES IDs for SNP, Plaid, UKIP, PWCL
+    * GDR cabinet 1990: Maizere coded changes in party composition and defectors
+    * GDR election 1990: coded electoral alliances and its members, corrected number of votes
+    * GDR party: updated all entries; coded party changes (including DEU parties)
+    * GRC party: added names for KODISO
+    * GRC party: recoded and merged EK into EDIK
+    * ISL cabinet 1944 and 1946: Thors II, Thors III recoded Ab into So
+    * ISL cabinet 1979: Groendal changed into caretaker cabinet
+    * ISL election 1946 to 1953: replaced Ab by So
+    * ISL election 1967: added OS and updated source
+    * ISL party: corrected 'þ' transcription into 'th' and removed remaining capitalisation of party names
+    * ISL party: recoded Thjo (party_id 1637) into Pjo (party_id 205)
+    * ITA election 1946 and 1948: recoded PLI results into UDN and BN (alliances), added alliance members
+    * ITA election 1963 and 1968: recoded PNM results into PDIUM (new party)
+    * ITA party: updated party names and predecessor/successor entries for Socialist parties (PSI, PSDI, PSU)
+    * JPN cabinet 1980: Ito removed -- three month constrain
+    * JPN cabinet 1993: added NP
+    * JPN cabinet 1994: removed LP
+    * JPN cabinet 1998: split Obuchi into three cabinets
+    * JPN cabinet 2009: renamed Hatoyama into Hatoyama Y
+    * JPN election 1958: added votes
+    * JPN election 1960 to 1967: added number of votes
+    * JPN election 1969 and 1979: corrected number of votes
+    * JPN election 2005: corrected number of seats (all parties except LDP and DPJ)
+    * JPN election 2009: updated source and added NPD
+    * JPN party, election, cabinet: recoded DSP (party_id 1053) into SDP (party_id 940) for elections and cabinets after 1994
+    * JPN party: recoded NK into K(CGP)
+    * JPN party: unified short names to english version -- ticket:63
+    * LTU cabinet 2008: Kubilius II added TPP
+    * LTU election 1992: added votes and parties
+    * LTU party: added VPJST and LLL
+    * LVA election 2010: added seats total
+    * NLD cabinet 1977: Den Uyl II; set start of cabinet to date of election (1977-05-25) -- three month constrain
+    * NLD election 1977: CDA as electoral alliance (ARP, CHU, KVP)
+    * NLD election EP 1999: added electoral alliance SGP/GPV/RPF
+    * NOR cabinet 1940: removed Nygaardsvold II
+    * NOR cabinet 1945: Gerhardsen I coded as caretaker and parties added
+    * NOR election 1961 to 1969: recoded SV into SF
+    * NOR election 1973: added SV alliance members
+    * NOR party: updated RV names
+    * NZL election 1999: changed number of seats NZFP
+    * POL cabinet 1991: Olszewski recoded WAK into ZChN (alliance member) and removed PCD
+    * POL cabinet 1992 and 1993: Suchocka I and II added PSL, PCD and recoded WAK into ZChN (alliance member)
+    * POL party: removed L; recoded PD into UW-PD
+    * PRT election 1979: corrected seats of AD alliance members, added Ref and updated source
+    * PRT election EP 1994: corrected vote share
+    * PRT party: added PAN; recoded party family PSD; removed Benoit/Laver ID from PDC
+    * SVN party: removed SA and LU
+    * SWE election 1985: updated source, corrected turnout data, coded alliance member 
+
+Webpage ¶
+
+    * party -- show information about electoral alliances and alliance members in election results (superscript symbol)
+    * party -- show party foundation date
+    * party -- show only year of party change if date is coded as 1 July (default for unknown day/month)
+    * election, cabinet -- show name of party for elections and cabinets based on information in table 'party_name_change' (if available)
+    * election -- moved information about 'Changes of party composition in parliament' into experimental version
+    * election -- show only results for more than 0.5% vote share
+    * cabinet -- don't show termination date (experimental version observation only)
+    * external -- corrected publication year references for Castles/Mair, Ray and EU Profiler
+    * data sources -- cleaned up names of some of the entries 
+
+Database ¶
+
+    * 'view_cabinet' -- fixed issue in view definition to include all cabinets -- ticket:65
+    * new table -- 'cabinet_support' to include parties that support (minority) cabinets (experimental version)
+    * new table -- 'party_family' to include additional party families for a party (experimental version)
+    * 'view_election' -- added variable 'previous_cabinet_id'
+    * tables 'party', 'party_change', 'party_name_change' -- added column 'data_source'
+    * table 'party' -- added column 'description'
+    * table 'party' -- added column 'foundation_date' (experimental version)
+    * table 'party_change' -- added variable 'type_id' (experimental version) 
+
+
+Version 10/11 ¶
+
+Released 16 November 2010 -- milestone:1.1 -- Florence
+Summary ¶
+
+    * complete database refactoring -- recoding of table/variable names and all id variables -- see below
+    * new web design -- Jens Hoffmeister (underline webdesign Berlin) 2010
+    * new data: European Election Study (2009) party ids added; Belgium, United Kingdom, Portugal, Latvia updated from seats to votes level data; Swiss cabinets since 1945 added
+    * recent elections and cabinets until October 2010 and data corrections -- see below 
+
+Data ¶
+New information ¶
+
+    * elections 2010 added: HUN, GBR, CZE, NLD, SVK, BEL, SWE, AUS, LVA
+    * cabinets 2010 added: NLD Balkenende V, ROU Bejinariu, HUN Orban II, GBR Cameron, JPN Kan, FIN Kiviniemi, AUS Gillard, SVK Radicova, CZE Necas, SWE Reinfeldt, AUS Gillard II, LVA Dombrovskis III, 
+
+    * updated from seats to votes level data: BEL, GBR, PRT, LVA 
+
+    * European Election Study (2009) party ids added
+    * CHE all cabinets since 1945 added
+    * POL parliament_change -- specification of party composition changes in 2007 parliament 
+
+Corrections ¶
+
+    * BEL cabinet -- recoded party ids for CVP and SP to CD&V/N-VA and SPA/Spirit for all cabinets after 2003 election
+    * BEL cabinet -- removed orphaned observations from 'cab_party' (old_cabID 19600, 19731, 19732, 19760)
+    * BEL cabinet -- renamed Eyskens 1981 into 'Eyskens M'
+    * BGR cabinet -- Stanishev cabinet coding of BSP as KzB
+    * BIH party -- added parties (old_partyID: 11, 15, 21, 22, 26, 30) to match all CMP parties
+    * CAN cabinet -- Diefenbaker II and III added
+    * CAN cabinet -- St-Laurent split into I, II, II
+    * CAN cabinet -- King III dates corrected
+    * CZE cabinet -- Tosovsky coded as 'caretaker'
+    * CZE election -- recoding 'election_date' to last date of election and adding 'opening_date' to 'datajson'
+    * CZE party -- recoded and removed HSD/SMS duplicate ('old_partyID' 52)
+    * ESP election ep -- 2004 and 2009 EP election results updated with official sources
+    * ESP party -- recoded I ('old_partyID' 71) into IU/PCE ('old_partyID' 57)
+    * EST parties -- RKI (1992); RKI/ERSPI, ERSP, I (1995) and affected elections/cabinets -- revising
+    * FIN cabinet -- Aura II corrected 'start_date' and 'end_date'
+    * FIN cabinet -- Barre I, Barre II added observations for non-partisan prime ministers ('pm') to 'cabinet_party'
+    * FIN cabinet -- Fagerholm II, added L (Liberals)
+    * FIN cabinet -- Fagerholm III and Virolainen added Liberals
+    * FIN cabinet -- Kekkonen II, added RKP
+    * FIN cabinet -- Lipponen I, added VAS
+    * FIN cabinet -- Lipponen II, split into II and III following resignation of VIHR
+    * FIN cabinet -- Paasikivi, Fieandt, Kuuskoski, Lehto, Aura I, Aura II, Liinamaa added observations for non-partisan prime ministers ('pm') to 'cabinet_party'
+    * FIN cabinet -- Sukselainen, Karjalainen, Sorsa II, Sorsa III, Holkeri, Aho recoded as several cabinets due to change in party composition
+    * FRA cabinet -- Fillon I,II corrected cabinet name
+    * FRA cabinet -- Barre II 'starting_date' recoded
+    * GBR cabinet -- Eden government split into Eden I and Eden II
+    * GBR election -- 1945 corrections
+    * GER cabinet -- Adenauer II split into several cabinets and coding of party changes
+    * GRC cabinet -- renamed Karamanlis cabinets to avoid duplicated cabinet names
+    * HUN cabinet -- Bajnai corrected cabinet name
+    * HUN cabinet -- Gyurcsan III removed SzDSz
+    * ITA cabinet -- Prodi I and Amato II added observations for non-partisan prime ministers ('pm') to 'cabinet_party'
+    * ITA cabinet -- Moro I government split into I, II, III and recoded later Moro governments into IV and V
+    * ITA cabinet -- Spadolini and Craxi government split into I and II
+    * ITA party -- PdL duplicate recoded and removed ('old_partyID' 151)
+    * ITA party/alliance -- CCD/CDU unified; recoded old_partyID 140 into 53
+    * JPN cabinet -- Hatoyama I added DSP and KS
+    * JPN cabinet -- Koizumo II 'start_date' recoded to 2003-11-19; previous coding was linked to 2000 election results
+    * JPN cabinet -- Ohira I corrected 'start_date'
+    * LTU cabinet -- renamed Vagnorius cabinets by adding I and II
+    * LTU party -- LSDP split into two parties and recoded pre 2001 election results of LSDP to new party ID
+    * LVA cabinet -- 1998 legislative term correction of party composition for cabinets
+    * LVA cabinet -- Dombrovskis 2009 added
+    * LVA cabinet -- Skele I and Skele II added observations for non-partisan prime ministers ('pm') to 'cabinet_party'
+    * LVA election -- revision of election results (esp. 2002) during update to vote level data
+    * NLD cabinet -- coding of 'defector' parties
+    * MLT cabinet -- renamed cabinets to avoid duplicated cabinet names
+    * NLD cabinet -- Den Uyl government split into Den Uyl I and Den Uyl II (caretaker)
+    * NZL cabinet -- Howard I split into two cabinets taking 1951 election into account
+    * POL cabinet -- Kaczynski I, II, III, IV recoded into one cabinet -- following more specified cabinet coding rules
+    * POL cabinet -- Marcinkiewicz II corrected 'startingDate' from 2005 to 2006
+    * POL cabinet -- Pawlak I -- added party
+    * POL cabinet -- Suchocka II coded as 'caretaker'
+    * POL election -- LiD dissolution in April 2008 coded
+    * POL election -- 1992 PO recoded into POC
+    * POL party -- recoding of some party families
+    * ROU cabinet -- Athanasiu, Bejinariu coded as 'caretaker'
+    * SVN cabinet -- Jansa 'startingDate' recoded to 2004-12-03; previous coding was linked to 2000 election results
+    * SVN cabinet -- Peterle parties recoded
+    * SVN cabinet -- Drnovsek II removed ZS
+    * SVN election -- 1990 election added
+    * SVN election -- added two seats to each election one for Italian and the other for Hungarian national community seat
+    * SVN party -- SLS/SKD recoded into SLS 
+
+    * corrected differences between coded and calculated (votes/votes_valid) vote shares -- except PRT (ticket:56) 
+
+Webpage ¶
+
+    * new web design 
+
+    * further information about cabinet below list of parties in cabinet
+    * list 'comment' in documentation of table variables
+    * show 0 seats on election result pages
+    * government type (minority, minimum winning, oversized) on cabinet pages and cabinet index ticket:36
+    * legend for tables on index pages of elections and cabinets
+    * Famfamfam silk icons for links to downloads
+    * information about recalculated seat shares in cabinet page
+    * smaller font size for election date on list of cabinets 
+
+Database ¶
+
+    * complete database refactoring
+          o renaming of tables and variables
+          o unique primary keys in all tables (variable 'id')
+                + old id variables are kept in core tables with prefix 'old_' (eg. 'old_partyID' in party table) 
+          o foreign key enforcement (in Django)
+          o 'data_json' variable for additional information in some tables (experimental version)
+          o coding of all 'id' variables in 'info_id' -- except variables with an own table (e.g. country, party, election) 
+
+Version 10/02 ¶
+
+Released 25 February 2010 -- milestone:1.0 -- Turin
+
+

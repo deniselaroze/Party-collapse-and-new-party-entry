@@ -235,9 +235,9 @@ dev.off()
 ### Empirical Analyses
 ###########################
 
-##########################
-### Success of new parties 
-############################
+##############################################
+### Success of new parties Table 3 Manuscript
+##############################################
 p1.n <- plm(np.vote~ lag(share.v.crash.tp1, 2)+lag(c.location.mean.tp1,  2)
            + log(population.wdi) + gdp.pct.chg     +  log(cpi.wdi+2) # + unempl.wdi
            + lag(n.parties, 1)  #+ pub_fin_new
@@ -729,7 +729,7 @@ texreg(file= paste0(bd, "eeu_models.tex", sep=""),
                         "Log time (+ 1)", "Mean Dist. Mag.", "Turnout", "Compulsory voting (Yes)",   
                          "Log vote share NP (t-1)" , "Log % votes * East Europe", "Location * East Europe"),
   reorder.coef=c( 2, 3, 14, 15, 4,5, 6, 7, 8, 9, 10, 11,12 ,  13, 1),
-  caption = "Pooled linear models controling for the impact of elections in post-soviet (East European) countries, their interaction
+  caption = "Pooled linear models controlling for the impact of elections in post-soviet (East European) countries, their interaction
   with the size of the collapsed party and location. The dependent variable is the log share of votes for new parties (+1).",
   label="table:eeu_models", stars = c(0.001, 0.01, 0.05, 0.1), #ci.force = T, ci.force.level = 0.95,
   booktabs = F, dcolumn = F,  sideways = F)
